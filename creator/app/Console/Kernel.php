@@ -24,7 +24,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-         $schedule->command('ded:create-files')->hourlyAt(15);
+         $schedule->command('ded:create-files')->hourlyAt(03);
     }
 
     /**
