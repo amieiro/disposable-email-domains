@@ -1,10 +1,10 @@
 ## Disposable Email Domains
 
-Daily automated generated disposable email domains lists, in txt and JSON format.
+Hourly automated generated disposable email domains lists, in txt and JSON format.
 
 This project uses these lists:
 
-- [https://github.com/andreis/disposable](https://github.com/andreis/disposable)
+- [https://github.com/andreis/disposable-email-domains](https://github.com/andreis/disposable-email-domains)
 - [https://github.com/fgribreau/mailchecker](https://github.com/fgribreau/mailchecker)
 - [https://github.com/ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
 - [https://github.com/martenson/disposable-email-domains](https://github.com/martenson/disposable-email-domains)
