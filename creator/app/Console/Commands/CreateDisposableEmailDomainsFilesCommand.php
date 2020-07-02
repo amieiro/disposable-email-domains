@@ -10,7 +10,9 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 {
     protected $textDenyFiles = [
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt',
+        'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains_mx.txt',
         'https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt',
+        'https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt',
         'https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf',
         'https://raw.githubusercontent.com/MattKetmo/EmailChecker/master/res/throwaway_domains.txt',
         'https://raw.githubusercontent.com/micke/valid_email2/master/config/disposable_email_domains.txt',
@@ -26,6 +28,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     protected $textAllowFiles = [
         'https://raw.githubusercontent.com/andreis/disposable/master/whitelist.txt',
+        'https://raw.githubusercontent.com/kslr/disposable-email-domains/master/whitelist.txt',
         'https://raw.githubusercontent.com/maximeg/email_inquire/master/data/common_providers.txt',
     ];
 

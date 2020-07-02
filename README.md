@@ -7,6 +7,7 @@ This project uses these lists:
 - [https://github.com/andreis/disposable-email-domains](https://github.com/andreis/disposable-email-domains)
 - [https://github.com/fgribreau/mailchecker](https://github.com/fgribreau/mailchecker)
 - [https://github.com/ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
+- [https://github.com/kslr/disposable-email-domains](https://github.com/kslr/disposable-email-domains)
 - [https://github.com/martenson/disposable-email-domains](https://github.com/martenson/disposable-email-domains)
 - [https://github.com/MattKetmo/EmailChecker](https://github.com/MattKetmo/EmailChecker)
 - [https://github.com/maximeg/email_inquire](https://github.com/maximeg/email_inquire)
