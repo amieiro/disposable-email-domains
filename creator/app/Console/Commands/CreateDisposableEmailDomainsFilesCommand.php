@@ -100,7 +100,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             file_put_contents($this->textAllowFile, implode(PHP_EOL, array_values($allowDomains)));
             file_put_contents($this->jsonAllowFile, json_encode(array_values($allowDomains), JSON_PRETTY_PRINT));
             exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
-            exec('git -C .. push');
+            exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . '; git -C .. push)');
         } catch (\Exception $error) {
             Log::error('Error processing the domains. ' . PHP_EOL . $error);
         }
