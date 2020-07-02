@@ -5,13 +5,18 @@ Hourly automated generated disposable email domains lists, in txt and JSON forma
 This project uses these lists:
 
 - [https://github.com/andreis/disposable-email-domains](https://github.com/andreis/disposable-email-domains)
+- [https://github.com/auth0-signals/disposable-email-domains](https://github.com/auth0-signals/disposable-email-domains)
+- [https://github.com/di/disposable-email-domains](https://github.com/di/disposable-email-domains)
 - [https://github.com/fgribreau/mailchecker](https://github.com/fgribreau/mailchecker)
+- [https://github.com/GeroldSetz/emailondeck.com-domains](https://github.com/GeroldSetz/emailondeck.com-domains)
 - [https://github.com/ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
+- [https://github.com/jespernissen/disposable-maildomain-list](https://github.com/jespernissen/disposable-maildomain-list)
 - [https://github.com/kslr/disposable-email-domains](https://github.com/kslr/disposable-email-domains)
 - [https://github.com/martenson/disposable-email-domains](https://github.com/martenson/disposable-email-domains)
 - [https://github.com/MattKetmo/EmailChecker](https://github.com/MattKetmo/EmailChecker)
 - [https://github.com/maximeg/email_inquire](https://github.com/maximeg/email_inquire)
 - [https://github.com/micke/valid_email2](https://github.com/micke/valid_email2)
+- [https://github.com/smudge/freemail](https://github.com/smudge/freemail)
 - [https://github.com/wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers)
 - [https://github.com/willwhite/freemail](https://github.com/willwhite/freemail)
 - [https://gist.github.com/adamloving/4401361](https://gist.github.com/adamloving/4401361)
