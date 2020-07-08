@@ -15932,6 +15932,7 @@ be-tax-prep-ok.live
 be-trucks-hub.live
 be.dummyfox.com
 be.estabbi.com
+be.hammerhandz.com
 be.heartmantwo.com
 be.hellohappy2.com
 be.makingdomes.com
@@ -44350,6 +44351,7 @@ go.baburn.com
 go.com
 go.frienced.com
 go.irc.so
+go.opheliia.com
 go.ro
 go.ru
 go1.site
@@ -112108,6 +112110,7 @@ winteries.xyz
 winterize843tp.online
 wintersbootsonline.info
 wintershop.icu
+wintersupplement.com
 wintopaywin.fun
 wintopaywin.host
 wintopaywin.press
