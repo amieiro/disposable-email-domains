@@ -41626,7 +41626,6 @@ ftpinc.ca
 ftr4transcribers.com
 ftr4transcript.com
 ftrader.net
-ftredo.site
 ftrltd.org
 ftrserver.info
 ftrtranscript.com
@@ -48574,6 +48573,7 @@ high.foodforhat.com
 high.martinandgang.com
 high.tips
 high.warboardplace.com
+high.yoshisad.com
 highbeam.io
 highbros.org
 highcafe-athlone.com
