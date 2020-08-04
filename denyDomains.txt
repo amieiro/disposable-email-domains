@@ -8287,6 +8287,7 @@ about.geomenon.com
 about.hellohappy2.com
 about.makingdomes.com
 about.martinandgang.com
+about.popautomated.com
 about.yoshisad.com
 aboutallah.net
 aboutbothann.org
@@ -26234,6 +26235,7 @@ cloud-node.online
 cloud-server.email
 cloud.blatnet.com
 cloud.findingperry.com
+cloud.hellohappy2.com
 cloud.pushpophop.com
 cloud.qwertylock.com
 cloud.relucius.com
@@ -40680,6 +40682,7 @@ finance.frequiry.com
 finance.heartmantwo.com
 finance.inblazingluck.com
 finance.memberty.com
+finance.popautomated.com
 finance.radities.com
 finance.ragnortheblue.com
 finance.resistingmoney.com
@@ -42863,6 +42866,7 @@ from-mexico.com
 from-outerspace.com
 from-russia.com
 from-spain.net
+from.blatnet.com
 from.crossandgarlic.com
 from.eurasia.cloudns.asia
 from.farthy.com
@@ -56297,6 +56301,7 @@ jabpid.com
 jabqjgxo.shop
 jaccede.net
 jacckpot.site
+jack.modernsailorclothes.com
 jack762.info
 jackaoutlet.com
 jackdouglas.online
@@ -76372,6 +76377,7 @@ net-shopping.com
 net-solution.info
 net.360ezzz.com
 net.carmanial.com
+net.cowsnbullz.com
 net.discopied.com
 net.dobunny.com
 net.findingperry.com
@@ -76575,7 +76581,6 @@ neuro-safety.org
 neuro.md
 neuro7-shop.ru
 neuro7system.ru
-neurobraincenter.com
 neuroect.com
 neurohr34.modernsailorclothes.com
 neuroleadershipsolutions.org
@@ -105453,6 +105458,7 @@ theluxurycloset.info
 them.fanficforum.com
 them.hellohappy2.com
 them.islaby.com
+them.marksypark.com
 them.poisedtoshrike.com
 them.zanycabs.com
 themadfishicist.com
@@ -121180,7 +121186,6 @@ yesese.xyz
 yesey.net
 yesferadyim.ga
 yesgotour.com
-yesgreenenergy.com
 yesilyurtkurye.xyz
 yesilyurtluyuz.com
 yesiyu.com
