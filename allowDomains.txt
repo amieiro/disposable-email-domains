@@ -24,9 +24,11 @@ aliceadsl.fr
 allmail.net
 antichef.com
 antichef.net
+aol.co.uk
 aol.com
 arcor.de
 att.net
+bbox.fr
 bellsouth.net
 bestmail.us
 bigpond.com
@@ -35,6 +37,7 @@ bluewin.ch
 blueyonder.co.uk
 bol.com.br
 brainonfire.net
+btinternet.com
 c2.hu
 centurytel.net
 charter.net
@@ -108,6 +111,7 @@ getbackinthe.kitchen
 gmail.com
 gmx.com
 gmx.de
+gmx.fr
 gmx.net
 gmx.us
 goat.si
@@ -130,6 +134,7 @@ hush.com
 hushmail.com
 hushmail.me
 i.ua
+icloud.com
 ig.com.br
 imap-mail.com
 imap.cc
@@ -188,12 +193,14 @@ neverbox.com
 nigge.rs
 nospammail.net
 ntlworld.com
+numericable.fr
 nus.edu.sg
 onet.pl
 optonline.net
 optusnet.com.au
 orange.fr
 outlook.com
+outlook.fr
 ownmail.net
 petml.com
 planet.nl
@@ -238,6 +245,7 @@ ssl-mail.com
 swift-mail.com
 sympatico.ca
 t-online.de
+talktalk.net
 telenet.be
 terra.com.br
 tfwno.gf
@@ -254,6 +262,7 @@ verizon.net
 veryfast.biz
 veryspeedy.net
 virgilio.it
+virginmedia.com
 voila.fr
 waifu.club
 wanadoo.fr
