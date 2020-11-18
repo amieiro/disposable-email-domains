@@ -39,10 +39,15 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/maximeg/email_inquire/master/data/common_providers.txt',
     ];
 
+    protected $jsonAllowFiles = [];
+
+    protected $secureDomainsArray;
+
     protected $textDenyFile = '../denyDomains.txt';
     protected $jsonDenyFile = '../denyDomains.json';
     protected $textAllowFile = '../allowDomains.txt';
     protected $jsonAllowFile = '../allowDomains.json';
+    protected $secureDomainsFile = '../secureDomains.txt';
 
     /**
      * The name and signature of the console command.
@@ -78,41 +83,85 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         $denyDomains = [];
         $allowDomains = [];
-        foreach ($this->textDenyFiles as $textDenyFile) {
-            try {
-                $denyDomains = array_merge($denyDomains, file($textDenyFile, FILE_IGNORE_NEW_LINES));
-            } catch (\Exception $error) {
-                Log::error('Error reading ' . $textDenyFile . PHP_EOL . $error);
-            }
-        }
-        foreach ($this->jsonDenyFiles as $jsonDenyFile) {
-            try {
-                $denyDomains = array_merge($denyDomains, json_decode(file_get_contents($jsonDenyFile)));
-            } catch (\Exception $error) {
-                Log::error('Error reading ' . $jsonDenyFile . PHP_EOL . $error);
-            }
-        }
-        foreach ($this->textAllowFiles as $textAllowFile) {
-            try {
-                $allowDomains = array_merge($allowDomains, file($textAllowFile, FILE_IGNORE_NEW_LINES));
-            } catch (\Exception $error) {
-                Log::error('Error reading ' . $textAllowFile . PHP_EOL . $error);
-            }
-        }
-        try {
-            sort($denyDomains, SORT_STRING);
-            $denyDomains = array_unique($denyDomains, SORT_STRING);
-            file_put_contents($this->textDenyFile, implode(PHP_EOL, array_values($denyDomains)));
-            file_put_contents($this->jsonDenyFile, json_encode(array_values($denyDomains), JSON_PRETTY_PRINT));
 
-            sort($allowDomains, SORT_STRING);
-            $allowDomains = array_unique($allowDomains, SORT_STRING);
-            file_put_contents($this->textAllowFile, implode(PHP_EOL, array_values($allowDomains)));
-            file_put_contents($this->jsonAllowFile, json_encode(array_values($allowDomains), JSON_PRETTY_PRINT));
-            exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
-            exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . '; git -C .. push)');
+        /*        foreach ($this->textDenyFiles as $textDenyFile) {
+                    try {
+                        $denyDomains = array_merge($denyDomains, file($textDenyFile, FILE_IGNORE_NEW_LINES));
+                    } catch (\Exception $error) {
+                        Log::error('Error reading ' . $textDenyFile . PHP_EOL . $error);
+                    }
+                }
+                foreach ($this->jsonDenyFiles as $jsonDenyFile) {
+                    try {
+                        $denyDomains = array_merge($denyDomains, json_decode(file_get_contents($jsonDenyFile)));
+                    } catch (\Exception $error) {
+                        Log::error('Error reading ' . $jsonDenyFile . PHP_EOL . $error);
+                    }
+                }
+                foreach ($this->textAllowFiles as $textAllowFile) {
+                    try {
+                        $allowDomains = array_merge($allowDomains, file($textAllowFile, FILE_IGNORE_NEW_LINES));
+                    } catch (\Exception $error) {
+                        Log::error('Error reading ' . $textAllowFile . PHP_EOL . $error);
+                    }
+                }*/
+        try {
+            $this->secureDomainsArray = file($this->secureDomainsFile, FILE_IGNORE_NEW_LINES);
+            $denyDomains = $this->obtainAllDomains($this->textDenyFiles, $this->jsonDenyFiles);
+            $allowDomains = $this->obtainAllDomains($this->textAllowFiles, $this->jsonAllowFiles);
+
+            $denyDomains = $this->removeSecureDomains($denyDomains);
+            $denyDomains = $this->removeDuplicates($denyDomains);
+            $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
+
+            $allowDomains = $this->addSecureDomains($allowDomains);
+            $allowDomains = $this->removeDuplicates($allowDomains);
+            $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
+
+            $this->commitChanges();
         } catch (\Exception $error) {
             Log::error('Error processing the domains. ' . PHP_EOL . $error);
         }
+    }
+
+    protected function obtainAllDomains(array $textFiles, array $jsonFiles): array
+    {
+        $domains = [];
+        foreach ($textFiles as $textFile) {
+            try {
+                $domains = array_merge($domains, file($textFile, FILE_IGNORE_NEW_LINES));
+            } catch (\Exception $error) {
+                Log::error('Error reading ' . $textFile . PHP_EOL . $error);
+            }
+            return $domains;
+        }
+    }
+
+    protected function addSecureDomains(array $domains): array
+    {
+        return array_merge($domains, $this->secureDomainsArray);
+    }
+
+    protected function removeSecureDomains(array $domains): array
+    {
+        return array_diff($domains, $this->secureDomainsArray);
+    }
+
+    protected function removeDuplicates(array $domains): array
+    {
+        sort($domains, SORT_STRING);
+        return array_unique($domains, SORT_STRING);
+    }
+
+    protected function saveToFiles(array $domains, string $textFile, string $jsonFile): void
+    {
+        file_put_contents($textFile, implode(PHP_EOL, array_values($domains)));
+        file_put_contents($jsonFile, json_encode(array_values($domains), JSON_PRETTY_PRINT));
+    }
+
+    protected function commitChanges()
+    {
+        exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
+        exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . '; git -C .. push)');
     }
 }
