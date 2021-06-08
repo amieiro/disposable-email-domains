@@ -1,5 +1,9 @@
 # List of free email address: https://www.mail.com/email/
 # and another well know free email domains
+126.com
+163.com
+188.com
+21cn.com
 2trom.com
 accountant.com
 acdcfan.com
@@ -29,6 +33,7 @@ bikerider.com
 birdlover.com
 blader.com
 boardermail.com
+brainonfire.net
 brazilmail.com
 brew-master.com
 brew-meister.com
@@ -44,6 +49,7 @@ clerk.com
 clubmember.org
 collector.org
 columnist.com
+com.ar
 comic.com
 computer4u.com
 consultant.com
@@ -73,10 +79,14 @@ engineer.com
 englandmail.com
 europe.com
 europemail.com
+example.com
+example.net
+example.org
 execs.com
 fastservice.com
 financier.com
 fireman.net
+freemail.hu
 galaxyhit.com
 gardener.com
 geologist.com
@@ -91,6 +101,7 @@ greenmail.net
 groupmail.com
 hackermail.com
 hairdresser.net
+hey.com
 hilarious.com
 hiphopfan.com
 homemail.com
@@ -98,6 +109,7 @@ hot-shot.com
 hotmail.com
 housemail.com
 humanoid.net
+i.ua
 icloud.com
 iname.com
 innocent.com
@@ -124,12 +136,14 @@ mail.com
 marchmail.com
 metalfan.com
 mexicomail.com
+mindless.com
 minister.com
 moscowmail.com
 munich.com
 musician.org
 muslim.com
 myself.com
+naver.com
 net-shopping.com
 ninfan.com
 nonpartisan.com
@@ -146,6 +160,7 @@ photographer.net
 physicist.net
 planetmail.com
 planetmail.net
+poczta.onet.pl
 polandmail.com
 politician.com
 post.com
@@ -156,6 +171,7 @@ protestant.com
 protonmail.ch
 protonmail.com
 publicist.com
+qq.com
 qualityservice.com
 radiologist.net
 ravemail.com
@@ -176,9 +192,12 @@ samerica.com
 sanfranmail.com
 scotlandmail.com
 secretary.net
+sibmail.com
+sina.com
 snakebite.com
 socialworker.net
 sociologist.com
+sohu.com
 solution4u.com
 songwriter.net
 spainmail.com
@@ -192,6 +211,7 @@ technologist.com
 theplate.com
 therapist.net
 toke.com
+tom.com
 toothfairy.com
 torontomail.com
 tvstar.com
@@ -205,3 +225,4 @@ writeme.com
 yahoo.com
 yahoo.es
 yandex.com
+yeah.net
