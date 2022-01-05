@@ -84,27 +84,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         $denyDomains = [];
         $allowDomains = [];
 
-        /*        foreach ($this->textDenyFiles as $textDenyFile) {
-                    try {
-                        $denyDomains = array_merge($denyDomains, file($textDenyFile, FILE_IGNORE_NEW_LINES));
-                    } catch (\Exception $error) {
-                        Log::error('Error reading ' . $textDenyFile . PHP_EOL . $error);
-                    }
-                }
-                foreach ($this->jsonDenyFiles as $jsonDenyFile) {
-                    try {
-                        $denyDomains = array_merge($denyDomains, json_decode(file_get_contents($jsonDenyFile)));
-                    } catch (\Exception $error) {
-                        Log::error('Error reading ' . $jsonDenyFile . PHP_EOL . $error);
-                    }
-                }
-                foreach ($this->textAllowFiles as $textAllowFile) {
-                    try {
-                        $allowDomains = array_merge($allowDomains, file($textAllowFile, FILE_IGNORE_NEW_LINES));
-                    } catch (\Exception $error) {
-                        Log::error('Error reading ' . $textAllowFile . PHP_EOL . $error);
-                    }
-                }*/
         try {
             $this->secureDomainsArray = file($this->secureDomainsFile, FILE_IGNORE_NEW_LINES);
             $denyDomains = $this->obtainAllDomains($this->textDenyFiles, $this->jsonDenyFiles);
