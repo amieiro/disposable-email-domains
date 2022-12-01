@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Log;
 class CreateDisposableEmailDomainsFilesCommand extends Command
 {
     protected $textDenyFiles = [
+        'https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/internalLists/tmail-mmomekong-com.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains_mx.txt',
         'https://raw.githubusercontent.com/auth0-signals/disposable-email-domains/master/dea.txt',
@@ -112,8 +113,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             } catch (\Exception $error) {
                 Log::error('Error reading ' . $textFile . PHP_EOL . $error);
             }
-            return $domains;
         }
+        return $domains;
     }
 
     protected function addSecureDomains(array $domains): array
