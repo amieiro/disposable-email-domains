@@ -21,7 +21,6 @@ This project uses these lists:
 - [https://github.com/willwhite/freemail](https://github.com/willwhite/freemail)
 - [https://gist.github.com/adamloving/4401361](https://gist.github.com/adamloving/4401361)
 - [https://gist.github.com/codeAshu/ebade8f300809a4079220f771265b0c4](https://gist.github.com/codeAshu/ebade8f300809a4079220f771265b0c4)
-- [https://gist.github.com/michenriksen/8710649](https://gist.github.com/michenriksen/8710649)
 
 ## Contact
 
