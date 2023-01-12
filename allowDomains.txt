@@ -5,6 +5,7 @@
 # https://github.com/disposable/disposable-email-domains/pull/32
 # https://github.com/disposable/disposable/issues/32
 # https://github.com/disposable/disposable/issues/41
+# https://github.com/disposable/disposable/issues/89
 # more freemailer
 123mail.org
 126.com
@@ -52,6 +53,7 @@ arcticmail.com
 artlover.com
 asia-mail.com
 asia.com
+asics.com
 atheist.com
 att.net
 auctioneer.net
