@@ -18458,6 +18458,7 @@ avz1.net
 avz3.net
 avzl.com
 avzvuk.ru
+aw.extenwer.com
 aw.kikwet.com
 aw135.com
 aw5u.us
@@ -23319,6 +23320,7 @@ bidenmail.xyz
 bidjapan.net
 bidli.com
 bidly.pw
+bidmail.store
 bidoggie.net
 bidolukampanya.online
 bidolukampanya.xyz
@@ -25050,6 +25052,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -43405,6 +43408,7 @@ dollpolemicdraw.website
 dollpop.com
 dollscountry.ru
 dollsshop.live
+dollstore.org
 dollxbetpinup.ru
 dolmentor.com
 dolnaa.asia
@@ -51569,6 +51573,7 @@ farmer.are.nom.co
 farmer.com
 farmerlife.us
 farmerrr.tk
+farmersargent.com
 farmerscatch.com
 farmersdictionary.com
 farmersreference.com
@@ -54546,6 +54551,7 @@ follownews.press
 followthetshirt.com
 followthewhiterabbit.ru
 folpjp.site
+fom8.com
 fomalhaut.lavaweb.in
 fombog.com
 fomentify.com
@@ -55048,6 +55054,7 @@ foundersworldsummit.com
 foundiage.site
 foundklinop.gq
 foundlowell.com
+foundtoo.com
 fountainsandgardens.com
 four.emailfake.ml
 four.fackme.gq
@@ -62008,6 +62015,7 @@ gtk9.com
 gtkesh.com
 gtmail.com
 gtmail.net
+gtmail.site
 gtmseal.com
 gtntqeryp.ga
 gtnv.email
@@ -68808,6 +68816,7 @@ ibabni.tk
 ibadan.site
 ibandar99.com
 ibanque.net
+ibansko.com
 ibantool.com
 ibaoju.com
 ibaxdiqyauevzf9.cf
@@ -76758,6 +76767,7 @@ katcang.tk
 katcat.pl
 katco.cd
 kate.1bd.pl
+kate6.org
 katergizmo.de
 katerinoskala.com
 katespade-factory.com
@@ -88049,6 +88059,7 @@ manlymail.net
 manlysurftv.com
 manlz.site
 manm.site
+manmail.site
 manmail.xyz
 manmancao3.com
 manmandirbus.com
@@ -92576,6 +92587,7 @@ mo2assty.com
 mo4p.com
 mo5xnj.us
 moabjeeprental.com
+moabuild.com
 moae.com
 moagloves.com
 moail.ru
@@ -96744,6 +96756,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 navigatortrans.ru
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
@@ -106985,6 +106999,7 @@ pet-care.com
 petadigital.net
 petadventures.tech
 petalheiressruddy.site
+petalmail.tk
 petalmail.xyz
 petalsandquill.com
 petanque-echt.online
@@ -113042,6 +113057,7 @@ qooqle.cc
 qopls.live
 qopmail.com
 qopow.com
+qopwfnpoqwieopqwe.ga
 qopxlox.com
 qoqb0.us
 qorikan.com
@@ -116204,6 +116220,7 @@ remaster.su
 remaxofnanaimopropertymanagement.com
 rembaongoc.com
 rembitmaster.ru
+remcold.live
 remedio-para-emagrecer.com
 remehan.ga
 remehan.ml
@@ -117392,6 +117409,7 @@ rika0525.com
 rikekvinner.com
 rikka-weaka.ru
 riko.site
+rikpol.site
 rikputs.space
 riks1337.site
 riku5210.akio94.downloadism.top
@@ -130451,6 +130469,7 @@ sudurr.mobi
 sudvestidelo.xyz
 suedcore.com
 suehuntdesign.com
+suemail.store
 suenct.work
 suenodelcamino.com
 sueshaw.com
@@ -133402,6 +133421,7 @@ tehs8ce9f9ibpskvg.ml
 tehs8ce9f9ibpskvg.tk
 tehsisri.email
 tehsisri.live
+tehsisri.tech
 tehsliv.ru
 tehsusu.cf
 tehsusu.ga
@@ -149506,6 +149526,7 @@ window-55.net
 window.adsbygoogle
 window.dataLayer
 window.livewire
+window.location
 window.onload
 windowconfigurator.com
 windowglassrepairs.xyz
