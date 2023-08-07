@@ -2,6 +2,7 @@
 # French university, e.g. <first>.<last-name>@2028.icam.fr
 # IANA Test Domains
 # List of free email address: https://www.mail.com/email/
+# Swiss Company
 # and another well know free email domains
 # https://github.com/disposable/disposable-email-domains/pull/32
 # https://github.com/disposable/disposable/issues/103
@@ -284,6 +285,7 @@ laposte.net
 legislator.com
 lendscape.com
 letterboxes.org
+liamekaens.com
 libero.it
 linuxmail.org
 list.ru
@@ -446,6 +448,7 @@ skynet.be
 snakebite.com
 sneakemail.com
 snkmail.com
+snkml.com
 socialworker.net
 sociologist.com
 sohu.com
@@ -462,6 +465,7 @@ speedymail.org
 ssl-mail.com
 starmail.co.za
 surgical.net
+swatch.com
 swedenmail.com
 swift-mail.com
 swissmail.com
