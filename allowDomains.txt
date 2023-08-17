@@ -16,6 +16,8 @@
 # https://github.com/disposable/disposable/issues/97
 # https://github.com/disposable/disposable/pull/104
 # more freemailer
+# onet.pl domain - https://github.com/disposable/disposable/issues/117
+# yahoo local domains - https://github.com/flotwig/disposable-email-addresses/pull/3
 123mail.org
 126.com
 139.com
@@ -50,6 +52,7 @@ allergist.com
 allmail.net
 alumni.com
 alumnidirector.com
+amorki.pl
 angelic.com
 antichef.com
 antichef.net
@@ -234,6 +237,7 @@ hey.com
 hilarious.com
 hiphopfan.com
 hitler.rocks
+home.de
 home.nl
 homemail.co.za
 homemail.com
@@ -313,6 +317,7 @@ mail-central.com
 mail-me.com
 mail-page.com
 mail.com
+mail.htl22.at
 mail.ru
 mail2world.com
 mailandftp.com
@@ -480,6 +485,7 @@ techie.com
 technologist.com
 telenet.be
 terra.com.br
+test.de
 tfwno.gf
 the-fastest.net
 the-quickest.com
@@ -500,6 +506,7 @@ torontomail.com
 tvstar.com
 tweakly.net
 ubicloud.com
+ukr.net
 umpire.com
 uol.com.br
 usa.com
