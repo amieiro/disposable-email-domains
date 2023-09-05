@@ -91,6 +91,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
+            $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
             $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
 
             $allowDomains = $this->addSecureDomains($allowDomains);
@@ -130,6 +131,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         sort($domains, SORT_STRING);
         return array_unique($domains, SORT_STRING);
+    }
+
+    protected function removeAllowedDomains(array $denyDomains, array $allowDomains): array
+    {
+        return array_diff($denyDomains, $allowDomains);
     }
 
     protected function saveToFiles(array $domains, string $textFile, string $jsonFile): void
