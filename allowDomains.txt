@@ -15,6 +15,7 @@
 # https://github.com/disposable/disposable/issues/94
 # https://github.com/disposable/disposable/issues/97
 # https://github.com/disposable/disposable/pull/104
+# https://github.com/disposable/disposable/pull/124
 # more freemailer
 # onet.pl domain - https://github.com/disposable/disposable/issues/117
 # yahoo local domains - https://github.com/flotwig/disposable-email-addresses/pull/3
@@ -428,6 +429,7 @@ religious.com
 repairman.com
 representative.com
 rescueteam.com
+riseup.net
 rocketmail.com
 rocketship.com
 ruffrey.com
@@ -529,6 +531,7 @@ worker.com
 workmail.co.za
 workmail.com
 writeme.com
+xmail.ru
 xoxy.net
 xsmail.com
 xwaretech.com
