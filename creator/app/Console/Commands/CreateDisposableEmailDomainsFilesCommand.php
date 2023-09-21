@@ -21,7 +21,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf',
         'https://raw.githubusercontent.com/MattKetmo/EmailChecker/master/res/throwaway_domains.txt',
         'https://raw.githubusercontent.com/micke/valid_email2/master/config/disposable_email_domains.txt',
-	    'https://raw.githubusercontent.com/smudge/freemail/master/data/disposable.txt',
+        'https://raw.githubusercontent.com/smudge/freemail/master/data/disposable.txt',
         'https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt',
         'https://raw.githubusercontent.com/willwhite/freemail/master/data/disposable.txt',
         'https://gist.githubusercontent.com/adamloving/4401361/raw/e81212c3caecb54b87ced6392e0a0de2b6466287/temporary-email-address-domains',
@@ -91,6 +91,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
+            $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
             $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
 
             $allowDomains = $this->addSecureDomains($allowDomains);
@@ -130,6 +131,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         sort($domains, SORT_STRING);
         return array_unique($domains, SORT_STRING);
+    }
+
+    protected function removeAllowedDomains(array $denyDomains, array $allowDomains): array
+    {
+        return array_diff($denyDomains, $allowDomains);
     }
 
     protected function saveToFiles(array $domains, string $textFile, string $jsonFile): void
