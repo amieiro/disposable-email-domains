@@ -6,6 +6,7 @@
 # Personal domain - https://github.com/ivolo/disposable-email-domains/pull/938
 # Swiss Company
 # and another well know free email domains
+# benilde.edu.ph - https://github.com/disposable/disposable/issues/128
 # https://github.com/disposable/disposable-email-domains/pull/32
 # https://github.com/disposable/disposable/issues/103
 # https://github.com/disposable/disposable/issues/106
