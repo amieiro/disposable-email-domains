@@ -124,7 +124,20 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     protected function removeSecureDomains(array $domains): array
     {
-        return array_diff($domains, $this->secureDomainsArray);
+        return array_udiff($domains, $this->secureDomainsArray, function ($domain, $secureDomain) {
+            // Remove domain with subdomain if the main domain is in the secure domains array
+            $matchesDomain = [];
+            $matchesSecureDomain = [];
+            preg_match('/(?<=\.)[^.]+\.[^.]+$/', $domain, $matchesDomain);
+            if (isset($matchesDomain[0])) {
+                $domain = $matchesDomain[0];
+            }
+            preg_match('/(?<=\.)[^.]+\.[^.]+$/', $secureDomain, $matchesSecureDomain);
+            if (isset($matchesSecureDomain[0])) {
+                $secureDomain = $matchesSecureDomain[0];
+            }
+            return strcmp($domain, $secureDomain);
+        });
     }
 
     protected function removeDuplicates(array $domains): array
