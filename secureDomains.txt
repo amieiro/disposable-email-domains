@@ -1,6 +1,8 @@
 # List of free email address: https://www.mail.com/email/
 # and another well know free email domains
 2trom.com
+8alias.com
+8shield.net
 accountant.com
 acdcfan.com
 activist.com
@@ -65,6 +67,7 @@ disposable.com
 doglover.com
 doramail.com
 dr.com
+dralias.com
 dublin.com
 dutchmail.com
 elvisfan.com
@@ -176,6 +179,9 @@ samerica.com
 sanfranmail.com
 scotlandmail.com
 secretary.net
+simplelogin.fr
+simplelogin.io
+slmail.me
 snakebite.com
 socialworker.net
 sociologist.com

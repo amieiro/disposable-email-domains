@@ -37,7 +37,9 @@
 420blaze.it
 4email.net
 50mail.com
+8alias.com
 8chan.co
+8shield.net
 aaathats3as.com
 accountant.com
 acdcfan.com
@@ -146,6 +148,7 @@ disposable.com
 doglover.com
 doramail.com
 dr.com
+dralias.com
 dublin.com
 dutchmail.com
 earthlink.net
@@ -452,9 +455,12 @@ shaw.ca
 shitposting.agency
 shitware.nl
 sibmail.com
+simplelogin.fr
+simplelogin.io
 sina.com
 sky.com
 skynet.be
+slmail.me
 snakebite.com
 sneakemail.com
 snkmail.com
