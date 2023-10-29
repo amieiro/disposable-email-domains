@@ -29,6 +29,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     ];
 
     protected $jsonDenyFiles = [
+        'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json',
         'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/wildcard.json',
     ];
 
