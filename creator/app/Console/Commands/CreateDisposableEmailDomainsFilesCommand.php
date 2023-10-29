@@ -179,6 +179,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     protected function commitChanges(): void
     {
         exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
-        exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . ' -p ' .getenv('SSH_RSA_KEY_PASS') . '; git -C .. push)');
+        exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . ' -p ' . getenv('SSH_RSA_KEY_PASS') . '; git -C .. push)');
     }
 }
