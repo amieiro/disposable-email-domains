@@ -150,6 +150,7 @@ doramail.com
 dr.com
 dralias.com
 dublin.com
+duck.com
 dutchmail.com
 earthlink.net
 elitemail.org
