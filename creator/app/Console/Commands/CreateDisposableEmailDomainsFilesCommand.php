@@ -89,18 +89,18 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         $allowDomains = [];
 
         try {
-            $this->secureDomainsArray = file($this->secureDomainsFile, FILE_IGNORE_NEW_LINES);
-            $denyDomains = $this->obtainAllDomains($this->textDenyFiles, $this->jsonDenyFiles);
-            $allowDomains = $this->obtainAllDomains($this->textAllowFiles, $this->jsonAllowFiles);
-
-            $denyDomains = $this->removeSecureDomains($denyDomains);
-            $denyDomains = $this->removeDuplicates($denyDomains);
-            $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
-            $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
-
-            $allowDomains = $this->addSecureDomains($allowDomains);
-            $allowDomains = $this->removeDuplicates($allowDomains);
-            $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
+//            $this->secureDomainsArray = file($this->secureDomainsFile, FILE_IGNORE_NEW_LINES);
+//            $denyDomains = $this->obtainAllDomains($this->textDenyFiles, $this->jsonDenyFiles);
+//            $allowDomains = $this->obtainAllDomains($this->textAllowFiles, $this->jsonAllowFiles);
+//
+//            $denyDomains = $this->removeSecureDomains($denyDomains);
+//            $denyDomains = $this->removeDuplicates($denyDomains);
+//            $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
+//            $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
+//
+//            $allowDomains = $this->addSecureDomains($allowDomains);
+//            $allowDomains = $this->removeDuplicates($allowDomains);
+//            $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
 
             $this->commitChanges();
         } catch (\Exception $error) {
@@ -171,7 +171,12 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         file_put_contents($jsonFile, json_encode(array_values($domains), JSON_PRETTY_PRINT));
     }
 
-    protected function commitChanges()
+    /**
+     * Commit the changes to the repository
+     *
+     * @return void
+     */
+    protected function commitChanges(): void
     {
         exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
         exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . ' -p ' .getenv('SSH_RSA_KEY_PASS') . '; git -C .. push)');
