@@ -107,6 +107,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     protected function obtainAllDomains(array $textFiles, array $jsonFiles): array
     {
         $domains = [];
+
         foreach ($textFiles as $textFile) {
             try {
                 $domains = array_merge($domains, file($textFile, FILE_IGNORE_NEW_LINES));
@@ -114,6 +115,15 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
                 Log::error('Error reading ' . $textFile . PHP_EOL . $error);
             }
         }
+
+        foreach ($jsonFiles as $jsonFile) {
+            try {
+                $domains = array_merge($domains, json_decode(file_get_contents($jsonFile), true));
+            } catch (\Exception $error) {
+                Log::error('Error reading ' . $jsonFile . PHP_EOL . $error);
+            }
+        }
+
         return $domains;
     }
 
