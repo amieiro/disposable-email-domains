@@ -7,6 +7,7 @@
 # Swiss Company
 # and another well know free email domains
 # benilde.edu.ph - https://github.com/disposable/disposable/issues/128
+# company site - https://github.com/disposable/disposable/issues/134
 # https://github.com/disposable/disposable-email-domains/pull/32
 # https://github.com/disposable/disposable/issues/103
 # https://github.com/disposable/disposable/issues/106
@@ -19,6 +20,8 @@
 # https://github.com/disposable/disposable/pull/124
 # more freemailer
 # onet.pl domain - https://github.com/disposable/disposable/issues/117
+# owner changed - https://github.com/disposable/disposable/issues/129
+# owner changed - https://github.com/disposable/disposable/issues/133
 # yahoo local domains - https://github.com/flotwig/disposable-email-addresses/pull/3
 123mail.org
 126.com
@@ -58,6 +61,7 @@ alumni.com
 alumnidirector.com
 amorki.pl
 angelic.com
+angi.com
 antichef.com
 antichef.net
 aol.co.uk
@@ -103,6 +107,7 @@ californiamail.com
 caramail.com
 cash4u.com
 catlover.com
+cbamboo.com
 centurytel.net
 charter.net
 cheerful.com
@@ -172,7 +177,6 @@ example.net
 example.org
 exclusivemail.co.za
 execs.com
-executive.co.za
 f-m.fm
 facebook.com
 fast-email.com
@@ -413,6 +417,7 @@ protestant.com
 protonmail.ch
 protonmail.com
 publicist.com
+purple.dev
 qq.com
 qualityservice.com
 radiologist.net
