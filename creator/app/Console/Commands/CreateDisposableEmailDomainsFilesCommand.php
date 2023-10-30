@@ -92,6 +92,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $this->secureDomainsArray = file($this->secureDomainsFile, FILE_IGNORE_NEW_LINES);
             $denyDomains = $this->obtainAllDomains($this->textDenyFiles, $this->jsonDenyFiles);
             $allowDomains = $this->obtainAllDomains($this->textAllowFiles, $this->jsonAllowFiles);
+            $denyDomains = $this->removeLinesWithoutDomain($denyDomains);
+            $allowDomains = $this->removeLinesWithoutDomain($allowDomains);
 
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
@@ -136,6 +138,18 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         return array_merge($domains, $this->secureDomainsArray);
     }
 
+    /**
+     * Remove lines without a domain
+     *
+     * @param array $domains
+     * @return array
+     */
+    protected function removeLinesWithoutDomain(array $domains): array
+    {
+        return array_filter($domains, function ($domain) {
+            return ($domain !== "" && !str_starts_with($domain, "#"));
+        });
+    }
     protected function removeSecureDomains(array $domains): array
     {
         return array_udiff($domains, $this->secureDomainsArray, function ($domain, $secureDomain) {
