@@ -146727,7 +146727,6 @@ tuswatchslic.ml
 tuswatchslic.tk
 tut-turist.ru
 tut-zaycev.net
-tuta.io
 tutadocs.com
 tutadocs.net
 tutadocs.site
@@ -146738,7 +146737,6 @@ tutadox.store
 tutadox.tech
 tutamail.com
 tutankatour.com
-tutanota.com
 tutanota.de
 tutanote.com
 tutavideo.com
