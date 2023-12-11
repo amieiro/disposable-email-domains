@@ -30,6 +30,7 @@ aim.com
 aircraftmail.com
 airmail.cc
 airpost.net
+aleeas.com
 alice.it
 aliceadsl.fr
 allergist.com
@@ -372,6 +373,10 @@ outlook.fr
 ownmail.net
 pacific-ocean.com
 pacificwest.com
+passfwd.com
+passinbox.com
+passmail.com
+passmail.net
 pediatrician.com
 petlover.com
 petml.com
@@ -380,6 +385,7 @@ physicist.net
 planet.nl
 planetmail.com
 planetmail.net
+pm.me
 poczta.onet.pl
 polandmail.com
 politician.com
@@ -392,6 +398,7 @@ programmer.net
 proinbox.com
 promessage.com
 protestant.com
+proton.me
 protonmail.ch
 protonmail.com
 publicist.com
@@ -439,12 +446,16 @@ shaw.ca
 shitposting.agency
 shitware.nl
 sibmail.com
+silomails.com
+simplelogin.co
+simplelogin.com
 simplelogin.fr
 simplelogin.io
 sina.com
 sky.com
 skynet.be
 slmail.me
+slmails.com
 snakebite.com
 sneakemail.com
 snkmail.com
