@@ -351,6 +351,7 @@ photographer.net
 physicist.net
 planetmail.com
 planetmail.net
+pm.me
 poczta.onet.pl
 polandmail.com
 politician.com
@@ -363,6 +364,7 @@ programmer.net
 proinbox.com
 promessage.com
 protestant.com
+proton.me
 protonmail.ch
 protonmail.com
 publicist.com
@@ -411,6 +413,7 @@ sibmail.com
 simplelogin.fr
 simplelogin.io
 sina.com
+skiff.com
 sky.com
 slmail.me
 snakebite.com
@@ -458,7 +461,9 @@ tom.com
 toothfairy.com
 torontomail.com
 tuta.io
+tutamail.com
 tutanota.com
+tutanota.de
 tvstar.com
 tweakly.net
 ubicloud.com
