@@ -18860,7 +18860,6 @@ autoums.info
 autour-des-auteurs.info
 autowallet.bet
 autowb.com
-autoxugiare.com
 autozestanow.pl
 autozine.net
 autozoomer.ru
@@ -37447,6 +37446,7 @@ contact.thesupport.click
 contact.tryhelps.click
 contact123.dynainbox.com
 contact28.teamslabs.click
+contact75.thesupprts.click
 contactare.com
 contacterpro.com
 contacthq.click
@@ -87735,7 +87735,6 @@ livenewstab.com
 livenode.info
 livenode.online
 livenode.org
-livens.cloud
 livens.website
 livenudevideochat.com
 liveoctober2012.info
@@ -136085,6 +136084,7 @@ steamprank.com
 steampunkrider.com
 steamreal.ru
 steams.redirectme.net
+steams75.thesupprts.click
 steamstat.us
 steamsupport-tr.tk
 steamth.com
@@ -140030,7 +140030,9 @@ team1.opensupports.click
 team28.teamslabs.click
 team30.live
 team66.contctshq.click
+team68.supportapp.click
 team71.contcthq.click
+team75.thesupprts.click
 teamails.net
 teamandclub.ga
 teamapp.click
