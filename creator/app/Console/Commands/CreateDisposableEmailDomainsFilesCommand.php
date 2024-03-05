@@ -23,6 +23,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/MattKetmo/EmailChecker/master/res/throwaway_domains.txt',
         'https://raw.githubusercontent.com/micke/valid_email2/master/config/disposable_email_domains.txt',
         'https://raw.githubusercontent.com/smudge/freemail/master/data/disposable.txt',
+        'https://raw.githubusercontent.com/unkn0w/disposable-email-domain-list/main/domains.txt',
         'https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt',
         'https://raw.githubusercontent.com/willwhite/freemail/master/data/disposable.txt',
         'https://gist.githubusercontent.com/adamloving/4401361/raw/e81212c3caecb54b87ced6392e0a0de2b6466287/temporary-email-address-domains',
