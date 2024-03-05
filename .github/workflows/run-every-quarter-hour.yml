@@ -13,7 +13,7 @@ jobs:
       CI_COMMIT_AUTHOR: Jesús Amieiro
       CI_COMMIT_EMAIL: amieiro@users.noreply.github.com
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
