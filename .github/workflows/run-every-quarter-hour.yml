@@ -39,5 +39,5 @@ jobs:
         run: |
           git config --global user.name "Jesús Amieiro"
           git config --global user.email "amieiro@users.noreply.github.com"
-          git commit -a -m "Automatic generation"
+          git diff --quiet || git commit -m "Automatic generation"
           git push
