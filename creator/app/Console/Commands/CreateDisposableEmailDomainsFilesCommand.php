@@ -16,6 +16,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/di/disposable-email-domains/master/source_data/disposable_email_blocklist.conf',
         'https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt',
         'https://raw.githubusercontent.com/GeroldSetz/emailondeck.com-domains/master/emailondeck.com_domains_from_bdea.cc.txt',
+        'https://raw.githubusercontent.com/iocium/download.throwaway.cloud/main/list.txt',
         'https://raw.githubusercontent.com/jespernissen/disposable-maildomain-list/master/disposable-maildomain-list.txt',
         'https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt',
         'https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf',
