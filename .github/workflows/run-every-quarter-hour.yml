@@ -8,10 +8,7 @@ jobs:
   execute:
     name: Run the command to create the allow and the deny files
     runs-on: ubuntu-latest
-    env:
-      CI_COMMIT_MESSAGE: Automatic generation
-      CI_COMMIT_AUTHOR: Jesús Amieiro
-      CI_COMMIT_EMAIL: amieiro@users.noreply.github.com
+
     steps:
       - uses: actions/checkout@v4
 
@@ -40,7 +37,7 @@ jobs:
 
       - name: Commit the changes
         run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
-          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git config --global user.name "Jesús Amieiro"
+          git config --global user.email "amieiro@users.noreply.github.com"
+          git commit -a -m "Automatic generation"
           git push
