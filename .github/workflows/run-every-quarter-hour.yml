@@ -6,7 +6,7 @@ on:
 
 jobs:
   execute:
-    name: Run the command to crate the allow and the deny files
+    name: Run the command to create the allow and the deny files
     runs-on: ubuntu-latest
     env:
       CI_COMMIT_MESSAGE: Automatic generation
