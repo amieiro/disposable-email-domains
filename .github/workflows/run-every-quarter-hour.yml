@@ -1,0 +1,46 @@
+name: Run every quarter-hour
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  execute:
+    name: Run the command to crate the allow and the deny files
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: Automatic generation
+      CI_COMMIT_AUTHOR: Jesús Amieiro
+      CI_COMMIT_EMAIL: amieiro@users.noreply.github.com
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite, bcmath, soap, intl, gd, exif, iconv
+          coverage: none
+
+      - name: Run composer install
+        run: |
+          cd creator
+          composer install -n --prefer-dist
+
+      - name: Prepare Laravel Application
+        run: |
+          cd creator
+          cp .env.ci .env
+          php artisan key:generate
+
+      - name: Run the files creation command
+        run: |
+          cd creator 
+          php artisan ded:create-files
+
+      - name: Commit the changes
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
