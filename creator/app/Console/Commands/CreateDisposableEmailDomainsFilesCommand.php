@@ -106,7 +106,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $allowDomains = $this->removeDuplicates($allowDomains);
             $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
 
-            $this->commitChanges();
+            //$this->commitChanges();
         } catch (\Exception $error) {
             Log::error('Error processing the domains. ' . PHP_EOL . $error);
         }
