@@ -209,9 +209,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     function cleanDomains(array $domains): array
     {
         return array_map(function($domain) {
-            if (str_starts_with($domain, '#')) {
-                return ;
-            }
             if (str_starts_with($domain, '*.')) {
                 return substr($domain, 2);
             }
