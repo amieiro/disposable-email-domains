@@ -2,7 +2,7 @@
 
 Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format.
 
-You can find [here](https://github.com/amieiro/disposable-email-domains/blob/master/creator/app/Console/Commands/CreateDisposableEmailDomainsFilesCommand.php#L11) the lists used by this project to obtain the blocked and allowed domains. This project maintains this list of [secure domains](https://github.com/amieiro/disposable-email-domains/blob/master/secureDomains.txt).
+You can find [here](https://github.com/amieiro/disposable-email-domains/blob/master/creator/app/Console/Commands/CreateDisposableEmailDomainsFilesCommand.php#L16) the lists used by this project to obtain the blocked and allowed domains. This project maintains this list of [secure domains](https://github.com/amieiro/disposable-email-domains/blob/master/secureDomains.txt).
 
 ## Contact
 

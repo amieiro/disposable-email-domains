@@ -125,6 +125,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $allowDomains = $this->obtainAllDomains($this->textAllowFiles, $this->jsonAllowFiles);
             $denyDomains = $this->removeLinesWithoutDomain($denyDomains);
             $allowDomains = $this->removeLinesWithoutDomain($allowDomains);
+            $denyDomains = $this->cleanDomains($denyDomains);
+            $allowDomains = $this->cleanDomains($allowDomains);
 
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
@@ -179,7 +181,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      */
     protected function addSecureDomains(array $domains): array
     {
-        return array_merge($domains, $this->secureDomainsArray);
+        $secureDomains = $this->removeLinesWithoutDomain( $this->secureDomainsArray );
+        return array_merge($domains, $secureDomains);
     }
 
     /**
@@ -193,6 +196,31 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         return array_filter($domains, function ($domain) {
             return ($domain !== "" && !str_starts_with($domain, "#"));
         });
+    }
+
+    /**
+     * Clean the domains
+     *
+     * Remove the "*" and "." from the start of the domain.
+     *
+     * @param array $domains
+     * @return array
+     */
+    function cleanDomains(array $domains): array
+    {
+        return array_map(function($domain) {
+            if (str_starts_with($domain, '#')) {
+                return ;
+            }
+            if (str_starts_with($domain, '*.')) {
+                return substr($domain, 2);
+            }
+            if (str_starts_with($domain, '.')) {
+                return substr($domain, 1);
+            }
+
+            return $domain;
+        }, $domains);
     }
 
     /**
