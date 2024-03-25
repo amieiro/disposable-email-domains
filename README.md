@@ -17,6 +17,30 @@ to suggest some change, improvement, ... you can contact me through the
 - **allowDomains**. List of well-known email domains that are not disposable and should be allowed. Available in [txt](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.txt) and [json](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.json) format.
 - **secureDomains**. Internal list of known e-mail domains that are secure. Used to generate the denyDomains files.
 
+## Usage
+
+You can use these files in your projects to block disposable email domains. 
+- First, you should check if the domain is in the allow list, using the allowDomains file. 
+- If it is not, you should check if the domain is in the deny list, using the denyDomains file.
+
+For example, in PHP:
+
+```php
+$emailDomain = 'gmail.com';
+$allowDomains = file_get_contents('https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.json');
+$allowDomains = json_decode($allowDomains, true);
+if (in_array($emailDomain, $allowDomains)) {
+    echo 'This domain is allowed.';
+}
+
+$emailDomain = 'temp-mail.org';
+$denyDomains = file_get_contents('https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/denyDomains.json');
+$denyDomains = json_decode($denyDomains, true);
+if (in_array($emailDomain, $denyDomains)) {
+    echo 'This domain is disposable.';
+}
+```
+
 ## License
 
 This project and the files are open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
