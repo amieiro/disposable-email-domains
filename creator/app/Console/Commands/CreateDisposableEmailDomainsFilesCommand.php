@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Log;
 
 class CreateDisposableEmailDomainsFilesCommand extends Command
 {
+    /**
+     * The text files with the deny domains
+     *
+     * @var array
+     */
     protected $textDenyFiles = [
         'https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/internalLists/tmail-mmomekong-com.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt',
@@ -32,6 +37,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://throwaway.cloud/list.txt',
     ];
 
+    /**
+     * The json files with the deny domains
+     *
+     * @var array
+     */
     protected $jsonDenyFiles = [
         'https://raw.githubusercontent.com/Dahoom152/disposable-email/main/domains.json',
         'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json',
@@ -39,6 +49,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/Propaganistas/Laravel-Disposable-Email/master/domains.json',
     ];
 
+    /**
+     * The text files with the allow domains
+     *
+     * @var array
+     */
     protected $textAllowFiles = [
         'https://raw.githubusercontent.com/andreis/disposable/master/whitelist.txt',
         'https://raw.githubusercontent.com/di/disposable-email-domains/master/source_data/allowlist.conf',
@@ -46,14 +61,27 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/maximeg/email_inquire/master/data/common_providers.txt',
     ];
 
+    /**
+     * The json files with the allow domains
+     *
+     * @var array
+     */
     protected $jsonAllowFiles = [];
 
+    /**
+     * The secure domains
+     *
+     * @var array
+     */
     protected $secureDomainsArray;
 
+    /* The files to save the domains */
     protected $textDenyFile = '../denyDomains.txt';
     protected $jsonDenyFile = '../denyDomains.json';
     protected $textAllowFile = '../allowDomains.txt';
     protected $jsonAllowFile = '../allowDomains.json';
+
+    /* The internal file with the secure domains */
     protected $secureDomainsFile = '../secureDomains.txt';
 
     /**
@@ -113,6 +141,13 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         }
     }
 
+    /**
+     * Obtain all the domains from the text and json files
+     *
+     * @param array $textFiles The text files with the domains.
+     * @param array $jsonFiles The json files with the domains.
+     * @return array
+     */
     protected function obtainAllDomains(array $textFiles, array $jsonFiles): array
     {
         $domains = [];
@@ -136,6 +171,12 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         return $domains;
     }
 
+    /**
+     * Add the secure domains (internal list) to the allowed domains.
+     *
+     * @param array $domains
+     * @return array
+     */
     protected function addSecureDomains(array $domains): array
     {
         return array_merge($domains, $this->secureDomainsArray);
@@ -153,6 +194,13 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             return ($domain !== "" && !str_starts_with($domain, "#"));
         });
     }
+
+    /**
+     * Remove the secure domains from the deny domains.
+     *
+     * @param array $domains
+     * @return array
+     */
     protected function removeSecureDomains(array $domains): array
     {
         return array_udiff($domains, $this->secureDomainsArray, function ($domain, $secureDomain) {
@@ -171,17 +219,38 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         });
     }
 
+    /**
+     * Remove the duplicates from a domain list.
+     *
+     * @param array $domains
+     * @return array
+     */
     protected function removeDuplicates(array $domains): array
     {
         sort($domains, SORT_STRING);
         return array_unique($domains, SORT_STRING);
     }
 
+    /**
+     * Remove the allowed domains from the denied domains.
+     *
+     * @param array $denyDomains
+     * @param array $allowDomains
+     * @return array
+     */
     protected function removeAllowedDomains(array $denyDomains, array $allowDomains): array
     {
         return array_diff($denyDomains, $allowDomains);
     }
 
+    /**
+     * Save the domains to the text and json files.
+     *
+     * @param array $domains
+     * @param string $textFile
+     * @param string $jsonFile
+     * @return void
+     */
     protected function saveToFiles(array $domains, string $textFile, string $jsonFile): void
     {
         file_put_contents($textFile, implode(PHP_EOL, array_values($domains)));
