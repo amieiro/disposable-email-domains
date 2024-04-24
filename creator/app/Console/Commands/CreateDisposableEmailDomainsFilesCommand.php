@@ -59,6 +59,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/di/disposable-email-domains/master/source_data/allowlist.conf',
         'https://raw.githubusercontent.com/kslr/disposable-email-domains/master/whitelist.txt',
         'https://raw.githubusercontent.com/maximeg/email_inquire/master/data/common_providers.txt',
+        'https://raw.githubusercontent.com/sublime-security/static-files/master/high_trust_sender_root_domains.txt',
     ];
 
     /**
