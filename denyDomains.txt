@@ -92773,7 +92773,6 @@ mail.gmail.com.cad.edu.gr
 mail.gokir.eu
 mail.gosarlar.com
 mail.grassdev.com
-mail.greencafe24.com
 mail.grupogdm.com
 mail.guokse.net
 mail.gw
@@ -121133,7 +121132,6 @@ qdt.us
 qdv9c0.us
 qdwvzq.site
 qdyxjshs.com
-qe.fa2b.de
 qe41hqboe4qixqlfe.gq
 qe41hqboe4qixqlfe.ml
 qe41hqboe4qixqlfe.tk
@@ -143630,7 +143628,6 @@ temp.mail.y59.jp
 temp.matthancock.me
 temp.meshari.dev
 temp.qwertz.me
-temp.r3.wtf
 temp.ramdi.tk
 temp.wheezer.net
 temp.yopmail.cc
