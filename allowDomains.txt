@@ -137,6 +137,7 @@ cisco.com
 citi.com
 clearbit.com
 clerk.com
+cloudappsecurity.com
 cloudflare.com
 clubmember.org
 cluemail.com
@@ -644,6 +645,7 @@ shop.app
 shopify.com
 sibmail.com
 signin.aws
+signup.aws
 simplelogin.fr
 simplelogin.io
 sina.com
