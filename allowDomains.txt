@@ -141,6 +141,8 @@ clearbit.com
 clerk.com
 cloudappsecurity.com
 cloudflare.com
+cloudlabs.ai
+cloudlabsai.net
 clubmember.org
 cluemail.com
 cocaine.ninja
@@ -172,6 +174,7 @@ cyberservices.com
 dallasmail.com
 databricks.com
 datadoghq.com
+dataminr.com
 datasite.com
 dbzmail.com
 deity.co.nz
@@ -492,6 +495,7 @@ munich.com
 musician.org
 muslim.com
 myfastmail.com
+myisolved.com
 mymacmail.com
 myself.com
 myworkday.com
@@ -530,6 +534,7 @@ officedepot.com
 okta.com
 onemedical.com
 onet.pl
+onetrust.com
 ongoody.com
 openai.com
 opentable.com
@@ -569,6 +574,7 @@ postinbox.com
 postpro.net
 presidency.com
 priest.com
+primevideo.com
 principal.com
 programmer.net
 proinbox.com
@@ -640,6 +646,7 @@ sent.at
 sent.com
 sentinelone.com
 sentinelone.net
+sertifi.net
 service-now.com
 sfr.fr
 shitposting.agency
@@ -773,6 +780,7 @@ web.de
 webforms.io
 webmail.co.za
 webname.com
+webrootanywhere.com
 websurfer.co.za
 wellsfargo.com
 wikipedia.org
