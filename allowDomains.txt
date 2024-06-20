@@ -31,6 +31,7 @@ aim.com
 airbnb.com
 aircraftmail.com
 airmail.cc
+airmason.com
 airpost.net
 airtable.com
 aliceadsl.fr
@@ -46,6 +47,7 @@ amorki.pl
 amplitude.com
 angelic.com
 angi.com
+anthem.com
 antichef.com
 antichef.net
 aol.co.uk
@@ -344,6 +346,7 @@ hitler.rocks
 home.de
 homemail.co.za
 homemail.com
+homeoffice.gov.uk
 horsefucker.org
 hot-shot.com
 hotmail.co.uk
@@ -385,6 +388,7 @@ insurer.com
 intercom-mail.com
 intercom.com
 intercom.io
+intermountainhealth.org
 internationalsos.com
 internet-e-mail.com
 internet-mail.org
@@ -417,6 +421,7 @@ laposte.net
 legislator.com
 lendscape.com
 lenovo.com
+leo.gov
 letterboxes.org
 lever.co
 liamekaens.com
@@ -548,6 +553,7 @@ ops-trust.net
 optician.com
 optummessenger.com
 oracle.com
+oracleindustry.com
 orange.fr
 orthodontist.net
 outlook.com
@@ -644,6 +650,7 @@ sans.org
 sap.com
 sbcglobal.net
 schneier.com
+schoolmessengermail.com
 schwab.com
 scotlandmail.com
 secretary.net
@@ -805,6 +812,7 @@ xfinitymobile.com
 xmail.ru
 xmatters.com
 xoxy.net
+xpertsuite.nl
 xsmail.com
 xwaretech.com
 xwaretech.info
