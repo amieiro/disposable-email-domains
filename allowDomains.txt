@@ -75,6 +75,7 @@ auctioneer.net
 australiamail.com
 auth0.com
 authentisign.com
+aws.training
 axios.com
 bankofamerica.com
 barclays.com
@@ -575,6 +576,7 @@ petml.com
 photographer.net
 php.net
 physicist.net
+pilot.com
 plaid.com
 planetmail.com
 planetmail.net
