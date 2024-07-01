@@ -593,6 +593,7 @@ politician.com
 post.com
 postinbox.com
 postpro.net
+powerapps.com
 presidency.com
 priest.com
 primevideo.com
@@ -716,6 +717,7 @@ squareup.com
 ssl-mail.com
 starmail.co.za
 statefarm.com
+statuspage.io
 stripe.com
 stytch.com
 sublime.security
