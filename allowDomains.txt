@@ -309,6 +309,7 @@ gardener.com
 gartner.com
 geeksquad.com
 geico.com
+gem.com
 geologist.com
 germanymail.com
 getbackinthe.kitchen
@@ -571,6 +572,7 @@ ownmail.net
 ozk.com
 pacific-ocean.com
 pacificwest.com
+paddle.com
 pagerduty.com
 pandadoc.net
 paperspace.com
@@ -683,6 +685,7 @@ shopify.com
 sibmail.com
 signin.aws
 signup.aws
+simplelegal.com
 simplelogin.fr
 simplelogin.io
 sina.com
@@ -826,6 +829,7 @@ x.com
 xfinitymobile.com
 xmail.ru
 xmatters.com
+xoom.com
 xoxy.net
 xpertsuite.nl
 xsmail.com
