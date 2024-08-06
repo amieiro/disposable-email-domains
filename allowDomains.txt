@@ -218,6 +218,7 @@ duck.com
 duo.com
 duosecurity.com
 dutchmail.com
+e2estudios.com
 ebay.com
 echosign.com
 economist.com
@@ -285,6 +286,7 @@ fea.st
 fedex.com
 fidelity.com
 figma.com
+file-up.fr
 financier.com
 firemail.cc
 fireman.net
