@@ -46,6 +46,7 @@ amazonaws.com
 americanexpress.com
 amorki.pl
 amplitude.com
+ana.co.jp
 angelic.com
 angi.com
 anthem.com
@@ -219,6 +220,7 @@ duo.com
 duosecurity.com
 dutchmail.com
 e2estudios.com
+ebay.co.uk
 ebay.com
 echosign.com
 economist.com
