@@ -40751,6 +40751,7 @@ customer-poll-zone.online
 customer-surveys-panel.online
 customer.festivalday.click
 customer.flipapp.click
+customer.openflip.click
 customercare.triggerly.click
 customercares24.info
 customercove.com
