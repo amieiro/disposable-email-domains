@@ -377,6 +377,7 @@ housemail.com
 hpe.com
 hr.com
 hrblock.com
+hudl.com
 humanoid.net
 hush.ai
 hush.com
@@ -560,6 +561,7 @@ null.net
 numericable.fr
 nus.edu.sg
 nvoicepay.com
+ny.gov
 nycmail.com
 nytimes.com
 o2.pl
@@ -590,6 +592,7 @@ pandadoc.net
 paperspace.com
 pay1040.com
 paypal.com
+paypal.com.mx
 pediatrician.com
 personalhealthmessagecenter.com
 petlover.com
