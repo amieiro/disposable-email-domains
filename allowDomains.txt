@@ -62,6 +62,7 @@ appraiser.net
 archaeologist.com
 arcticmail.com
 ariba.com
+arkia.co.il
 army.mil
 artlover.com
 arxiv.org
@@ -125,6 +126,7 @@ calendly.com
 californiamail.com
 canada.ca
 canada.gc.ca
+canva.com
 caramail.com
 cardalert.com
 carta.com
