@@ -96466,6 +96466,7 @@ marketing-formula-inform.ru
 marketing-new-info.ru
 marketing-services.net
 marketing-toos.com
+marketing.caperapp.click
 marketing.travelhub.click
 marketing.travellabs.click
 marketing4all.click
@@ -123452,6 +123453,7 @@ question-app.com
 questionamusic.com
 questionlife.us
 questionman.biz
+questions.caperapp.click
 questions.feastday.click
 questions.vacly.click
 questionsystem.us
