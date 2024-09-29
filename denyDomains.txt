@@ -18620,6 +18620,7 @@ assist.monthoff.click
 assist.openinvestmentapp.com
 assist.staycation.click
 assist.termtimely.click
+assist.travelwifi.click
 assistance-bureautique.com
 assistedlivingfacilitesnearme.org
 assistedlivingfacilityfinder.org
@@ -37489,6 +37490,7 @@ cocknass.com
 cockpitdigital.com
 cocktailservice-tropical.de
 coclaims.com
+cocledge.com
 cocloseams.cf
 cocloseams.gq
 cocloseams.ml
@@ -131100,6 +131102,7 @@ sales.getflip.click
 sales.lol
 sales.meetflip.click
 sales.theflip.click
+sales.travelwifi.click
 salesac.xyz
 salesaf.xyz
 salesbb.xyz
