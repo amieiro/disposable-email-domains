@@ -18622,6 +18622,7 @@ assist.monthoff.click
 assist.openinvestmentapp.com
 assist.staycation.click
 assist.termtimely.click
+assist.thegambol.click
 assist.travelwifi.click
 assistance-bureautique.com
 assistedlivingfacilitesnearme.org
@@ -146194,6 +146195,7 @@ thai-palace-inn-takeaway.com
 thai4u.info
 thaibanvia.online
 thaibikemart.com
+thaibulk.site
 thaiedvisa.com
 thaifoodkinkin.com
 thaigarciniaextract.site
