@@ -26066,6 +26066,7 @@ bit-degree.com
 bit-ion.net
 bit-led.ru
 bit-tehnika.in.ua
+bit.sb
 bit2tube.com
 bit3716.com
 bit4826.com
@@ -145360,6 +145361,7 @@ temp.kasidate.me
 temp.mail.y59.jp
 temp.matthancock.me
 temp.meshari.dev
+temp.now
 temp.qwertz.me
 temp.ramdi.tk
 temp.wheezer.net
