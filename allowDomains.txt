@@ -500,6 +500,7 @@ mailservice.ms
 mailup.net
 mailworks.org
 malaysiaairlines.com
+manulife.com
 marchmail.com
 marriott.com
 mastercard-email.com
@@ -648,6 +649,7 @@ ramp.com
 rapid7.com
 ravemail.co.za
 ravemail.com
+rbc.com
 realemail.net
 reallyfast.biz
 reallyfast.info
