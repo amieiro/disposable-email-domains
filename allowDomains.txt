@@ -145,6 +145,7 @@ cheerful.com
 chef.net
 chemist.com
 chinamail.com
+chorus.ai
 cigna.com
 circleci.com
 cisa.gov
@@ -731,6 +732,7 @@ snkml.com
 snowflake.com
 socialworker.net
 sociologist.com
+socradar.com
 sohu.com
 solution4u.com
 songwriter.net
