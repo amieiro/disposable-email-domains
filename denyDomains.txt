@@ -124019,6 +124019,7 @@ quick-shopping.online
 quick.beachtourism.click
 quick.feastday.click
 quick.fetely.click
+quick.meetcruise.click
 quick.switchon.click
 quickanswer.beachtourism.click
 quickanswer.festivalday.click
