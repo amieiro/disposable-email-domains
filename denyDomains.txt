@@ -67870,6 +67870,7 @@ guid.monthoff.click
 guid.oppositehq.click
 guid.staycation.click
 guid.theroofings.com
+guidance.cruisehq.click
 guidance.fetely.click
 guidance.getturnon.click
 guidance.openinvestmentapp.com
@@ -111159,7 +111160,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:78336e7e7a9402f64be8e755ea828bf45c82b527b4c1b4039b3ac856300f8939
+oid sha256:4a390072b8843faa90e6b363b1ee8f6cc0c31a8e6c920afe6ba98eb0e5c87912
 oida.icu
 oidemail.com
 oidhdozens.com
@@ -112708,6 +112709,7 @@ opencart.cd
 opencartmarket.com
 opencmscheck.xyz
 openconstruction.org
+opencruise.click
 openculture.best
 opendbs.com
 opendbs.net
@@ -136934,7 +136936,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2665611
+size 2665652
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
