@@ -36926,6 +36926,7 @@ client.eshreky.com
 client.festivalday.click
 client.getcaper.click
 client.getgambol.click
+client.hikehq.click
 client.holidayrap.click
 client.makingdomes.com
 client.marksypark.com
