@@ -18719,6 +18719,7 @@ assist.staycation.click
 assist.termtimely.click
 assist.thegambol.click
 assist.travelwifi.click
+assist.trycruise.click
 assistance-bureautique.com
 assistance.galaday.click
 assistance.travelxp.click
@@ -38290,6 +38291,7 @@ comfort-tech.co
 comfort.carnivalday.click
 comfort.catchfoot.click
 comfort.celebrationapp.click
+comfort.cruisely.click
 comfort.falldown.click
 comfort.feastday.click
 comfort.losebalance.click
