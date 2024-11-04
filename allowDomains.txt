@@ -567,6 +567,7 @@ nih.gov
 ninfan.com
 nonpartisan.com
 nordvpn.com
+norton.com
 nospammail.net
 ntlworld.com
 null.net
@@ -717,6 +718,7 @@ shop.app
 shopify.com
 sibmail.com
 signin.aws
+signnow.com
 signup.aws
 simplelegal.com
 simplelogin.fr
