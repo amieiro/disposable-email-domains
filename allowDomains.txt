@@ -332,6 +332,7 @@ gem.com
 geologist.com
 germanymail.com
 getbackinthe.kitchen
+gide.com
 github.com
 gitlab.com
 glassdoor.com
@@ -840,6 +841,7 @@ verizon.net
 verizonwireless.com
 veryfast.biz
 veryspeedy.net
+vfemail.net
 virginmedia.com
 virtru.com
 vivint.com
