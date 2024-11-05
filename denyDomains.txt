@@ -32738,6 +32738,7 @@ care-me.shop
 care.feastday.click
 care.fliphq.click
 care.setoffly.click
+care.trekhq.click
 carearoverseas.com
 careconnectbeta.com
 caredeliveryu.com
@@ -95841,6 +95842,7 @@ mailuk.site
 mailuniverse.co.uk
 mailur.com
 mailure.pro
+mailus.cruiseapp.click
 mailus.ga
 mailus.gambolhq.click
 mailus.getsome.click
