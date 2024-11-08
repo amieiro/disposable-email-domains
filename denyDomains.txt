@@ -32507,6 +32507,7 @@ cantumoda.com
 canuitus.com
 canuster.xyz
 canvagiare.me
+canvasaffiliate.com
 canvasarttalk.com
 canvasinlive.com
 canvasium.com
@@ -36581,6 +36582,7 @@ cl.gl
 cl0ne.net
 cl2004.com
 claarcellars.com
+clabel.online
 cladconsulting.com
 claimab.com
 claimdai.xyz
@@ -41420,6 +41422,7 @@ customer.festivalday.click
 customer.flipapp.click
 customer.openflip.click
 customer.travelly.click
+customer.trekhq.click
 customer.vacly.click
 customercare.hikehub.click
 customercare.triggerly.click
@@ -45888,6 +45891,7 @@ dinheiroextranaweb.com
 dinheironet.life
 dinhtamdan.com
 dinhtanfb.online
+dinhtuan.site
 dinhtuan02.shop
 dini.onthewifi.com
 dinic.xyz
@@ -101437,6 +101441,8 @@ mmnr.memberty.com
 mmnr.pancingqueen.com
 mmnr.ragnortheblue.com
 mmnr.wirelax.com
+mmo05.com
+mmo2000.asia
 mmo365.co.uk
 mmoaia.com
 mmobackyard.com
@@ -111473,7 +111479,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:72fb15b09ab3037c948e07c82b6cd81be6ebe7fdfa95a2b1f8ae9e86dad6d1ad
+oid sha256:7d4b03890d8abe26c9f526ed3b21a0c89e200eeaa0e734c78782cb06f08461f3
 oida.icu
 oidemail.com
 oidhdozens.com
@@ -137333,7 +137339,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2672967
+size 2673410
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -160793,6 +160799,7 @@ w5o3k.anonbox.net
 w5p.ru
 w5q.ru
 w5t.ru
+w5uxx.anonbox.net
 w634634.ga
 w63507.ga
 w656n4564.cf
