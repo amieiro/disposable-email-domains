@@ -38368,6 +38368,7 @@ comfort.celebrationapp.click
 comfort.cruisely.click
 comfort.falldown.click
 comfort.feastday.click
+comfort.getfrisk.click
 comfort.losebalance.click
 comfort.openinvestmentapp.com
 comfort.runlightly.click
@@ -41320,6 +41321,7 @@ cure.boobly.click
 cure.cruiseapp.click
 cure.openinvestmentapp.com
 cure.triggerly.click
+cure.trycruise.click
 cure2children.com
 cureartstudio.com
 curechs.org
@@ -61212,6 +61214,7 @@ friscaa.ml
 friscaa.tk
 friscoescaperooms.com
 frishastmigfors.tk
+friskapp.click
 friskytaphouse.com
 frisyrer.website
 frite-haus-takeaway.com
@@ -111485,7 +111488,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:95cb035323a26a040ae156c93a830d7e8f803e75e39c4217af031641f042bd28
+oid sha256:1ba91b468e4a88e46eb742734794bc68abdf8e3b3514c0bf7e7addc7260b106f
 oida.icu
 oidemail.com
 oidhdozens.com
@@ -137345,7 +137348,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2673608
+size 2673692
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
