@@ -35,6 +35,7 @@ airmail.cc
 airmason.com
 airpost.net
 airtable.com
+alertmedia.com
 aliceadsl.fr
 allergist.com
 allmail.net
@@ -74,6 +75,7 @@ associatedpress.com
 atheist.com
 atlassian.com
 atlassian.net
+att-mail.com
 att.net
 auctioneer.net
 australiamail.com
@@ -250,6 +252,7 @@ emailrep.io
 emailuser.net
 eml.cc
 empforce.com
+empiresuite.com
 engineer.com
 englandmail.com
 equifax.com
@@ -570,6 +573,7 @@ ninfan.com
 nonpartisan.com
 nordvpn.com
 norton.com
+nortonlifelock.com
 nospammail.net
 ntlworld.com
 null.net
@@ -826,6 +830,7 @@ ubicloud.com
 ubs.com
 ukg.com
 ukr.net
+ultipro.com
 umpire.com
 united.com
 urbanoutfitters.com
