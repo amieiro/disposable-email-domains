@@ -306,6 +306,7 @@ fidelity.com
 figma.com
 file-up.fr
 financier.com
+firefox.com
 firemail.cc
 fireman.net
 firstam.com
@@ -435,6 +436,7 @@ irelandmail.com
 ironcladapp.com
 israelmail.com
 italymail.com
+japantimes.co.jp
 jetbrains.com
 jetemail.net
 job4u.com
@@ -508,6 +510,7 @@ mailservice.ms
 mailup.net
 mailworks.org
 malaysiaairlines.com
+mandy.com
 manulife.com
 marchmail.com
 marriott.com
@@ -849,6 +852,7 @@ verizonwireless.com
 veryfast.biz
 veryspeedy.net
 vfemail.net
+virginatlantic.com
 virginmedia.com
 virtru.com
 vivint.com
