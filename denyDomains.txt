@@ -39037,6 +39037,7 @@ contact-munchet.club
 contact-munchet.ltd
 contact.anniversaryly.click
 contact.biz.st
+contact.cruisehub.click
 contact.festivalday.click
 contact.fifieldconsulting.com
 contact.flipapp.click
@@ -124482,6 +124483,7 @@ quick.fetely.click
 quick.meetcruise.click
 quick.switchon.click
 quickanswer.beachtourism.click
+quickanswer.cruisely.click
 quickanswer.festivalday.click
 quickbookstampa.com
 quickcash.us
