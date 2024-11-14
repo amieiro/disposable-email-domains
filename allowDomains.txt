@@ -40,6 +40,7 @@ aliceadsl.fr
 allergist.com
 allmail.net
 allstate.com
+ally.com
 alumni.com
 alumnidirector.com
 amazon.com
@@ -242,6 +243,7 @@ economist.com
 elastic.co
 elitemail.org
 elvisfan.com
+email-loandepot.com
 email.com
 emailcorner.net
 emailengine.net
@@ -501,6 +503,7 @@ mailchimp.com
 mailforce.net
 mailftp.com
 mailhaven.com
+mailhippo.com
 mailingaddress.org
 mailite.com
 mailmight.com
@@ -722,6 +725,7 @@ sentinelone.com
 sentinelone.net
 sertifi.net
 service-now.com
+service-webroot.com
 sfr.fr
 shitposting.agency
 shitware.nl
@@ -752,6 +756,7 @@ socradar.com
 sohu.com
 solution4u.com
 songwriter.net
+sony.com
 spacex.com
 spainmail.com
 spamcannon.com
@@ -784,6 +789,7 @@ swedenmail.com
 swift-mail.com
 swissmail.com
 synchronybank.com
+synchronyfinancial.com
 talktalk.net
 tdbank.com
 teachers.org
@@ -815,6 +821,7 @@ toke.com
 tom.com
 toothfairy.com
 torontomail.com
+transunion.com
 trello.com
 tremendous.com
 tripadvisor.com
@@ -864,12 +871,14 @@ wanadoo.fr
 warpmail.net
 washingtonpost.com
 web.de
+webex.com
 webforms.io
 webmail.co.za
 webname.com
 webrootanywhere.com
 websurfer.co.za
 wellsfargo.com
+wellsfargoadvisors.com
 wellsfargorewards.com
 wikipedia.org
 workday.com
@@ -923,6 +932,7 @@ your-mail.com
 youtube.com
 zendesk.com
 zillow.com
+ziphq.com
 zoho.com
 zoom.us
 zoominfo.com
