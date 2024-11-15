@@ -52120,6 +52120,7 @@ email.edu.pl
 email.freecrypt.org
 email.gd
 email.gen.tr
+email.gplupx.com
 email.imailfree.cc
 email.infokehilangan.com
 email.jjj.ee
@@ -164908,6 +164909,7 @@ wristwidt.com
 writability.net
 write-me.xyz
 write-unknown-second-shot.xyz
+write.cruiselabs.click
 write.festivalday.click
 write.opengambol.click
 write.travelhub.click
