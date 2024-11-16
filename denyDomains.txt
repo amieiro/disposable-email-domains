@@ -111610,7 +111610,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:d3aad15ad558899c21d6533af799311f9ee3c50934f7d4a3a33afa840d2c2166
+oid sha256:2279e1293b517277cd76e366ae0aa75f7741ca22381faa899efdea69a0588d0e
 oida.icu
 oidemail.com
 oidhdozens.com
@@ -137489,7 +137489,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2676524
+size 2676539
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -144120,6 +144120,7 @@ swisstrains.net
 switchbrand.com
 switchisp.com
 switchmyrb.space
+switchon.click
 switchpoker.cd
 switunfuh.ga
 switunfuh.gq
