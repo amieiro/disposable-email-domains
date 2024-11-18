@@ -30,6 +30,7 @@ adp.com
 africamail.com
 aim.com
 airbnb.com
+aircall.io
 aircraftmail.com
 airmail.cc
 airmason.com
@@ -396,6 +397,7 @@ hpe.com
 hr.com
 hrblock.com
 hsbc.co.uk
+hubspot.com
 hudl.com
 humanoid.net
 hush.ai
@@ -416,6 +418,7 @@ iname.com
 inbox.ru
 indeed.com
 indeedemail.com
+infinitecampus.com
 infotrack.co.uk
 innocent.com
 inorbit.com
@@ -562,6 +565,8 @@ naver.com
 navyfederal.org
 nba.com
 ncfta.net
+neocertified.com
+neocertifiedmail.com
 net-shopping.com
 netflix.com
 netlify.com
@@ -621,6 +626,7 @@ pay1040.com
 paypal.com
 paypal.com.mx
 pediatrician.com
+peopleadmin.com
 personalhealthmessagecenter.com
 petlover.com
 petml.com
@@ -628,6 +634,7 @@ photographer.net
 php.net
 physicist.net
 pilot.com
+pinterest.com
 plaid.com
 planetmail.com
 planetmail.net
