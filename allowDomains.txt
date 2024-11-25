@@ -125,6 +125,7 @@ brew-meister.com
 brex.com
 bsdmail.com
 btinternet.com
+bynder.com
 byspotify.com
 c2.hu
 ca.gov
@@ -133,6 +134,7 @@ californiamail.com
 canada.ca
 canada.gc.ca
 canva.com
+capitalone.com
 caramail.com
 cardalert.com
 carta.com
@@ -619,6 +621,7 @@ pacificwest.com
 paddle.com
 pagerduty.com
 pandadoc.net
+panerabread.com
 paperspace.com
 paramountplus.com
 patient-message.com
