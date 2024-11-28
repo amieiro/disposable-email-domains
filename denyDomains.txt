@@ -18820,6 +18820,7 @@ assist-nets-secure.net
 assist-payee.link
 assist.fiestahq.click
 assist.gambolly.click
+assist.meetcruise.click
 assist.monthoff.click
 assist.openinvestmentapp.com
 assist.staycation.click
@@ -119709,6 +119710,7 @@ pmdlt.win
 pmelegend-footwear.com
 pmelegend.clothing
 pmeshki.ru
+pmgentan.my.id
 pmgtelemetry.com
 pmi2t.anonbox.net
 pmivsmvc.shop
