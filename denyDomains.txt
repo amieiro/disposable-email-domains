@@ -68381,6 +68381,7 @@ guidance.getturnon.click
 guidance.openinvestmentapp.com
 guidance.turnonhub.click
 guidance.turnonlabs.click
+guidance.usetour.click
 guide2host.net
 guide3.net
 guide4fit.ru
@@ -124872,6 +124873,7 @@ query.scamperly.click
 query.setoffly.click
 query.thecaper.click
 query.turnonhub.click
+query.usetour.click
 querydirect.com
 queryshuttle.com
 queserchea.cf
