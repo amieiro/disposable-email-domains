@@ -107912,6 +107912,7 @@ newik.site
 newim.site
 newimagedentistryoc.com
 newinfogroup.website
+newinformer.top
 newio.site
 newiq.site
 newirelessnetworks.com
@@ -112021,7 +112022,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:6f3cb471abde4ad8946711bb9dfef8046e6b6eebd24baf4aa3d202c0caf235bc
+oid sha256:ede52224cc87e572bd4c87c45790d8382c5eed9aaf8db9d3352bae626e019e94
 oida.icu
 oidemail.com
 oidhdozens.com
@@ -137981,7 +137982,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2687964
+size 2687980
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
