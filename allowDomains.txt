@@ -62,6 +62,7 @@ appfolio.com
 apple.com
 appomni.com
 appraiser.net
+aramark.com
 archaeologist.com
 arcticmail.com
 ariba.com
@@ -260,6 +261,7 @@ elitemail.org
 elvisfan.com
 email-loandepot.com
 email.com
+emailconed.com
 emailcorner.net
 emailengine.net
 emailengine.org
@@ -336,6 +338,7 @@ fmailbox.com
 fmgirl.com
 fmguy.com
 fontawesome.com
+forbes.com
 fortinet.com
 fortune.com
 foxitsign.com
@@ -347,6 +350,7 @@ fsisac.com
 ftml.net
 galaxyhit.com
 gardener.com
+garmin.com
 gartner.com
 geeksquad.com
 geico.com
@@ -366,6 +370,7 @@ gmx.fr
 gmx.net
 gmx.us
 goat.si
+godaddy.com
 google.com
 googlemail.com
 graduate.org
@@ -437,6 +442,7 @@ infotrack.co.uk
 innocent.com
 inorbit.com
 inoutbox.com
+instagram.com
 instruction.com
 instructor.net
 insurer.com
@@ -546,6 +552,7 @@ melio.com
 memeware.net
 mercedes-benz.com
 mercer.com
+metabaseapp.com
 metalfan.com
 metamail.com
 meteor.com
@@ -659,6 +666,7 @@ pnmac.com
 poczta.onet.pl
 polandmail.com
 politician.com
+politicopro.com
 post.com
 postinbox.com
 postpro.net
@@ -761,6 +769,7 @@ signup.aws
 simplelegal.com
 simplelogin.fr
 simplelogin.io
+simpletix.com
 sina.com
 skiff.com
 sktelecom.com
@@ -814,6 +823,7 @@ swissmail.com
 synchronybank.com
 synchronyfinancial.com
 talktalk.net
+td.com
 tdbank.com
 teachers.org
 tech-center.com
@@ -838,6 +848,7 @@ therapist.net
 therugby.co.za
 thinkific.com
 thomsonreuters.com
+ticketmaster.com
 ticketstripe.com
 tmxnet.com
 toke.com
