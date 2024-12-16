@@ -19215,6 +19215,7 @@ assist.travelwifi.click
 assist.trycruise.click
 assist.turnonlabs.click
 assistance-bureautique.com
+assistance.caperapp.click
 assistance.galaday.click
 assistance.travelxp.click
 assistedlivingfacilitesnearme.org
@@ -42348,6 +42349,7 @@ cure.cruiseapp.click
 cure.openinvestmentapp.com
 cure.triggerly.click
 cure.trycruise.click
+cure.turnonly.click
 cure2children.com
 cureartstudio.com
 curechs.org
@@ -83091,6 +83093,7 @@ jessehastodoit.m.nur.vywbltgr.xyz
 jessejames.net
 jessica514.cf
 jessicahernanez.xyz
+jessicajulian.my.id
 jessicalife.com
 jessicawatsonrowland.com
 jessie.0amail.top
@@ -86053,6 +86056,7 @@ kartvelo.com
 kartvelo.me
 kartykredytowepl.info
 kartyusb.pl
+karuhun.dev
 karuniapoker.net
 karusel-kard.ru
 karuselsp.ru
@@ -91735,6 +91739,7 @@ lemondresses.net
 lemonebet.com
 lemongeek.best
 lemonjowo.buzz
+lemontea.biz.id
 lemooreforeclosures.com
 lemoshop.com
 lemouvement.ngo
