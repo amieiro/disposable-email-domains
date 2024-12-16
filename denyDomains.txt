@@ -19218,6 +19218,7 @@ assist.turnonlabs.click
 assistance-bureautique.com
 assistance.caperapp.click
 assistance.galaday.click
+assistance.meetcruise.click
 assistance.travelxp.click
 assistedlivingfacilitesnearme.org
 assistedlivingfacilityfinder.org
