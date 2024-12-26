@@ -39372,6 +39372,7 @@ comfort.cruisely.click
 comfort.falldown.click
 comfort.feastday.click
 comfort.getfrisk.click
+comfort.getturnon.click
 comfort.losebalance.click
 comfort.openinvestmentapp.com
 comfort.runlightly.click
@@ -65149,6 +65150,7 @@ general-electric.ml
 general-motors.tk
 general.blatnet.com
 general.caperapp.click
+general.cruiseapp.click
 general.cruisehq.click
 general.cruisely.click
 general.hammerhandz.com
