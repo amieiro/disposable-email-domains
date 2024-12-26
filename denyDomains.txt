@@ -69847,6 +69847,7 @@ guid.switchon.click
 guid.theroofings.com
 guidance.cruisehq.click
 guidance.fetely.click
+guidance.getcaper.click
 guidance.getturnon.click
 guidance.openinvestmentapp.com
 guidance.turnonhub.click
@@ -73659,6 +73660,7 @@ hikaru310.norio45.lady-and-lunch.xyz
 hikaru60.investmentweb.xyz
 hikaru85.hotube.site
 hikaru95.dev256.xyz
+hikeapp.click
 hikeeastcoasttrail.com
 hikeforcam.com
 hikehub.click
