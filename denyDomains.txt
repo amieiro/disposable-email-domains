@@ -99948,6 +99948,7 @@ marketing-toos.com
 marketing.caperapp.click
 marketing.fliphq.click
 marketing.hikelabs.click
+marketing.jotex.se
 marketing.takeatripshub.click
 marketing.travelhub.click
 marketing.travellabs.click
@@ -110501,6 +110502,7 @@ news-whiz.com
 news-year.ru
 news.hackney.gov.uk
 news.mamode-amoi.fr
+news.shoppw.fr
 news.uhd.edu
 news3.edu
 newsaa318.xyz
@@ -169162,6 +169164,7 @@ worldrevolution.info
 worldsbestever.company
 worldsbestoliveoil.org
 worldsbestoliveoils.com
+worldsheal.zendesk.com
 worldshealth.org
 worldsoccerclips.com
 worldsonlineradios.com
