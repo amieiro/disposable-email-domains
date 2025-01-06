@@ -29465,6 +29465,7 @@ bossmail.de
 bossman.chat
 bossmanjack.lol
 bossmanjack.net
+bossmanjack.shop
 bosterpremium.com
 boston-towing-service.info
 bostoncocainerehab.com
@@ -69982,6 +69983,7 @@ guidance.fauxpas.click
 guidance.fetely.click
 guidance.getcaper.click
 guidance.getturnon.click
+guidance.meettravel.click
 guidance.openinvestmentapp.com
 guidance.turnonhub.click
 guidance.turnonlabs.click
@@ -160863,6 +160865,7 @@ useteam.click
 useteams.click
 usetour.click
 usettingh.com
+useturnon.click
 usetw-dev.com
 usewm.com
 usf.biz
