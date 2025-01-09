@@ -234,6 +234,7 @@ discofan.com
 discord.com
 discover.com
 disposable.com
+doc2sign.com
 docsend.com
 docusign.com
 docusign.net
@@ -287,6 +288,7 @@ example.org
 exclusivemail.co.za
 execs.com
 expensify.com
+experian.co.uk
 experian.com
 ey.com
 f-m.fm
@@ -431,6 +433,7 @@ icam.fr
 icims.com
 icloud.com
 id.me
+identityiq.com
 imap-mail.com
 imap.cc
 imapmail.org
