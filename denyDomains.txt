@@ -19267,6 +19267,7 @@ assist.trycruise.click
 assist.turnonlabs.click
 assistance-bureautique.com
 assistance.caperapp.click
+assistance.caperhq.click
 assistance.galaday.click
 assistance.hikelabs.click
 assistance.meetcruise.click
