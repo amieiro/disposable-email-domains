@@ -65701,6 +65701,7 @@ getanswer.click
 getanswer.falsestep.click
 getanswer.friskly.click
 getanswer.gambolly.click
+getanswer.getanswer.click
 getanswer.makeablunder.click
 getanswer.opencruise.click
 getanswer.scamperly.click
@@ -138970,6 +138971,7 @@ service.cd
 service.festivalday.click
 service.fetely.click
 service.openinvestmentapp.com
+service.takeatripapp.click
 service.taketriply.com
 service.tpost.pw
 service.turnon.click
@@ -143842,6 +143844,7 @@ soxisipa.site
 soxivu.info
 soxoshops.site
 soxrazstex.com
+soy.pics
 soyamsk.com
 soycasasy.info
 soycasero.com
