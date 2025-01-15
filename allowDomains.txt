@@ -196,6 +196,7 @@ coned.com
 conga-sign.com
 connectyourcare.com
 consultant.com
+consumerfinance.gov
 contractor.net
 coolsite.net
 costco.com
@@ -204,6 +205,7 @@ coupahost.com
 coursera.org
 cox.net
 crayon.com
+creditkarma.com
 crowdstrike.com
 cumallover.me
 cutey.com
@@ -292,6 +294,7 @@ experian.co.uk
 experian.com
 ey.com
 f-m.fm
+facebookenterprise.com
 facebookmail.com
 fast-email.com
 fast-mail.org
@@ -557,6 +560,7 @@ memeware.net
 mercedes-benz.com
 mercer.com
 metabaseapp.com
+metaenterprise.com
 metalfan.com
 metamail.com
 meteor.com
@@ -689,6 +693,7 @@ protestant.com
 proton.me
 protonmail.ch
 protonmail.com
+proxyvote.com
 publicist.com
 purple.dev
 pwc.com
@@ -889,6 +894,7 @@ usa.com
 usaa.com
 usbank.com
 usda.gov
+uso.org
 usps.com
 usps.gov
 uymail.com
