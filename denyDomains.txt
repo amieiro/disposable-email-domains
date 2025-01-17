@@ -63513,6 +63513,7 @@ fundament.site
 fundamentallifescore.com
 fundamentalpets.com
 fundamenty-pod-klyuch.ru
+fundapk.com
 funddreamer.us
 fundedfgq.com
 fundewa.com
@@ -73042,6 +73043,7 @@ helpcryptocurrency.com
 helpcustomerdepartment.ga
 helpdesk.cruisely.click
 helpdesk.fliphq.click
+helpdesk.slipofthetongue.click
 helpdesks-support.com
 helpemails.com
 helpeople.xyz
@@ -114842,7 +114844,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:2b29ec43bb7a34398dbd6f61c59822ce8baec755bbec28241608c8ca3310a32f
+oid sha256:74c3531abfea1f4206168e142c1c67b4e9f43bc1fe225c09cf247c4d3645457e
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -141461,7 +141463,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2763946
+size 2764160
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
