@@ -65723,6 +65723,7 @@ getanswer.falsestep.click
 getanswer.friskly.click
 getanswer.gambolly.click
 getanswer.getanswer.click
+getanswer.getfrisk.click
 getanswer.makeablunder.click
 getanswer.opencruise.click
 getanswer.scamperly.click
@@ -111166,6 +111167,7 @@ nhanhdinhbongda.net
 nhanpro.net
 nhanqualienquan.online
 nhaphovinhomesquan9.com
+nhasachtinhoc.com
 nhatdinhmuaduocxe.info
 nhatkynhasi.com
 nhatu.com
