@@ -44387,6 +44387,7 @@ daynews.site
 daynightstory.com
 dayone.pw
 dayorgan.com
+dayout.click
 daypart.us
 daypey.com
 dayrep.com
@@ -161073,6 +161074,7 @@ useswitchon.click
 useteam.click
 useteams.click
 usetour.click
+usetravel.click
 usettingh.com
 useturnon.click
 usetw-dev.com
