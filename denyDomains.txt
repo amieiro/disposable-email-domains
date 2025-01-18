@@ -65827,6 +65827,7 @@ getfreetext.site
 getfreshbook.site
 getfreshcut.com
 getfreshtexts.site
+getfrisk.click
 getfrntrw.online
 getfun.men
 getgailllc.com
@@ -70060,6 +70061,7 @@ guiadomilionario.com
 guiasg.com
 guiasverdesdelvalles.es
 guiavip.net
+guid.caperlabs.click
 guid.getgambol.click
 guid.monthoff.click
 guid.oppositehq.click
