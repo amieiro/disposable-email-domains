@@ -38088,6 +38088,7 @@ client.holidayrap.click
 client.makingdomes.com
 client.marksypark.com
 client.marrived.com
+client.openflip.click
 client.pairst.com
 client.ploooop.com
 client.pointbuysys.com
@@ -150053,6 +150054,7 @@ tealeavesone.com
 team.gethlp.site
 team.monthoff.click
 team.openteams.click
+team.slipofthetongue.click
 team.staycation.click
 team.strategyconsulting.click
 team.supportshq.click
