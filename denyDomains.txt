@@ -19282,6 +19282,7 @@ assistance.cruiseapp.click
 assistance.galaday.click
 assistance.hikelabs.click
 assistance.meetcruise.click
+assistance.opentravel.click
 assistance.travelxp.click
 assistance.trytravel.click
 assistedlivingfacilitesnearme.org
@@ -91085,6 +91086,7 @@ lapptoposse99.com
 lappytime.com
 laprot.tk
 lapsha.tk
+lapsuscalami.click
 laptopamerica.net
 laptopbeddesk.net
 laptopcooler.me
