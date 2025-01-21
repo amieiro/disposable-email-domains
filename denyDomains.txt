@@ -19262,6 +19262,7 @@ assimiliate.com
 assist-nets-secure.net
 assist-payee.link
 assist.caperapp.click
+assist.emailus.click
 assist.fiestahq.click
 assist.gambolly.click
 assist.meetcruise.click
@@ -72961,6 +72962,7 @@ hello-volgograd.ru
 hello.getanswer.click
 hello.hexagonaldrawings.com
 hello.hikehub.click
+hello.lapsuscalami.click
 hello.nl
 hello.opengambol.click
 hello.scamperly.click
