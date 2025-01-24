@@ -44,6 +44,7 @@ allstate.com
 ally.com
 alumni.com
 alumnidirector.com
+amazon.ca
 amazon.com
 amazonaws.com
 americanexpress.com
@@ -261,6 +262,7 @@ ebay.com
 echosign.com
 economist.com
 elastic.co
+elementum.io
 elitemail.org
 elvisfan.com
 email-loandepot.com
@@ -472,6 +474,7 @@ japantimes.co.jp
 jetbrains.com
 jetemail.net
 job4u.com
+joinhandshake.com
 journalist.com
 jpmchase.com
 jpmorgan.com
@@ -917,6 +920,7 @@ walmart.com
 wanadoo.fr
 warpmail.net
 washingtonpost.com
+wayup.com
 web.de
 webex.com
 webforms.io
