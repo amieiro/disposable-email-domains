@@ -215,3 +215,7 @@ writeme.com
 yahoo.com
 yahoo.es
 yandex.com
+# Proton domains (https://proton.me/)
+simplelogin.co
+simplelogin.io
+aleeas.com
