@@ -36,6 +36,7 @@ airmail.cc
 airmason.com
 airpost.net
 airtable.com
+aleeas.com
 alertmedia.com
 aliceadsl.fr
 allergist.com
@@ -782,6 +783,7 @@ signin.aws
 signnow.com
 signup.aws
 simplelegal.com
+simplelogin.co
 simplelogin.fr
 simplelogin.io
 simpletix.com
