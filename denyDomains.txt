@@ -65836,6 +65836,7 @@ getanswer.getanswer.click
 getanswer.getfrisk.click
 getanswer.makeablunder.click
 getanswer.opencruise.click
+getanswer.organictraveller.click
 getanswer.scamperly.click
 getanyfiles.site
 getanylibrary.site
@@ -71823,6 +71824,7 @@ happyhealthtoday.com
 happyhealthypeacefullife.com
 happyhealthyvegan.life
 happyhealthyveggie.com
+happyholidays.click
 happyhourssale.shop
 happyhr.cloud
 happykado.com
@@ -121419,6 +121421,7 @@ phefinsi.ga
 phefinsi.gq
 phefinsi.ml
 phefinsi.tk
+phelans.cloud
 phellomail.top
 phen375-help1.com
 phen375.tv
