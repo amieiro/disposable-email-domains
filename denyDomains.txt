@@ -92600,6 +92600,7 @@ letstalk.makeablunder.click
 letstalk.scamperly.click
 letstalk.thecaper.click
 letstalk.thehike.click
+letstalk.usetravel.click
 letstalk.vacly.click
 letstalkaboutsex.org
 letstestsa.info
