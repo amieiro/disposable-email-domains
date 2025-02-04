@@ -42705,6 +42705,7 @@ customer.gambolhq.click
 customer.hikeapp.click
 customer.meettravel.click
 customer.openflip.click
+customer.takeatripshub.click
 customer.travelly.click
 customer.trekhq.click
 customer.turnonly.click
@@ -75015,6 +75016,7 @@ hologramblogger.com
 hologramskies.com
 holoholopu.club
 holomen.com
+holotrekking.online
 holpoiyrt.tk
 holr.us
 holstenwall.top
@@ -92603,6 +92605,7 @@ letstalk.cruisehq.click
 letstalk.friskapp.click
 letstalk.makeablunder.click
 letstalk.scamperly.click
+letstalk.takeatriply.click
 letstalk.thecaper.click
 letstalk.thehike.click
 letstalk.usetravel.click
