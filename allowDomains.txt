@@ -108,6 +108,7 @@ bbva.fr
 bbva.it
 bbva.mx
 bbvauk.com
+bedbathandbeyond.com
 behance.com
 bellair.net
 bellsouth.net
@@ -826,6 +827,7 @@ sprinklr.com
 squaremkgt.com
 squareup.com
 ssl-mail.com
+staplesadvantage.com
 starmail.co.za
 statefarm.com
 statuspage.io
@@ -876,9 +878,11 @@ tom.com
 toothfairy.com
 torontomail.com
 transunion.com
+transunionsapps.com
 trello.com
 tremendous.com
 tripadvisor.com
+tsheets.com
 tumblr.com
 tuta.io
 tutamail.com
