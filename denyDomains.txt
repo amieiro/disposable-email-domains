@@ -100358,6 +100358,7 @@ marketing-services.net
 marketing-toos.com
 marketing.caperapp.click
 marketing.fliphq.click
+marketing.friskapp.click
 marketing.getturnon.click
 marketing.hikelabs.click
 marketing.jotex.se
@@ -149464,6 +149465,7 @@ takeafancy.ru
 takeaspill.click
 takeatripapp.click
 takeatriply.click
+takeatripshub.click
 takeawaymessenger.com
 takeawayonlineordering.com
 takeawaythis.org.ua
