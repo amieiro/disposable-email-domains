@@ -137181,6 +137181,7 @@ satisfaction-2003.store
 satisfaction.cheaptrips.click
 satisfaction.fliplabs.click
 satisfaction.meetflip.click
+satisfaction.openfrisk.click
 satisfaction.openhike.click
 satisfaction.scamperly.click
 satisfaction.slipofthetongue.click
