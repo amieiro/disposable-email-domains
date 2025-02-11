@@ -70263,6 +70263,7 @@ guid.oppositehq.click
 guid.staycation.click
 guid.switchon.click
 guid.theroofings.com
+guid.trytakeatrips.click
 guid.usetravel.click
 guidance.cruisehq.click
 guidance.fauxpas.click
@@ -167579,6 +167580,7 @@ wecare.gethike.click
 wecare.meetflip.click
 wecare.religiousfestival.click
 wecare.thegambol.click
+wecare.turnonapp.click
 wecareforyou.com
 wecarepropertybuyers.com
 wecell.net
