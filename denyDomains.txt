@@ -10397,7 +10397,6 @@ SendSpamHere.com
 SpamHereLots.com
 SpamHerePlease.com
 TempEMail.net
-Tempr.email
 a-1.site
 a-action.ru
 a-b.co.za
@@ -90869,6 +90868,7 @@ labsemail.com
 labsemail.org
 labtau.com
 labtoad.com
+labubu.biz.id
 labum.com
 labunadawati.io
 laburnumtree.ru
@@ -98368,6 +98368,7 @@ mailbidon.com
 mailbiscuit.com
 mailbit.online
 mailbiz.biz
+mailbizx.xyz
 mailblocks.com
 mailblog.biz
 mailbloockers.space
