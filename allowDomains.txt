@@ -261,6 +261,7 @@ duck.com
 duo.com
 duosecurity.com
 dutchmail.com
+e-paycapita.com
 e-sign.co.uk
 e2estudios.com
 ebay.co.uk
@@ -287,6 +288,7 @@ empiresuite.com
 engineer.com
 englandmail.com
 equifax.com
+esp-portal.com
 etsy.com
 europe.com
 europemail.com
@@ -761,9 +763,11 @@ salesforcedevs.com
 salesperson.net
 samerica.com
 samsung.com
+samsungfinance.co.uk
 sanfranmail.com
 sans.org
 sap.com
+sastrify.com
 sbcglobal.net
 schneier.com
 schoolmessengermail.com
