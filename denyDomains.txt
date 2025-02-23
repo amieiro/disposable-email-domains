@@ -115465,7 +115465,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:147a4545fdab987720ac69665688c660d682e12ee12e99c614874347ee5f56c3
+oid sha256:cb76dcfb066b26400cbdffaec3a539cf192be1055f6882c02b60c414b3a3907e
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -142214,7 +142214,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2780066
+size 2780134
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -150828,6 +150828,7 @@ team.staycation.click
 team.strategyconsulting.click
 team.supportshq.click
 team.supportshub.click
+team.takeatripapp.click
 team.thecruise.click
 team.touristtrap.click
 team.travellerapp.click
