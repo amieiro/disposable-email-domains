@@ -128910,6 +128910,7 @@ quickreply.festivalday.click
 quickreply.meetturnon.click
 quickreply.opencaper.click
 quickreply.oppositehq.click
+quickreply.takeatripapp.click
 quickreply.thecaper.click
 quickreply.trytravel.click
 quickreport.it
