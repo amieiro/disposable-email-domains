@@ -22604,6 +22604,7 @@ balm.com
 balm.makeanerror.click
 balm.meetcruise.click
 balm.openinvestmentapp.com
+balm.takeatripapp.click
 balm.thefrisk.click
 balm.thehike.click
 balm.turnonly.click
@@ -96836,6 +96837,7 @@ luxzn.com
 luyilu8.com
 luytech.ml
 luzhilu3.com
+luzi.team
 luzi85.latestconsolegames.com
 luzoom.net
 luzw.emltmp.com
@@ -115466,7 +115468,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:cb76dcfb066b26400cbdffaec3a539cf192be1055f6882c02b60c414b3a3907e
+oid sha256:f999cae349654c4f6fb556ffbc7176ca2c27c54e14169d84c5cb6008edc30a5a
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -125213,6 +125215,7 @@ pregunmer.ga
 pregunmer.gq
 pregunmer.ml
 pregunta.es
+prehers.com
 preicfes.online
 prejudinmail.com
 prekab.net
@@ -142215,7 +142218,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2780134
+size 2780153
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -142509,6 +142512,7 @@ sksfullskin.ga
 sksjs.com
 sksks.com
 sksmgc.fun
+skssh.anonbox.net
 sktechprofs.com
 sktmzg.fun
 sktzmobile.com
