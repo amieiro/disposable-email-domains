@@ -64933,6 +64933,7 @@ galaday.click
 galaevtekstil.xyz
 galainfos.com
 galamagonline.com
+galamail.biz
 galamat.ru
 galangmovie.com
 galangshop.ga
@@ -114449,6 +114450,7 @@ nufc.xyz
 nufsh.com
 nugaba.com
 nugastore.com
+nughtclab.com
 nugnecklace.com
 nugnecklaces.com
 nuh.emlpro.com
@@ -116093,7 +116095,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:5c0bb8b105040da45e49c122403e443a9c0d6cc827408755cc8f40b7fe6a66ac
+oid sha256:4de23deac3ab77528ce86caffb5c4189af2602c956ee9c2002580b360cd8bdd1
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -142984,7 +142986,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2792912
+size 2792924
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -167390,6 +167392,7 @@ w37il.space
 w37xg0.com
 w3boat.com
 w3boats.com
+w3djp.anonbox.net
 w3fax.com
 w3fun.com
 w3internet.co.uk
