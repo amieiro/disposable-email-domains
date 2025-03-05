@@ -140574,6 +140574,7 @@ service.carnivalday.click
 service.cd
 service.festivalday.click
 service.fetely.click
+service.opencaper.click
 service.openinvestmentapp.com
 service.takeatripapp.click
 service.taketriply.com
@@ -171659,6 +171660,7 @@ write.caperlabs.click
 write.cruiselabs.click
 write.festivalday.click
 write.lapsuslinguae.click
+write.meetcruise.click
 write.opengambol.click
 write.takeatripapp.click
 write.travelhub.click
