@@ -2396,6 +2396,7 @@
 1xslots-lucky.beauty
 1xslots.center
 1xslots.express
+1xslots.quest
 1xslots.website
 1xstabka.ru
 1xstats.com
@@ -19608,6 +19609,7 @@ asyabahis888.com
 asyabahis9.com
 asyabahisgiris.xyz
 asylvan.com
+asymailer.live
 asyncekspert.net
 asyncexpert.net
 asynchbwls.ru
