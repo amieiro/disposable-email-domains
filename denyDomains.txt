@@ -24608,6 +24608,7 @@ benefit.celebrationapp.click
 benefit.falldown.click
 benefit.fetely.click
 benefit.fliphq.click
+benefit.getcruise.click
 benefit.getjourney.click
 benefit.losebalance.click
 benefit.openinvestmentapp.com
