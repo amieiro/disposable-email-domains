@@ -55276,6 +55276,7 @@ enquiry.getfrisk.click
 enquiry.getgambol.click
 enquiry.openturnon.click
 enquiry.takeatripapp.click
+enquiry.thecruise.click
 enquiry.turnonly.click
 enra.com
 enraiza.es
@@ -163970,6 +163971,7 @@ vaybet38.com
 vaycongso.vn
 vaymail.com
 vayme.com
+vaynhanh2k7.com
 vayonix.com
 vaytien.asia
 vaz.dropmail.me
