@@ -145160,6 +145160,7 @@ solutions.fliplabs.click
 solutions.getcruise.click
 solutions.getflip.click
 solutions.gethike.click
+solutions.getperegrinate.click
 solutions.meetflip.click
 solutions.openfrisk.click
 solutions.switchon.click
@@ -151809,6 +151810,7 @@ tealeafhacker.org
 tealeafsolution.com
 tealeavesone.com
 team.caperapp.click
+team.cruiseapp.click
 team.cruisely.click
 team.gethike.click
 team.gethlp.site
