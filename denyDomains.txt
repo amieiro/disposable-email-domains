@@ -151853,6 +151853,7 @@ team.cruisely.click
 team.gethike.click
 team.gethlp.site
 team.monthoff.click
+team.opencaper.click
 team.openteams.click
 team.openturnon.click
 team.slipofthetongue.click
@@ -173002,6 +173003,7 @@ xdeyegrymfw0w0e.xyz
 xdezoi.xyz
 xdfav.com
 xdhhc.com
+xdigit.top
 xdlink.icu
 xdmme.world
 xdndg.anonbox.net
