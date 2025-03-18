@@ -2396,6 +2396,7 @@
 1xslots-lucky.autos
 1xslots-lucky.beauty
 1xslots.center
+1xslots.charity
 1xslots.express
 1xslots.quest
 1xslots.website
@@ -14676,7 +14677,6 @@ alesuperaustostrada.eu
 aletar.ga
 aletar.tk
 aletasya616.ml
-alethea.top
 alex-owens.info
 alex.dynamailbox.com
 alex.weblogausa.site
@@ -61293,6 +61293,7 @@ fkfg.com
 fkfgmailer.com
 fkg3w.anonbox.net
 fkgmrn.fun
+fkgnen.life
 fki.10mail.org
 fkinyu.com
 fkksol.com
@@ -87100,7 +87101,6 @@ kalkulator-kredytowy.com.pl
 kall.com
 kallaicaseyrealtor.com
 kalmhain.net
-kalmkampz.shop
 kalol.live
 kaloolas.shop
 kalosgrafx.com
@@ -124173,6 +124173,7 @@ plenbundden.cf
 plenbundden.gq
 plenbundden.ml
 plenbundden.tk
+plennikov-den.ru
 plennikov-den.store
 plenty.su
 plentyapps.com
@@ -124317,6 +124318,7 @@ plussparknet.com
 plussparkzen.com
 plussreklam.xyz
 plustrak.ga
+plusveil.com
 plusxmail.com
 plusxmail.net
 plusxmail.org
