@@ -152977,6 +152977,7 @@ tempmail.dev
 tempmail.digital
 tempmail.edu.pl
 tempmail.eu
+tempmail.gg
 tempmail.giize.com
 tempmail.io
 tempmail.it
