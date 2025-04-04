@@ -45656,7 +45656,6 @@ dealtern.site
 dealthrifty.com
 dealtim.shop
 dealvn.info
-dealxin.com
 dealyaari.com
 dealyoyo.com
 dealzbrow.com
@@ -74441,6 +74440,7 @@ help.staycation.click
 help.switchonlabs.click
 help.takeatripapp.click
 help.teamshq.click
+help.trippieredd.click
 help.turnonhq.click
 help.usetour.click
 help.vacayly.click
@@ -74472,6 +74472,7 @@ helpcustomerdepartment.ga
 helpdesk.cruisely.click
 helpdesk.fliphq.click
 helpdesk.meetflip.click
+helpdesk.openperegrinate.click
 helpdesk.slipofthetongue.click
 helpdesk.thecruise.click
 helpdesks-support.com
@@ -100905,7 +100906,6 @@ mailtwnam.top
 mailtwnamm.top
 mailtwnqs.lat
 mailtwr.lat
-mailtwsau.top
 mailtwtam.top
 mailu.cf
 mailu.gq
