@@ -677,6 +677,7 @@ paypal.com
 paypal.com.mx
 paypal.de
 paypal.nl
+payspan.com
 pediatrician.com
 peopleadmin.com
 personalhealthmessagecenter.com
