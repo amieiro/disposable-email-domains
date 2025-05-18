@@ -1229,6 +1229,11 @@
 11yh.app
 12-m.com
 12-znakov.ru
+12.139
+12.141
+12.143
+12.180
+12.236
 12.dropmail.me
 12001.net
 120400.xyz
@@ -1774,7 +1779,6 @@
 18767dbmobbil.emlhub.com
 1877production.com
 187gmail.com
-188.com
 1881182.com
 1881185.com
 188133756.ru
@@ -2479,6 +2483,9 @@
 20-20trustees.com
 20.dns-cloud.net
 20.gov
+200.12.19
+200.12.51
+200.12.63
 2000-plus.pl
 2000gmail.com
 2000rebates.stream
@@ -2880,7 +2887,6 @@
 219ac.com
 219gmail.com
 21biolevel.ru
-21cn.com
 21cselling.com
 21daysugardetoxreview.org
 21den.ru
@@ -15527,6 +15533,7 @@ almorwines.com
 almosteverything.es
 almostfamous.it
 almostic.ru
+almostmy.com
 almostsa.online
 almovie.info
 almresort-nassfeld.info
@@ -16346,7 +16353,6 @@ amor-clab.icu
 amoran.icu
 amorebath.co.uk
 amoremfoto.com.br
-amorki.pl
 amornino.com
 amorphis.org
 amountsa.online
@@ -16891,7 +16897,6 @@ angga.team
 anggraas.club
 anggrasaza.xyz
 anghamy.com
-angi.com
 angiad.xyz
 angiehomeservices.com
 angielski-z-dziecmi.pl
@@ -19532,7 +19537,6 @@ asiaunited.xyz
 asiavirtualsolutions.net
 asiavpn.me
 asiawin77.asia
-asics.com
 asicshoesmall.com
 asicsonshop.org
 asicsrunningsale.com
@@ -25171,7 +25175,6 @@ beni37ggb.buzz
 beni39ijh.buzz
 benifit.shop
 benifitsaversusa.com
-benilde.edu.ph
 benimatran.com
 benink.site
 benipaula.org
@@ -28121,7 +28124,6 @@ bjxtech.com
 bjzshw.com
 bjzxb.com
 bk.emlhub.com
-bk.ru
 bk19e6.us
 bk2010.club
 bk4cl.anonbox.net
@@ -28816,6 +28818,7 @@ blogsondemand.com
 blogspam.ro
 blogspangea.com
 blogsports.com
+blogspot.com
 blogspot.miami
 blogspot.work
 blogspot1325.ru
@@ -30777,7 +30780,6 @@ brainhacksonline.com
 brainhard.net
 brainloaded.com
 brainme.site
-brainonfire.net
 brainown.com
 brainpowernootropics.xyz
 brains-market.online
@@ -31965,7 +31967,6 @@ buildingandtech.com
 buildingfastmuscles.com
 buildinghopekeystone.org
 buildinglanes.shop
-buildingradar.com
 buildingstogo.com
 buildlimun.com
 buildlogicsllc.com
@@ -35515,7 +35516,6 @@ cbagian.buzz
 cbair.com
 cbajl.live
 cbajlo.site
-cbamboo.com
 cbaplex.net
 cbarata.pro
 cbarato.plus
@@ -39838,6 +39838,7 @@ cmyk.se
 cmykyazilim.xyz
 cn-chipled.com
 cn-chivalry.com
+cn.com
 cn.dropmail.me
 cn7c.com
 cn9n22nyt.pl
@@ -39884,6 +39885,7 @@ cni9jz.us
 cnieux.com
 cniirv.com
 cninefails.us
+cninfo.net
 cninstant.com
 cnj.agency
 cnkacyoz.shop
@@ -40634,7 +40636,6 @@ com-tca64rtel.xyz
 com-ty.biz
 com-xd5r29y97r.com
 com-xvrv6yt51g.com
-com.ar
 com.au.pn
 com.com
 com.dropmail.me
@@ -40642,6 +40643,7 @@ com.fpfc.cf
 com.iki.kr
 com.motifasidiri.website
 com.ne.kr
+com.net
 com.ninja
 com.npv.kr
 com.org
@@ -46098,6 +46100,8 @@ ddmp3.com
 ddmv.com
 ddn.kz
 ddnkinvestglobal.com
+ddns.info
+ddns.me
 ddns.me.uk
 ddns.ml
 ddns.name
@@ -46105,6 +46109,7 @@ ddns.net
 ddns.plus
 ddns04.xyz
 ddnsfree.com
+ddnsking.com
 ddoddogiyo.com
 ddorai.net
 ddosed.us
@@ -46320,6 +46325,7 @@ debet.asia
 debet.info
 debetvn.xyz
 debforgione55places.com
+debian.org
 debierkelder.com
 debitummail.com
 debizuqiu.com
@@ -49997,6 +50003,7 @@ dns-privacy.com
 dns-stuff.com
 dns.army
 dns.navy
+dns04.com
 dns123.org
 dns398.xyz
 dns4urpns.com
@@ -50009,6 +50016,7 @@ dnsbridge.com
 dnsdeer.com
 dnsdujeskd.com
 dnses.ro
+dnset.com
 dnsguard.net
 dnsiskinky.com
 dnspublick.com
@@ -51526,6 +51534,7 @@ dreamgoods.biz
 dreamgreen.fr.nf
 dreamhacker.xyz
 dreamhomes4u.net
+dreamhost.com
 dreamhostcp.info
 dreamin.click
 dreamingcleaning.com
@@ -52254,6 +52263,7 @@ duck2.club
 duckadventure.site
 duckbao.com
 duckcover.com
+duckdns.org
 duckdocks.org
 duckefeetusa.com
 duckerfiveone.online
@@ -52787,6 +52797,7 @@ dynafuzemaletoday.com
 dynafuzeproductsnow.com
 dynainbox.com
 dynamailbox.com
+dynamic-dns.net
 dynamic-domain-ns1.ml
 dynamic-semantics.com
 dynamicchrome.site
@@ -52809,6 +52820,7 @@ dynlitypy.monster
 dynofusion-developments.com
 dynohoxa.com
 dynqtu.site
+dynu.com
 dynu.net
 dyoeii.com
 dyre.site
@@ -53081,7 +53093,6 @@ e27wo.site
 e283c52d.club
 e2e4d7d5.ru
 e2ento.us
-e2estudios.com
 e2m.store
 e2n11lm1.buzz
 e2qoitlrzw6yqg.cf
@@ -55075,6 +55086,7 @@ elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
 elementfitness.xyz
+elementfx.com
 elementify.com
 elementlounge.com
 elementosdejuicio.com
@@ -58109,6 +58121,7 @@ etzdnetx.com
 eu-med4.site
 eu-portals.info
 eu.blatnet.com
+eu.com
 eu.cowsnbullz.com
 eu.dlink.cf
 eu.dlink.gq
@@ -58117,6 +58130,7 @@ eu.dnsabr.com
 eu.igg.biz
 eu.lakemneadows.com
 eu.oldoutnewin.com
+eu.org
 eu.spymail.one
 eu.vocalmajoritynow.com
 eu.wrengostic.com
@@ -58673,7 +58687,6 @@ exammission.website
 examol.site
 examole.com
 exampe.com
-example.com
 examplefirem.org.ua
 exampleforall.org.ua
 exampro.edu.vn
@@ -61053,8 +61066,6 @@ feedmob.org
 feedmvsk.com
 feedmycloud.info
 feedon.emlhub.com
-feedspot.com
-feedspotmailer.com
 feedthezombiechildren.org
 feedxana.com
 feeladult.com
@@ -61799,7 +61810,6 @@ fildena-us.com
 file-hipo.info
 file-load-free.ru
 file-rutor.org
-file-up.fr
 filea.site
 fileboutiques.site
 filebuffer.org
@@ -65497,6 +65507,7 @@ ftoflqad9urqp0zth3.gq
 ftoflqad9urqp0zth3.ml
 ftoflqad9urqp0zth3.tk
 ftp.sh
+ftp1.biz
 ftpbd.com
 ftpinc.ca
 ftpj.com
@@ -67234,6 +67245,7 @@ gazoproekct.website
 gazpro2vesti.ru
 gb-1004.com
 gb.emlpro.com
+gb.net
 gb186.site
 gb6.ru
 gbamiconstruction.com
@@ -68754,7 +68766,6 @@ gidabankaciligizirvesi.net
 gidchardogu.cf
 gidchardogu.ga
 gidchardogu.ml
-gide.com
 gidemails.com
 gidok.info
 gidra-onion.club
@@ -71317,6 +71328,7 @@ gqubjbngp.shop
 gqwdodwflex.com
 gqyvuu.buzz
 gr.10mail.xyz
+gr.com
 gr5edu.info
 gr5kfhihqa3y.cf
 gr5kfhihqa3y.ga
@@ -71607,6 +71619,7 @@ greasymedia.com
 great-host.in
 great-names.info
 great-pump.com
+great-site.net
 great.boldnest.info
 great2matchmaker3.com
 greatbearcanoes.com
@@ -73375,6 +73388,7 @@ hackinglatinoamerica.net
 hackingtruths.net
 hackingyourfunnel.com
 hacklet.com
+hackney.gov.uk
 hacknophobia.net
 hackrz.xyz
 hacksforfifa17.com
@@ -79464,6 +79478,7 @@ hwapp9.com
 hwbhw.info
 hwbk.emlhub.com
 hwbq.laste.ml
+hwclouds-dns.com
 hwdiscount.online
 hwf.freeml.net
 hwh.emlhub.com
@@ -80295,7 +80310,6 @@ icaisen.xyz
 icaisui.xyz
 icaiying.xyz
 icakurien.se
-icam.fr
 icampinga.com
 icanav.net
 icanfatbike.com
@@ -81961,6 +81975,7 @@ in.cowsnbullz.com
 in.iskba.com
 in.laste.ml
 in.mailsac.com
+in.net
 in.vipmail.in
 in.warboardplace.com
 in10city.mobi
@@ -84809,6 +84824,7 @@ itekcorp.com
 itekixypak.asia
 itele.com
 itemailing.com
+itemdb.com
 itemef.bid
 itemp.email
 itempmail.tk
@@ -88577,6 +88593,7 @@ justclean.co.uk
 justcook.su
 justdeals.net
 justdefinition.com
+justdied.com
 justdoiit.com
 justdoit132.cf
 justdoit132.ga
@@ -90778,6 +90795,7 @@ kickmature.xyz
 kickme.me
 kickplate.ru
 kickref.ru
+kicks-ass.net
 kickskshoes.com
 kickstartbradford.com
 kickvictoria.com
@@ -92764,6 +92782,7 @@ kro65.space
 kroddy.com
 krodnd2a.pl
 krofism.com
+kroger.com
 krogerco.com
 krogstad24.aquadivingaccessories.com
 krol-mody-meskiej.pw
@@ -94281,6 +94300,7 @@ laodimail.com
 laoeq.com
 laoheritage.net
 laoho.com
+laohost.net
 laokzmaqz.tech
 laonanrenj.com
 laoraclej.com
@@ -95432,7 +95452,6 @@ lendfox.com
 lendingshop.site
 lendlesssn.com
 lendoapp.co
-lendscape.com
 lenestate.ru
 lenfly.com
 lengworcomp.gq
@@ -96619,7 +96638,6 @@ lilly.co
 lillymeadows.com
 lilnx.net
 lilo.me
-lilo.org
 lilspam.com
 lilyclears.com
 lilyjeter.com
@@ -96851,6 +96869,7 @@ linkmaxbet.xyz
 linkmehrcrom.cf
 linkod.press
 linkpaneli.online
+linkpc.net
 linkping.ru
 linkredirekt.ru
 linkrer.com
@@ -96961,7 +96980,6 @@ lionbet777.info
 lionbullion.org
 lioncoin.info
 liondt.com
-lionelastomers.com
 lionelxyz.online
 lionheartux.com
 lionize.dev
@@ -97370,6 +97388,7 @@ livefo.xyz
 liveforeverphotos.com
 liveforyounow.com
 livefreemail.top
+livefyre.com
 livegolftv.com
 livehbo.us
 livehempextract.com
@@ -101118,7 +101137,6 @@ mail.rohoza.com
 mail.rolmis.com
 mail.roweryo.com
 mail.rthyde.com
-mail.ru
 mail.rupop.mail.ru
 mail.rwstatus.com
 mail.saierw.com
@@ -107309,7 +107327,6 @@ mindgeekopenhouse.com
 mindify.pro
 mindihouse.co
 mindini.com
-mindless.com
 mindmail.ga
 mindmatho.ga
 mindmatho.gq
@@ -110142,6 +110159,7 @@ mrain.ru
 mrajax.ml
 mrakosin.site
 mrando.tk
+mrbasic.com
 mrbeads.ru
 mrbibos.site
 mrbillsworld.com
@@ -111459,6 +111477,7 @@ mybizloans.xyz
 myblogmail.xyz
 myblogos.ru
 myblogpage.com
+mybluehost.me
 myboatsibiza.com
 mybook.vegas
 mybookguide.site
@@ -111702,7 +111721,9 @@ myfreshlive.website
 myfreshlive.xyz
 myfreshtext.site
 myfreshtexts.site
+myftp.biz
 myftp.name
+myftp.org
 myfullstore.fun
 myfunnymoney.ru
 myfuturestudy.com
@@ -112355,6 +112376,7 @@ myviol12ation.site
 myvip11.com
 myvisionpractice.com
 myvk.tk
+myvnc.com
 myvtools.com
 mywallets.ru
 mywarnernet.net
@@ -112372,6 +112394,7 @@ mywiemyto.online
 mywifemail.online
 mywikitree.com
 mywildcoast.com
+mywire.org
 mywondersbook.com
 mywoolie.ru
 mywordpresswebsiteisrunningslow.cf
@@ -114050,8 +114073,10 @@ net-order.biz
 net-piyango.biz
 net-privichkam.ru
 net-solution.info
+net.com
 net.ee
 net.memberty.com
+net.net
 net.org
 net.ua
 net100limite.ml
@@ -116059,6 +116084,7 @@ no-365.com
 no-drain-tummy-tuck.com
 no-dysfonction.com
 no-ip.net
+no-ip.org
 no-more-hangover.tk
 no-one.cyou
 no-spam.hu
@@ -117923,7 +117949,6 @@ o1775.com
 o1mail.veinflower.veinflower.xyz
 o1z.ru
 o2.co.com
-o2.pl
 o2020-au.best
 o2020-ay.best
 o2020-ef.best
@@ -120129,6 +120154,7 @@ online-web.site
 online-website-builder.online
 online-webtools.com
 online.ms
+online.tj.cn
 online315.xyz
 online5.ru
 onlineaccutaneworldpills.com
@@ -121177,6 +121203,7 @@ org-archive.com
 org.blatnet.com
 org.bsmedia.vn
 org.co.in
+org.com
 org.factorican.com
 org.fanficforum.com
 org.marksypark.com
@@ -127527,7 +127554,6 @@ pocontbest.tk
 pocoobtla29.site
 pocupki.ru
 poczta.bid
-poczta.onet.pl
 poczta.pl
 pocztaaonet.pl
 pocztamoja.com.pl
@@ -130956,6 +130982,7 @@ publicschooltalk.com
 publicsexgif.com
 publicsexreddit.top
 publictracker.com
+publicvm.com
 publish316.com
 publj.site
 publk.site
@@ -131268,7 +131295,6 @@ purnomostore.online
 puro.buzz
 purokabig.com
 purple.amsterdam
-purple.dev
 purple.flu.cc
 purple.igg.biz
 purple.nut.cc
@@ -132431,6 +132457,7 @@ qpi8iqrh8wtfpee3p.ga
 qpi8iqrh8wtfpee3p.ml
 qpi8iqrh8wtfpee3p.tk
 qplh.us
+qpoe.com
 qpowfopqwipoqwe.ga
 qpowfqpownqwpoe.ga
 qpp.emlpro.com
@@ -135431,6 +135458,7 @@ redinggtonlaz.xyz
 redir-ok-igrosoft.ru
 redirect.plus
 redirectmail.press
+redirectme.net
 redirectr.xyz
 rediska.site
 redissoft.site
@@ -135924,6 +135952,7 @@ reitralsa.ml
 reitralsa.tk
 reiwa.photos
 reja9i.site
+rejecthost.com
 rejectmail.com
 rejeki303.org
 rejekihoki168.com
@@ -137682,7 +137711,6 @@ risencraft.ru
 risesturizm.online
 risesturizm.xyz
 risetag.info
-riseup.net
 rising-phoenix-takeaway.com
 risingbengal.com
 risingsuntouch.com
@@ -139332,6 +139360,7 @@ ru-vestik.store
 ru-wargamming-net.icu
 ru-wargarning.net
 ru.coffee
+ru.com
 ru.emlpro.com
 ru.hzxj.isgre.at
 ru1.site
@@ -140418,6 +140447,7 @@ sa-001.com
 sa-cf.com
 sa-ci.com
 sa-mp.pw
+sa.com
 sa.igg.biz
 sa.laste.ml
 sa.spymail.one
@@ -141271,6 +141301,7 @@ salutnaturalvita.es
 salvadomail.com
 salvador-nedv.ru
 salvatiojmail.ru
+salvationarmy.org
 salvationauto.com
 salvatore1818.site
 salvelinus.se
@@ -143222,6 +143253,7 @@ sedir.net
 sedoi.info
 sedona-psychic.com
 sedona-vortex-tours.com
+sedoparking.com
 sedric.ru
 seductiondictionary.com
 seductivestarletzz.net
@@ -144134,10 +144166,16 @@ servdorda.ga
 servdorda.gq
 servdorda.ml
 servebeer.com
+serveblog.net
 servedi.email
 serveexchange.com
 serveextra.com
 servegame.com
+servehttp.com
+serveminecraft.net
+servemp3.com
+servepics.com
+servequake.com
 server-id.com
 server-rus-v.ru
 server.40iq.com
@@ -146303,7 +146341,6 @@ simversity.org
 sin-mailing.com
 sin.cl
 sin88.org
-sina.com
 sina.toh.info
 sinagalore.com
 sinaite.net
@@ -148580,7 +148617,6 @@ sohbethattibu.xyz
 sohoct.com
 sohopros.com
 sohosale.com
-sohu.com
 sohu.net
 sohu.ro
 sohufre.cf
@@ -150985,6 +151021,7 @@ startidc.com
 startimetable.com
 startkeys.com
 startkni.icu
+startmail.com
 startmail.xyz
 startoon02.com
 startoon5.com
@@ -151822,6 +151859,7 @@ strangerthanfriction.org
 strangeserver.ru
 strangevitality.com
 strangeworldmanagement.com
+strangled.net
 strapedfortime.com
 straply.com
 strapmail.top
@@ -156300,6 +156338,7 @@ temp-mail.ru
 temp-mail.web.id
 temp-mails.co
 temp-mails.com
+temp-mails.com-sivulta
 temp.aogoen.com
 temp.bartdevos.be
 temp.bauza-it.de
@@ -156829,7 +156868,6 @@ test-reservation-link.com
 test.actess.fr
 test.com
 test.crowdpress.it
-test.de
 test.inclick.net
 test.onewhitelabel.com
 test.unergie.com
@@ -157108,6 +157146,7 @@ tf888.com
 tfa.spymail.one
 tfajf.us
 tfasesoria.com
+tfbnw.net
 tfclw.info
 tfcreations.com
 tfcredit.club
@@ -160061,7 +160100,6 @@ tmv2r.anonbox.net
 tmvi.com
 tmw.freeml.net
 tmwlad.info
-tmxnet.com
 tmxttvmail.com
 tmyh.yomail.info
 tmzh8pcp.agro.pl
@@ -160435,7 +160473,6 @@ tols-ex.ru
 tolsonmgt.com
 tolteca-camden-street.com
 tolufan.ru
-tom.com
 tom083.com
 toma-sex.info
 tomacupon.com
@@ -163334,6 +163371,7 @@ tukudawet.tk
 tukulyagan.com
 tukupedia.co
 tukz.net
+tulane.edu
 tulang.my.id
 tular.cyou
 tular.online
@@ -165152,6 +165190,7 @@ uha.kr
 uhbqsboyg.shop
 uhbvgytfc7.com
 uhcbook.tk
+uhd.edu
 uhds.tk
 uhds.yomail.info
 uhdtv.website
@@ -165289,6 +165328,7 @@ uk-unitedkingdom.gq
 uk-unitedkingdom.ml
 uk-unitedkingdom.tk
 uk.carmanial.com
+uk.com
 uk.farthy.com
 uk.flu.cc
 uk.hammerhandz.com
@@ -165380,7 +165420,6 @@ ukpowernetworks.co
 ukqw.com
 ukr-nedv.ru
 ukr-po-v.co.cc
-ukr.net
 ukraina.net
 ukrainaharnagay.shn-host.ru
 ukraine-gox.ru
@@ -166123,6 +166162,7 @@ univunid.shop
 uniwetten.com
 unix.university
 unixproject.ru
+unixstorm.org
 unj.10mail.org
 unjabazaar.com
 unjhaapmcbazar.com
@@ -166802,6 +166842,7 @@ us.adultvidlite.com
 us.af
 us.armymil.com
 us.camachohome.com
+us.com
 us.dlink.cf
 us.dlink.gq
 us.droidpic.com
@@ -173156,6 +173197,7 @@ webserverwst.com
 webshop.website
 websightmedia.com
 websinek.com
+website.com
 websitebod.com
 websitebody.com
 websitebooty.com
@@ -174398,6 +174440,7 @@ wii999.com
 wiibundledeals.us
 wiicheat.com
 wiipointsgen.com
+wikaba.com
 wikaya.org
 wike.com
 wikfee.com
@@ -175524,6 +175567,7 @@ workcountry.us
 workcrossbow.ml
 workdinser.ru
 workemail5.ru
+workers.dev
 workers.su
 workersunity.org
 workevo.email
@@ -176476,6 +176520,7 @@ www-xxx.ru
 www.barryogorman.com
 www.bccto.com
 www.bccto.me
+www.com
 www.cqnhtgs.top
 www.dmtc.edu.pl
 www.doverlocals.co.uk
@@ -179428,7 +179473,6 @@ xvx.us
 xw.mailpwr.com
 xwa3up.us
 xwanadoo.fr
-xwaretech.tk
 xwatch.today
 xwcbk1.site
 xwdmoe.cf
@@ -180885,6 +180929,7 @@ yhugawlgxf.ga
 yhx.emlhub.com
 yhykmg6t56uhjjhn.best
 yhyseo.com
+yi.org
 yicaiwts.com
 yicr.com
 yidaiyiluwang.com
@@ -181072,7 +181117,6 @@ ym9.app
 ymai.com
 ymail.1s.fr
 ymail.co.uk
-ymail.com
 ymail.dudeporn69.com
 ymail.edu
 ymail.fr
@@ -181725,6 +181769,7 @@ yourtechnology.info
 yourtemecularealestateagent.com
 yourtinylog.com
 yourtrading.com
+yourtrap.com
 yourtube.ml
 yourvalclub.com
 yourvideoq.com
@@ -184015,7 +184060,6 @@ zofd.com
 zofi.com
 zoftware.software
 zogavm.ru
-zoho.com
 zoho.in
 zohoseek.com
 zohut.anonbox.net
@@ -184683,6 +184727,7 @@ zzrgg.com
 zzrrgg.com
 zzsbzs.com
 zzuwnakb.pl
+zzux.com
 zzv2bfja5.pl
 zzv6p9j8b.xyz
 zzviarmxjz.ga
