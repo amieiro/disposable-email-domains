@@ -412,6 +412,7 @@ groupon.com
 gs.com
 h-mail.us
 hackermail.com
+hackerone.com
 hailmail.net
 hairdresser.net
 hanmail.net
@@ -582,6 +583,7 @@ melio.com
 memeware.net
 mercedes-benz.com
 mercer.com
+meta.com
 metabaseapp.com
 metaenterprise.com
 metalfan.com
@@ -800,6 +802,7 @@ sertifi.net
 service-now.com
 service-webroot.com
 sfr.fr
+sharp.com
 shitposting.agency
 shitware.nl
 shop.app
