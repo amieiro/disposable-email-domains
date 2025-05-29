@@ -39,6 +39,7 @@ airsi.de
 airtable.com
 aleeas.com
 alertmedia.com
+aliceadsl.fr
 allergist.com
 allmail.net
 allstate.com
@@ -57,6 +58,7 @@ angi.com
 anthem.com
 antichef.com
 antichef.net
+aol.co.uk
 aol.com
 apache.org
 appfolio.com
@@ -81,6 +83,7 @@ atheist.com
 atlassian.com
 atlassian.net
 att-mail.com
+att.net
 auctioneer.net
 australiamail.com
 auth0.com
@@ -96,6 +99,7 @@ barracuda.com
 bartender.net
 basecamp.com
 bbc.com
+bbox.fr
 bbva.be
 bbva.ch
 bbva.com
@@ -109,6 +113,7 @@ bbvauk.com
 bedbathandbeyond.com
 behance.com
 bellair.net
+bellsouth.net
 benilde.edu.ph
 berlin.com
 bestbuy.com
@@ -124,6 +129,7 @@ bloomberg.com
 bloomberg.net
 blu.it
 bluewin.ch
+blueyonder.co.uk
 bmo.com
 bmofg.com
 boardermail.com
@@ -158,6 +164,7 @@ cbamboo.com
 cbinsights.com
 cbsa-asfc.gc.ca
 cdc.gov
+charter.net
 chase.com
 checkpoint.com
 checkr.com
@@ -203,6 +210,7 @@ costco.com
 counsellor.com
 coupahost.com
 coursera.org
+cox.net
 crayon.com
 creditkarma.com
 crowdstrike.com
@@ -384,6 +392,7 @@ gmail.com
 gmx.at
 gmx.com
 gmx.de
+gmx.fr
 gmx.net
 gmx.us
 goat.si
@@ -502,6 +511,7 @@ kittymail.com
 knowbe4.com
 koreamail.com
 kpmg.com
+laposte.net
 legislator.com
 lendscape.com
 lenovo.com
@@ -515,6 +525,9 @@ linkedin.com
 linuxmail.org
 lionelastomers.com
 list.ru
+live.co.uk
+live.com
+live.fr
 lobbyist.com
 lookermail.com
 lovecat.com
@@ -562,6 +575,7 @@ mastercard-email.com
 mastercard.com
 matiries.com
 mda.mil
+me.com
 medallia.com
 medium.com
 meetup.com
@@ -614,6 +628,7 @@ netlify.com
 netscape.com
 netscape.net
 netsuite.com
+neuf.fr
 neverbox.com
 newrelic.com
 nextdoor.com
@@ -626,7 +641,9 @@ nordvpn.com
 norton.com
 nortonlifelock.com
 nospammail.net
+ntlworld.com
 null.net
+numericable.fr
 nus.edu.sg
 nvoicepay.com
 ny.gov
@@ -646,8 +663,10 @@ optician.com
 optummessenger.com
 oracle.com
 oracleindustry.com
+orange.fr
 orthodontist.net
 outlook.com
+outlook.fr
 ownmail.net
 ozk.com
 pacific-ocean.com
@@ -746,6 +765,7 @@ riseup.net
 riskiq.net
 robinhood.com
 rocketlane.com
+rocketmail.com
 rocketship.com
 ruffrey.com
 rushpost.com
@@ -765,6 +785,7 @@ sanfranmail.com
 sans.org
 sap.com
 sastrify.com
+sbcglobal.net
 schneier.com
 schoolmessengermail.com
 schwab.com
@@ -780,6 +801,7 @@ sentinelone.net
 sertifi.net
 service-now.com
 service-webroot.com
+sfr.fr
 sharp.com
 shitposting.agency
 shitware.nl
@@ -798,6 +820,7 @@ sina.com
 sisfirst.com
 skiff.com
 sktelecom.com
+sky.com
 slack-mail.com
 slack.com
 slmail.me
@@ -848,6 +871,7 @@ swift-mail.com
 swissmail.com
 synchronybank.com
 synchronyfinancial.com
+talktalk.net
 target.com
 td.com
 tdbank.com
@@ -918,11 +942,13 @@ uymail.com
 vanta.com
 venmo.com
 verizon.com
+verizon.net
 verizonwireless.com
 veryfast.biz
 veryspeedy.net
 vfemail.net
 virginatlantic.com
+virginmedia.com
 virtru.com
 visa.com
 vivint.com
@@ -931,6 +957,7 @@ vndly.com
 volvocars.com
 waifu.club
 walmart.com
+wanadoo.fr
 warpmail.net
 washingtonpost.com
 wayup.com
@@ -994,6 +1021,7 @@ yandex.ru
 yeah.net
 yelp.com
 yepmail.net
+ymail.com
 your-mail.com
 youtube.com
 zendesk.com
