@@ -665,6 +665,7 @@ oracle.com
 oracleindustry.com
 orange.fr
 orthodontist.net
+otter.ai
 outlook.com
 outlook.fr
 ownmail.net
@@ -679,6 +680,7 @@ paperspace.com
 paramountplus.com
 patient-message.com
 pay1040.com
+paymode-x.com
 paypal.com
 paypal.com.mx
 paypal.de
