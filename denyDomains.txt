@@ -10540,6 +10540,7 @@ SendSpamHere.com
 SpamHereLots.com
 SpamHerePlease.com
 TempEMail.net
+Temporary-Mail.net
 a-1.site
 a-action.ru
 a-b.co.za
@@ -10595,6 +10596,7 @@ a.b.c.emltmp.com
 a.b.c.laste.ml
 a.b.c.netmail.tk
 a.barbiedreamhouse.club
+a.bc
 a.beardtrimmer.club
 a.bestwrinklecreamnow.com
 a.betr.co
@@ -22630,6 +22632,7 @@ back.marksypark.com
 back.oldoutnewin.com
 back2barack.info
 back2bsback.com
+backToTopButton.style.display
 backalleybowling.info
 backalleydesigns.org
 backbone.works
@@ -33640,6 +33643,7 @@ c5ccwcteb76fac.ga
 c5ccwcteb76fac.gq
 c5ccwcteb76fac.ml
 c5ccwcteb76fac.tk
+c5inz.anonbox.net
 c5kassociates1.com
 c5qawa6iqcjs5czqw.cf
 c5qawa6iqcjs5czqw.ga
@@ -42010,6 +42014,8 @@ coprolite.com
 copticnn.net
 copventnfulezas.tk
 copy5.com
+copyBtn.innerHTML
+copyTitle.textContent
 copyandart.de
 copycashvalve.com
 copycatmail.com
@@ -47627,6 +47633,7 @@ destjusbaff.tk
 destkinggen.cf
 destkinggen.gq
 destkinggen.tk
+destroyLink.nextSibling.textContent
 destroyertactics.com
 destructiveblog.com
 destructocat.com
@@ -50406,6 +50413,7 @@ docu.me
 docu2data.com
 documefml.com
 documenrsmail.ru
+document.cookie
 document.onreadystatechange
 document.title
 documentimail.com
@@ -66093,6 +66101,7 @@ fureverafteradopt.org
 furieus.com
 furigo.ru
 furiousangel.com
+furkanozturk.cfd
 furkantanem.shop
 furmol.website
 furnato.com
@@ -75384,6 +75393,7 @@ healthranli.ml
 healthranli.tk
 healthrender.com
 healthroutecard.com
+healthroutine.click
 healthscatter.net
 healthsciencetrust.com
 healthshop.futbol
@@ -76937,6 +76947,7 @@ historidie.ru
 historiogramail.com
 historiogrmail.com
 histormails.ru
+historyLink.nextSibling.textContent
 historyalone.com
 historyinheels.com
 historykb.com
@@ -83315,6 +83326,7 @@ inprisonwithisis.org
 inprisonwithisisbook.org
 inpsur.com
 inpursuitofyourcure.org
+inputRect.width
 inpwa.com
 inqling.org
 inqm.com
@@ -98203,6 +98215,7 @@ loadedrarelib.site
 loadfree.site
 loadfreshstuff.site
 loadfreshtexts.site
+loadingRow.innerHTML
 loadingsite.info
 loadingsite.online
 loadingya.com
@@ -109103,6 +109116,7 @@ modafe.design
 modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
+modal.dataset.showModal
 modalova.biz
 modalova.online
 modalova.se
@@ -124782,6 +124796,7 @@ pdamail.ru
 pdaoffice.com
 pdaonmail.com
 pdaworld.online
+pdaworld.site
 pdaworld.store
 pdazllto0nc8.cf
 pdazllto0nc8.ga
@@ -125571,6 +125586,7 @@ permail.online
 permail.site
 permail.store
 permalu.ru
+permanentTooltip.style.left
 permanentans.ru
 permcourier.com
 permeamail.ru
@@ -136194,6 +136210,9 @@ refr.site
 refractionphotos.net
 reframedlife.com
 refrangimail.ru
+refreshButton.disabled
+refreshButton.innerHTML
+refreshText.textContent
 refrigerators.buzz
 refsa.site
 refsb.site
@@ -137010,6 +137029,7 @@ reqaxv.com
 reqdocs.com
 reqt.net
 requanague.site
+requestBody.domain
 requestmeds.com
 requestseven.online
 requiremyyl.ru
@@ -137163,6 +137183,7 @@ respekus.com
 respirml.ru
 respondcomment.com
 respondersalerts.com
+response.message
 responsive.co.il
 responsiveclassroom.info
 responsiveclassrooms.org
@@ -161196,6 +161217,7 @@ toolskr.com
 toolsshop.futbol
 toolswelove.com
 tooltackle.ru
+tooltip.bottom
 toolve.com
 toolyoareboyy.com
 toomail.biz
@@ -162144,6 +162166,7 @@ tr-4s.xyz
 tr-5s.xyz
 tr-bet.com
 tr.pozycjonowanie8.pl
+tr.unread
 tr23.com
 tr2k.cf
 tr2k.ga
@@ -175326,6 +175349,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.changeMailbox
+window.currentLang
+window.dataLayer
+window.location.href
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
