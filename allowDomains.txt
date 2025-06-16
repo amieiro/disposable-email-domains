@@ -47,6 +47,7 @@ ally.com
 alumni.com
 alumnidirector.com
 amazon.ca
+amazon.co.uk
 amazon.com
 amazonaws.com
 americanexpress.com
@@ -261,6 +262,7 @@ dralias.com
 drifttmail.com
 dropbox.com
 dtdg.co
+dtdg.eu
 dublin.com
 duck.com
 duo.com
