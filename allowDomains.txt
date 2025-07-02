@@ -549,6 +549,7 @@ mail-me.com
 mail-page.com
 mail.com
 mail.htl22.at
+mail.microsoft
 mail.ru
 mail2world.com
 mailandftp.com
