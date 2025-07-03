@@ -22728,6 +22728,7 @@ backtobasicsbluegrass.com
 backtoliferecovery.org
 backtoschoolpbc.com
 backtothefuturefansclub.com
+backtotopbutton.style.display
 backtownmic.cf
 backtownmic.ga
 backtownmic.gq
@@ -47739,6 +47740,7 @@ destkinggen.gq
 destkinggen.tk
 destroyLink.nextSibling.textContent
 destroyertactics.com
+destroylink.nextsibling.textcontent
 destructiveblog.com
 destructocat.com
 destweb.com
@@ -77137,6 +77139,7 @@ historyLink.nextSibling.textContent
 historyalone.com
 historyinheels.com
 historykb.com
+historylink.nextsibling.textcontent
 historyofsoca.com
 historyship.ru
 histrioomail.ru
@@ -109376,6 +109379,7 @@ modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
 modal.dataset.showModal
+modal.dataset.showmodal
 modalova.biz
 modalova.online
 modalova.se
@@ -125890,6 +125894,7 @@ permail.store
 permalu.ru
 permanentTooltip.style.left
 permanentans.ru
+permanenttooltip.style.left
 permcourier.com
 permeamail.ru
 permispno.cf
@@ -157292,6 +157297,7 @@ temp-mail.org
 temp-mail.pp.ua
 temp-mail.ru
 temp-mail.web.id
+temp-mail.website
 temp-mails.co
 temp-mails.com
 temp-mails.com-sivulta
@@ -157413,6 +157419,7 @@ tempmail.plus
 tempmail.pp.ua
 tempmail.pro
 tempmail.red
+tempmail.rest
 tempmail.run
 tempmail.space
 tempmail.sytes.net
