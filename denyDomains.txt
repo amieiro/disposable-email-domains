@@ -3200,6 +3200,7 @@
 24x7help.beachtenenglisch.click
 24x7help.getperegrinate.click
 24x7help.hikehub.click
+24x7help.hotelhafenhamburg.click
 24x7help.openturnon.click
 24x7help.useswitchon.click
 24xj.us
@@ -57013,6 +57014,7 @@ enquiry.getfrisk.click
 enquiry.getgambol.click
 enquiry.gethike.click
 enquiry.getperegrinate.click
+enquiry.hotelhafenhamburg.click
 enquiry.openturnon.click
 enquiry.quickreply.click
 enquiry.takeatripapp.click
@@ -83679,6 +83681,7 @@ inqm.com
 inqmuseum.org
 inquiries.careline.click
 inquiries.holidays2017.click
+inquiries.hotelhafenhamburg.click
 inquiries.opencruise.click
 inquiries.thehike.click
 inquiries.trycaper.click
