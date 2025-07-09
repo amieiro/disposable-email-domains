@@ -119,6 +119,7 @@ benilde.edu.ph
 berlin.com
 bestbuy.com
 bestmail.us
+betterstack.com
 beyondtrust.com
 bikerider.com
 bill.com
@@ -661,6 +662,7 @@ nycmail.com
 nytimes.com
 o2.pl
 officedepot.com
+okta-gov.com
 okta.com
 onemedical.com
 onet.pl
