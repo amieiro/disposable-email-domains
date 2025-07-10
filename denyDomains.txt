@@ -73085,6 +73085,7 @@ guidance.meettravel.click
 guidance.ninjatransfers.click
 guidance.openinvestmentapp.com
 guidance.openperegrinate.click
+guidance.quickreply.click
 guidance.thetakeatrip.click
 guidance.tourhub.click
 guidance.turnonhub.click
