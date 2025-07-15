@@ -466,6 +466,7 @@ icims.com
 icloud.com
 id.me
 identityiq.com
+ihg.com
 ik.me
 ikmail.com
 imap-mail.com
@@ -522,6 +523,7 @@ knowbe4.com
 koreamail.com
 kpmg.com
 laposte.net
+lastpass.com
 legislator.com
 lendscape.com
 lenovo.com
