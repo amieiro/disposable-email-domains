@@ -787,6 +787,7 @@ roblox.com
 rocketlane.com
 rocketmail.com
 rocketship.com
+rubrik.com
 ruffrey.com
 rushpost.com
 sae.org
@@ -974,6 +975,7 @@ veryfast.biz
 veryspeedy.net
 vfemail.net
 virginatlantic.com
+virginaustralia.com
 virginmedia.com
 virtru.com
 visa.com
