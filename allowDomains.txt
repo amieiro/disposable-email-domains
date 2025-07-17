@@ -504,6 +504,7 @@ italymail.com
 japantimes.co.jp
 jetbrains.com
 jetemail.net
+jnj.com
 job4u.com
 joinhandshake.com
 journalist.com
@@ -851,6 +852,7 @@ sneakemail.com
 snkmail.com
 snkml.com
 snowflake.com
+snyk.io
 socialworker.net
 sociologist.com
 socradar.com
