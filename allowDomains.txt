@@ -392,6 +392,7 @@ gem.com
 geologist.com
 germanymail.com
 getbackinthe.kitchen
+getpostman.com
 gide.com
 github.com
 gitlab.com
@@ -973,6 +974,7 @@ vanta.com
 venmo.com
 verizon.com
 verizon.net
+verizonenterprise.com
 verizonwireless.com
 veryfast.biz
 veryspeedy.net
