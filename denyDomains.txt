@@ -125422,6 +125422,7 @@ payterking.cf
 payterking.gq
 payterking.ml
 payterking.tk
+paytesacard.com
 paytopay.xyz
 paytv.rent
 paytvgratis.click
