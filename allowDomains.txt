@@ -165,7 +165,6 @@ cash4u.com
 catlover.com
 cbamboo.com
 cbinsights.com
-cbsa-asfc.gc.ca
 cdc.gov
 charter.net
 chase.com
@@ -386,6 +385,7 @@ galaxyhit.com
 gardener.com
 garmin.com
 gartner.com
+gc.ca
 geeksquad.com
 geico.com
 gem.com
@@ -408,6 +408,7 @@ goat.si
 godaddy.com
 google.com
 googlemail.com
+gov.uk
 graduate.org
 graphic-designer.com
 graphiteconnect.com
@@ -438,7 +439,6 @@ hitler.rocks
 home.de
 homemail.co.za
 homemail.com
-homeoffice.gov.uk
 horsefucker.org
 hot-shot.com
 hotmail.co.uk
@@ -514,7 +514,6 @@ jpmorgan.com
 jpmresearchmail.com
 jumpcloud.com
 justemail.net
-justice.gov.uk
 kahoot.com
 kakao.com
 keemail.me
