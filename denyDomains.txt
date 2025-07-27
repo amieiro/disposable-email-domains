@@ -68764,6 +68764,7 @@ getanswer.friskly.click
 getanswer.gambolly.click
 getanswer.getanswer.click
 getanswer.getfrisk.click
+getanswer.lapsuscalami.click
 getanswer.makeablunder.click
 getanswer.opencruise.click
 getanswer.organictraveller.click
