@@ -10569,6 +10569,7 @@ SendSpamHere.com
 SpamHereLots.com
 SpamHerePlease.com
 TempEMail.net
+Tempr.email
 a-1.site
 a-action.ru
 a-b.co.za
@@ -28133,7 +28134,6 @@ bitcoin-miners.org
 bitcoin-norge.org
 bitcoin-payroll.com
 bitcoin.ngo
-bitcoin.onthewifi.com
 bitcoin2014.pl
 bitcoinadvocacy.com
 bitcoinandmetals.com
@@ -54931,7 +54931,6 @@ efd.buzz
 efd0x.us
 efdal.info
 efdjfw.com
-efefr2134.ygto.com
 efelercepklinigi.com
 efelermt2.com
 efemail.com
@@ -94106,7 +94105,6 @@ kucingarong.ga
 kucingarong.gq
 kucingarong.ml
 kucinge.site
-kucinglucu.my.id
 kucix.com
 kucoba.ml
 kucoin.one
@@ -120364,7 +120362,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:15ab1955de05e8f7bf75a14088487c585582fa42d348536884c5043165f1f564
+oid sha256:d0c4a1f2a88ada32e5b7ff441fd1ef88000a95e521c42b6dcf3628d2636f0eed
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -148118,6 +148116,7 @@ singyeang.com
 sinhq.com
 sinhsins.shop
 sinhvien.asia
+sinime.xyz
 sinisterbrain.com
 sinistromail.ru
 sink.fblay.com
@@ -148437,7 +148436,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 2898332
+size 2839020
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -157966,6 +157965,7 @@ teknikmerkezhatti.com
 teknikservisglobal.xyz
 teknodiot.net
 teknografi.site
+teknolcom.com
 teknologimax.engineer
 teknopena.com
 teknostar.ru
@@ -164503,6 +164503,7 @@ trofholz8.dynainbox.com
 trogonidae.best
 troikasedro.ml
 troikos.com
+trojangogogo.site
 trojanmail.ga
 trol.com
 trolamrux.cf
