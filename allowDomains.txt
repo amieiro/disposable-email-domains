@@ -32,6 +32,7 @@ aim.com
 airbnb.com
 aircall.io
 aircraftmail.com
+airfrance.com
 airmail.cc
 airmason.com
 airpost.net
@@ -915,6 +916,7 @@ tenable.com
 tesla.com
 test.de
 tfwno.gf
+thanx.com
 the-fastest.net
 the-quickest.com
 thecricket.co.za
