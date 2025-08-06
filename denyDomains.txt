@@ -137345,6 +137345,7 @@ relay-888.com
 relay-bossku3.com
 relay-bossku4.com
 relay.firefox.com
+relaybox.org
 relayed.org
 relayimmo.com
 relayyork.site
@@ -157985,6 +157986,7 @@ temporary-mailbox.com
 temporary.mcedu.ga
 temporaryemail.com
 temporaryemail.net
+temporaryemail.org
 temporaryemail.us
 temporaryforwarding.com
 temporaryinbox.com
