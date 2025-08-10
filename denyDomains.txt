@@ -48052,6 +48052,7 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
+dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -174556,6 +174557,7 @@ we-b-tv.com
 we-dwoje.com.pl
 we-lose.site
 we-love-life.com
+we.frienced.com
 we.lovebitco.in
 we.martinandgang.com
 we.oldoutnewin.com
