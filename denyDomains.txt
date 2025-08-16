@@ -104859,7 +104859,6 @@ marketing.fliphq.click
 marketing.friskapp.click
 marketing.getturnon.click
 marketing.hikelabs.click
-marketing.jotex.se
 marketing.openflip.click
 marketing.takeatripshub.click
 marketing.travelhub.click
@@ -157808,6 +157807,7 @@ tehsusu.ml
 tehtrip.com
 tehubpmw.shop
 teicarried.com
+teichman1.extravagandideas.com
 teicrimta.ga
 teicrimta.gq
 teicrimta.ml
