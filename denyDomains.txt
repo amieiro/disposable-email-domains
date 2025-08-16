@@ -17472,7 +17472,6 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
-answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
@@ -67019,6 +67018,7 @@ g2cromax.ml
 g2dcli.us
 g2goldens.shop
 g2gposta.com
+g2m5d.anonbox.net
 g2tpv9tpk8de2dl.cf
 g2tpv9tpk8de2dl.ga
 g2tpv9tpk8de2dl.gq
@@ -123669,6 +123669,7 @@ oxddadul.ml
 oxddadul.tk
 oxfarm1.com
 oxfo.edu.pl
+oxfor.edu.pl
 oxford-edu.cf
 oxford-edu.university
 oxford.gov
@@ -183317,7 +183318,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
