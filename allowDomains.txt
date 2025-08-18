@@ -317,6 +317,7 @@ execs.com
 expensify.com
 experian.co.uk
 experian.com
+expressvpn.com
 ey.com
 f-m.fm
 facebookenterprise.com
@@ -835,6 +836,7 @@ shitposting.agency
 shitware.nl
 shop.app
 shopify.com
+shutterstock.com
 sibmail.com
 signin.aws
 signnow.com
