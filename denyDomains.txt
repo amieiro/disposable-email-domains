@@ -22656,6 +22656,7 @@ baby-loaf.name
 baby-loaf.us
 baby-mat.com
 baby.blatnet.com
+baby.discopied.com
 baby.frequiry.com
 baby.inblazingluck.com
 baby.lakemneadows.com
@@ -42342,7 +42343,6 @@ cordlessshark.com
 cordova.com
 cordtokens.com
 cordyc.xyz
-cordynne.com
 core-pack.at
 core-rehab.org
 core4.app
@@ -122480,7 +122480,6 @@ org.blatnet.com
 org.bsmedia.vn
 org.co.in
 org.com
-org.factorican.com
 org.fanficforum.com
 org.marksypark.com
 org.oldoutnewin.com
@@ -147168,6 +147167,7 @@ shoponlinewithoutcvv.ru
 shopop.info
 shoporder.xyz
 shopourstudio.biz
+shopp85.fancycarnavalmasks.com
 shopperseeking.com
 shoppibooks.com
 shoppic.com
