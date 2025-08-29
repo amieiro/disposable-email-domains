@@ -840,6 +840,7 @@ shop.app
 shopify.com
 shutterstock.com
 sibmail.com
+signable.com
 signin.aws
 signnow.com
 signup.aws
