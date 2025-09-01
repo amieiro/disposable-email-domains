@@ -112232,7 +112232,6 @@ muratreis.icu
 murattomruk.com
 muratveyaraglai.tk
 murcasinotoe.ru
-murdaugh73.flatoledtvs.com
 murder.academy
 murdererwellbeing.com
 mure.emlpro.com
@@ -120489,7 +120488,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:6b7f92c1bc8cd10e9b3e6a18bf2f6a1ac36264f6d6eb5b3fc8f34ae433bbad97
+oid sha256:198a1dfe2a3291e08079e99a3a1b6ab64f33ea6d337eb8420d1dbd85abe78655
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -148583,7 +148582,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 519183
+size 519618
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -183639,6 +183638,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
