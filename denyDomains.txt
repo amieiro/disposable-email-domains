@@ -142039,7 +142039,6 @@ s.polosburberry.com
 s.proprietativalcea.ro
 s.s2cloud.pro
 s.sa.igg.biz
-s.spamserver.flu.cc
 s.vdig.com
 s.wkeller.net
 s.xxi2.com
@@ -183660,7 +183659,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
