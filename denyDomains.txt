@@ -48184,7 +48184,6 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -75527,7 +75526,6 @@ have.blatnet.com
 have.inblazingluck.com
 have.lakemneadows.com
 have.marksypark.com
-have.ultramoonbear.com
 haveacreditcardmall.com
 haveafinetime.ru
 haveanotion.com
@@ -107112,7 +107110,6 @@ mellieswelding.com
 melloskin.ru
 mellowpromo.com
 mellymoo.com
-melman54.ceramicsouvenirs.com
 melneyprep.cf
 meloc.ru
 melochick60.refurbishedlaserscanners.com
@@ -120527,7 +120524,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:3501b7c2ce5ba341f6fe4bb2833f536b022b1733c735140abd0233d1e56bd953
+oid sha256:53d334b319c59eeca931365d11c27a53bda38102d9ecc3f502e0de1d1d5acfd7
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -148633,7 +148630,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 520873
+size 520222
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
