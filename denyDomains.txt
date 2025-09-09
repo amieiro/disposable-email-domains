@@ -63217,7 +63217,6 @@ first-mail.info
 first-mood.fun
 first-state.net
 first.baburn.com
-first.highnom.com
 first.lakemneadows.com
 first.next4.ir
 firstaidglossary.com
@@ -84360,8 +84359,6 @@ instapixel.com
 instapp.top
 instaprice.co
 instasave.xyz
-instasly.com
-instasly.net
 instasmail.com
 instatienda.com
 instatione.site
@@ -183841,7 +183838,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
