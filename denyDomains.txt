@@ -22713,6 +22713,7 @@ baby-loaf.us
 baby-mat.com
 baby.blatnet.com
 baby.discopied.com
+baby.frequiry.com
 baby.inblazingluck.com
 baby.lakemneadows.com
 baby.makingdomes.com
@@ -51950,6 +51951,7 @@ dport.fun
 dport.site
 dpp7q4941.pl
 dpptd.com
+dprasu.sbs
 dpriders.com
 dprinceton.edu
 dprots.com
@@ -134742,6 +134744,7 @@ query.fliplabs.click
 query.hikely.click
 query.meettravel.click
 query.meetturnon.click
+query.quickreply.click
 query.scamperly.click
 query.setoffly.click
 query.thecaper.click
