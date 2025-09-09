@@ -11430,7 +11430,6 @@ abouse.space
 about.com-posted.org
 about.eastworldwest.com
 about.fanficforum.com
-about.geomenon.com
 about.oldoutnewin.com
 about.poisedtoshrike.com
 about.wrengostic.com
@@ -125219,6 +125218,7 @@ parimatch-top7.com
 parimatch-top8.com
 parimatch-top9.com
 parimatch-zerkalo.com
+parimatch.cam
 parimatchchance10.com
 parimatchchance7.com
 parimatchchance8.com
