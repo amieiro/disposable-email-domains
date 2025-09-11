@@ -48216,7 +48216,6 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -68862,6 +68861,7 @@ geschenkkoerbe-online.de
 geschent.biz
 gescolar.online
 gesemweb.net
+gesit.id
 gesotyb.tech
 gestacott.info
 gesthedu.com
@@ -151389,7 +151389,6 @@ space-fashion.ru
 space-for-dates1.com
 space.cowsnbullz.com
 space.favbat.com
-space.scoldly.com
 spacebazzar.ru
 spaceboat.tech
 spacebooks.site
