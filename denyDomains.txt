@@ -17504,7 +17504,6 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
-answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
@@ -176524,7 +176523,6 @@ which-code.com
 which.cowsnbullz.com
 which.geomenon.com
 which.poisedtoshrike.com
-which.quirkymeme.com
 which.wrengostic.com
 whichbis.site
 whichfoodsareinseason.com
