@@ -46762,6 +46762,7 @@ de-register-newdevice.com
 de-register.newdevice-secure.com
 de-visions.com
 de.10mail.org
+de.geomenon.com
 de.introverted.ninja
 de.lakemneadows.com
 de.newhorizons.gq
@@ -152321,6 +152322,7 @@ spot.milltrill.com
 spot.oldoutnewin.com
 spot.poisedtoshrike.com
 spot.popautomated.com
+spot.resistingmoney.com
 spot.wrengostic.com
 spot12.icu
 spotagory.com
@@ -160308,6 +160310,7 @@ theluxurycloset.info
 them.islaby.com
 them.lakemneadows.com
 them.poisedtoshrike.com
+them.zanycabs.com
 thema214.com
 themacrodiet.com
 themaddeninglife.com
