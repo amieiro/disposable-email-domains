@@ -29260,6 +29260,7 @@ bloomable.info
 bloomable.store
 bloomarena.com
 bloombergnewstoday.com
+bloombridals.com
 bloombrief.com
 bloomintg.tk
 bloominvoice.com
@@ -134951,6 +134952,7 @@ quickanswer.festivalday.click
 quickanswer.happyholidays.click
 quickanswer.hikelabs.click
 quickanswer.jeannetripplehorn.click
+quickanswer.quickreply.click
 quickanswer.theholiday.click
 quickanswer.usehike.click
 quickblox.net
