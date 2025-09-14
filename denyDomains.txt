@@ -40866,6 +40866,7 @@ coin-hub.net
 coin-link.com
 coin-mail.com
 coin-one.com
+coin.wf
 coin114.net
 coin888.host
 coinalgotrader.com
@@ -47079,7 +47080,6 @@ dedesignessentials.com
 dedetox.center
 dedeurassen.online
 dedi.blatnet.com
-dedi.clarized.com
 dedi.cowsnbullz.com
 dedi.ploooop.com
 dedi.pointbuysys.com
@@ -173292,7 +173292,6 @@ volcanclub.com
 volcanemail.com
 volcano-wings.com
 volcanomail.com.au
-volckmann.latestconsolegames.com
 voldsgaard.dk
 voledia.com
 volestream.com
