@@ -122946,6 +122946,7 @@ org.blatnet.com
 org.bsmedia.vn
 org.co.in
 org.com
+org.factorican.com
 org.fanficforum.com
 org.marksypark.com
 org.oldoutnewin.com
@@ -151037,6 +151038,7 @@ some.cowsnbullz.com
 some.fanficforum.com
 some.hammerhandz.com
 some.oldoutnewin.com
+some.pairst.com
 some.ploooop.com
 some.us
 someadulttoys.com
