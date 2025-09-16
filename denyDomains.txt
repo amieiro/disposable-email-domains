@@ -122942,7 +122942,6 @@ org.blatnet.com
 org.bsmedia.vn
 org.co.in
 org.com
-org.factorican.com
 org.fanficforum.com
 org.marksypark.com
 org.oldoutnewin.com
@@ -150996,6 +150995,7 @@ solutions.meetflip.click
 solutions.openfrisk.click
 solutions.switchon.click
 solutions.theflip.click
+solutions.travelersinsurance.click
 solutions.triggerly.click
 solutions.tripster.click
 solutions.usehike.click
@@ -151033,7 +151033,6 @@ some.cowsnbullz.com
 some.fanficforum.com
 some.hammerhandz.com
 some.oldoutnewin.com
-some.pairst.com
 some.ploooop.com
 some.us
 someadulttoys.com
