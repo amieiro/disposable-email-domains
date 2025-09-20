@@ -22746,7 +22746,6 @@ baby-loaf.name
 baby-loaf.us
 baby-mat.com
 baby.blatnet.com
-baby.frequiry.com
 baby.inblazingluck.com
 baby.lakemneadows.com
 baby.makingdomes.com
@@ -109368,7 +109367,6 @@ misbondis.com
 misc.dobunny.com
 misc.marksypark.com
 misc.ploooop.com
-misc.quirkymeme.com
 misc.warboardplace.com
 miscalhero.com
 miscbrunei.net
@@ -121662,6 +121660,7 @@ omzg5sbnulo1lro.ml
 omzg5sbnulo1lro.tk
 on-line-poker-gambling.com
 on-review.com
+on.codyting.com
 on.cowsnbullz.com
 on.emltmp.com
 on.freog.com
@@ -128957,6 +128956,7 @@ platinum-plus.com
 platinum.blatnet.com
 platinum.cam
 platinum.cowsnbullz.com
+platinum.dobunny.com
 platinum.emailies.com
 platinum.pointbuysys.com
 platinum.poisedtoshrike.com
@@ -143190,6 +143190,7 @@ sailingcadence.com
 sailmail.io
 sailorplastic.com
 sailors.co.uk
+sails.ceramicsouvenirs.com
 sailun.md
 saimesuratokac.shop
 sain2o.site
@@ -144633,6 +144634,7 @@ scholar.emailies.com
 scholar.inblazingluck.com
 scholar.lakemneadows.com
 scholar.makingdomes.com
+scholar.milltrill.com
 scholarassoc.org
 scholarconferences.org
 scholarianmail.com
@@ -184151,7 +184153,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
