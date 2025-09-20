@@ -20035,6 +20035,7 @@ assist.thetrip.click
 assist.travelwifi.click
 assist.trycruise.click
 assist.turnonlabs.click
+assist.wetransfer.click
 assistance-bureautique.com
 assistance.beachtenenglisch.click
 assistance.caperapp.click
@@ -38391,6 +38392,7 @@ chnwfsb.com
 cho.com
 choang.asia
 choanoflagli.com
+chob.marketing
 chobam15.net
 chobler.com
 chocalatebarnyc.com
@@ -47103,7 +47105,6 @@ decoratupiel.es
 decorbuz.com
 decorhanoixin.space
 decorigin.com
-decoster13.truckmetalworks.com
 decox.ru
 decoymail.com
 decoymail.mx
@@ -112727,7 +112728,6 @@ mutik.ru
 mutirokas.gq
 mutlucarsi.com
 mutter-zeitung24.website
-mutter49.newfishingaccessories.com
 muttonvindaloobeast.xyz
 muttvomit.com
 muttwalker.net
@@ -116168,7 +116168,6 @@ new.blatnet.com
 new.cowsnbullz.com
 new.emailies.com
 new.freeml.net
-new.frequiry.com
 new.geomenon.com
 new.hammerhandz.com
 new.hellohappy2.com
