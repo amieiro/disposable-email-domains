@@ -71163,6 +71163,7 @@ gmx.es
 gmx.fit
 gmx.fr.nf
 gmx.ne
+gmx.net.tr
 gmx.plus
 gmx.st
 gmx1mail.top
