@@ -64800,7 +64800,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -184269,6 +184268,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
