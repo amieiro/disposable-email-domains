@@ -64800,6 +64800,7 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
+for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -77843,7 +77844,6 @@ hirunger.space
 his.blatnet.com
 his.blurelizer.com
 his.oldoutnewin.com
-his.rom11.com
 hisalotk.cf
 hisalotk.ga
 hisalotk.gq
@@ -176899,7 +176899,6 @@ which-code.com
 which.cowsnbullz.com
 which.geomenon.com
 which.poisedtoshrike.com
-which.quirkymeme.com
 which.wrengostic.com
 whichbis.site
 whichfoodsareinseason.com
