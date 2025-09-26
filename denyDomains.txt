@@ -147434,6 +147434,7 @@ sheep.eshreky.com
 sheep.hammerhandz.com
 sheep.marksypark.com
 sheep.oldoutnewin.com
+sheep.pairst.com
 sheep.pointbuysys.com
 sheep.poisedtoshrike.com
 sheephead.website
@@ -184307,6 +184308,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
