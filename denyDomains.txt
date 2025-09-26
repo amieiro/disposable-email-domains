@@ -56779,7 +56779,6 @@ emali.top
 emalioman.pl
 emall.ir
 emall.ml
-emang.com
 emanual.site
 emanuele.dev
 emanus.cd
