@@ -18097,7 +18097,6 @@ apipulsa.com
 apirealty.icu
 apis101.us
 apistudio.ru
-apiva.io
 apivcolon.com
 apivin.ru
 apj.10mail.xyz
@@ -83114,6 +83113,7 @@ imontheway.store
 imonts.tech
 imos.site
 imosowka.pl
+imou.info.vn
 imoutel.cf
 imoutel.ga
 imoutel.gq
@@ -184404,7 +184404,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
