@@ -24056,6 +24056,7 @@ base-all.ru
 base-weight.com
 base.360ezzz.com
 base.blatnet.com
+base.britainst.com
 base.codyting.com
 base.cowsnbullz.com
 base.exiix.com
@@ -36383,7 +36384,6 @@ cdn43.soloadvanced.com
 cdn45.soloadvanced.com
 cdn5.emvps.xyz
 cdn5.soloadvanced.com
-cdn53.mailna.us
 cdn53.soloadvanced.com
 cdn56.soloadvanced.com
 cdn6.emvps.xyz
