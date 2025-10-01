@@ -92587,6 +92587,7 @@ kingfunonline.com
 kingfunsg.com
 kingfunvn.com
 kingfuvirus.com
+kingg.my.id
 kinggame247.club
 kinggame247.site
 kinghere.tech
@@ -121004,7 +121005,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:2682925558f82debb1ae48d5672628de7b331fedde149c0f680917ee00e40a26
+oid sha256:80880c85a00393c0d0501e26d8abc5098effba002b71a9737ff0b24ec34fee59
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -141137,6 +141138,7 @@ rou.us
 rou31.space
 roud.emlhub.com
 roudar.com
+rouflav.com
 roughch.press
 roughess.xyz
 roughidioe.space
@@ -149044,7 +149046,6 @@ site-student.online
 site-value.us
 site.12bielsko.pl
 site.blatnet.com
-site.dobunny.com
 site.emailies.com
 site.hammerhandz.com
 site.org.in
@@ -149211,7 +149212,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 515726
+size 514814
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
