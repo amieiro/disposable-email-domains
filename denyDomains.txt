@@ -158988,6 +158988,7 @@ temp.emeraldwebmail.com
 temp.headstrong.de
 temp.kasidate.me
 temp.landrypf.com
+temp.ly
 temp.mail.y59.jp
 temp.matthancock.me
 temp.meshari.dev
@@ -159165,6 +159166,7 @@ temporary-email.com
 temporary-email.world
 temporary-mail.net
 temporary-mailbox.com
+temporary.gg
 temporary.mcedu.ga
 temporaryemail.com
 temporaryemail.net
