@@ -141031,7 +141031,6 @@ rooster-pil-pil-ballincollig.com
 rooststellarsmelt.site
 root-server.xyz
 root-servers.site
-root.clarized.com
 root.hammerhandz.com
 root.pointbuysys.com
 root.rowrowleft.com
@@ -184452,7 +184451,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
