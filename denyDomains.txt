@@ -121046,7 +121046,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:9d97a80470c6437eaf1bd93c0d108f94b9b5aeddc7d29e16513a86466ac29769
+oid sha256:dee016c37540be1dc61828bc0781ae503b9f3414fb97244d358bf809be95a4a5
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -149262,7 +149262,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 516007
+size 514937
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -184463,7 +184463,6 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
