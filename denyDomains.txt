@@ -20063,6 +20063,7 @@ assist.termtimely.click
 assist.thecruise.click
 assist.thegambol.click
 assist.thetrip.click
+assist.travelocityflights.click
 assist.travelwifi.click
 assist.trycruise.click
 assist.turnonlabs.click
