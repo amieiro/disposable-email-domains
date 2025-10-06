@@ -94,6 +94,7 @@ auth0.com
 authentisign.com
 aws.training
 axios.com
+ba.com
 bakermckenzie.com
 bankofamerica.com
 barclays.com
@@ -150,6 +151,7 @@ brazilmail.com
 brew-master.com
 brew-meister.com
 brex.com
+britishairways.com
 bsdmail.com
 btinternet.com
 buildingradar.com
