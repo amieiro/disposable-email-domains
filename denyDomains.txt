@@ -17562,7 +17562,6 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
-answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
@@ -19158,6 +19157,7 @@ arpizol.com
 arpj.com
 arpqgg.us
 arqos-co-uk.monster
+arqsis.com
 arquisul.com
 arquitectospr.com
 arr.laste.ml
@@ -49194,7 +49194,6 @@ diegogamingmail.ml
 diegovts.tk
 diegoyoutuber.tk
 diehlford.com
-diekrager.cottonsleepingbags.com
 diemail.store
 diemailbox.de
 diemban.vn
