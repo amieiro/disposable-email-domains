@@ -392,6 +392,7 @@ free.fr
 freemail.hu
 freshbooks.com
 freshdesk.com
+freshservice.com
 fsisac.com
 ftml.net
 galaxyhit.com
@@ -628,6 +629,7 @@ mindless.com
 minister.com
 ml1.net
 mm.st
+monday.com
 mongodb.com
 morganstanley.com
 morningbrew.com
