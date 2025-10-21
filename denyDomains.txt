@@ -24214,6 +24214,7 @@ base.blatnet.com
 base.britainst.com
 base.codyting.com
 base.cowsnbullz.com
+base.exiix.com
 base.lakemneadows.com
 base.pointbuysys.com
 base.wrengostic.com
@@ -36280,6 +36281,7 @@ cbd-snacks.net
 cbd-treats.com
 cbd-treats.net
 cbd.clothing
+cbd.dynamailbox.com
 cbd47.com
 cbd4less.net
 cbd7hemp.com
@@ -159802,7 +159804,6 @@ temp-mail.org
 temp-mail.pp.ua
 temp-mail.ru
 temp-mail.web.id
-temp-mail.website
 temp-mails.co
 temp-mails.com
 temp-mails.com-sivulta
