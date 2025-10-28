@@ -78454,7 +78454,6 @@ hit-best-buy.ru
 hit-magazine-buy.ru
 hit.carmanial.com
 hit.cowsnbullz.com
-hit.dobunny.com
 hit.hammerhandz.com
 hit.oldoutnewin.com
 hit.ploooop.com
@@ -185557,6 +185556,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
