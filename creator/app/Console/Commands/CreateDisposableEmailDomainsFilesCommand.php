@@ -14,6 +14,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * @var array
      */
     protected $textDenyFiles = [
+        'https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/internalLists/temp-mail.lol.txt',
         'https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/internalLists/tmail-mmomekong-com.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains_mx.txt',
