@@ -11555,7 +11555,6 @@ abouse.space
 about.com-posted.org
 about.eastworldwest.com
 about.fanficforum.com
-about.geomenon.com
 about.oldoutnewin.com
 about.poisedtoshrike.com
 about.wrengostic.com
@@ -20210,6 +20209,7 @@ assist.meetcruise.click
 assist.meetswitchon.click
 assist.monthoff.click
 assist.openinvestmentapp.com
+assist.organictraveller.click
 assist.staycation.click
 assist.termtimely.click
 assist.thecruise.click
@@ -185629,6 +185629,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
