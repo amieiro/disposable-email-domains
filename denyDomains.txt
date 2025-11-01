@@ -121828,7 +121828,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:56afccdc1f78b2058efcc22f649eba49e1e0f74d7a40a28945a47065649abdd5
+oid sha256:9604f3cfc1cb1ac58a91d66380db19f77d29396d972aafe83c2ac6d536a48cf5
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -130024,7 +130024,6 @@ platinum-plus.com
 platinum.blatnet.com
 platinum.cam
 platinum.cowsnbullz.com
-platinum.dobunny.com
 platinum.emailies.com
 platinum.pointbuysys.com
 platinum.poisedtoshrike.com
@@ -150243,7 +150242,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 526878
+size 526070
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -162473,6 +162472,7 @@ thinhmin.com
 think.blatnet.com
 think.factorican.com
 think.foodforhat.com
+think.freog.com
 think.hammerhandz.com
 think.lakemneadows.com
 think.marksypark.com
