@@ -35254,6 +35254,7 @@ capcrut.site
 capcut.my.id
 capcut.pp.ua
 capcut.site
+capcut.team
 capcuter.com
 capcutgw.cfd
 capcutin.my.id
