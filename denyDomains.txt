@@ -43199,6 +43199,7 @@ couhl.live
 coukfree.co.uk
 coukfree.uk
 could.cowsnbullz.com
+could.jokeray.com
 could.marksypark.com
 could.oldoutnewin.com
 could.poisedtoshrike.com
@@ -121841,7 +121842,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:6ff2eafcfc032663870f76aec1309b098c902d1e7ef5f18a2608bdd871e550ad
+oid sha256:9f64e19ef444226db91c431058ef0bce4173f5a53302ab7bcc2425b8a2f3890c
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -148555,7 +148556,6 @@ sheep.eshreky.com
 sheep.hammerhandz.com
 sheep.marksypark.com
 sheep.oldoutnewin.com
-sheep.pairst.com
 sheep.pointbuysys.com
 sheep.poisedtoshrike.com
 sheephead.website
@@ -150261,7 +150261,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 527179
+size 524279
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -187572,7 +187572,6 @@ zero-product-stock.ru
 zero-sale-inform.ru
 zero.360ezzz.com
 zero.cowsnbullz.com
-zero.exiix.com
 zero.hellohappy2.com
 zero.makingdomes.com
 zero.marksypark.com
