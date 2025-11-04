@@ -11555,6 +11555,7 @@ abouse.space
 about.com-posted.org
 about.eastworldwest.com
 about.fanficforum.com
+about.geomenon.com
 about.oldoutnewin.com
 about.poisedtoshrike.com
 about.wrengostic.com
@@ -151103,7 +151104,6 @@ small.makingdomes.com
 small.ploooop.com
 small.pointbuysys.com
 small.poisedtoshrike.com
-small.ultramoonbear.com
 smallalpaca.com
 smallanawanginbeach.com
 smallbee.ml
