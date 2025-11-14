@@ -4,6 +4,13 @@ Disposable email domain lists, used in disposable email services, generated ever
 
 You can find [here](https://github.com/amieiro/disposable-email-domains/blob/master/creator/app/Console/Commands/CreateDisposableEmailDomainsFilesCommand.php#L16) the lists used by this project to obtain the blocked and allowed domains. This project maintains this list of [secure domains](https://github.com/amieiro/disposable-email-domains/blob/master/secureDomains.txt).
 
+## Requirements
+
+The project requires:
+- **PHP 8.3 or 8.4**
+- **Composer 2.x**
+- **Laravel 12.x**
+
 ## Contact
 
 If you see that some domains should not be in the deny list, if you want to add some other list or if you want 
