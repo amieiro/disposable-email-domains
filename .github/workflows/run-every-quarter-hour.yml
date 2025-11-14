@@ -3,6 +3,7 @@ name: Run every quarter-hour
 on:
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 jobs:
   execute:
