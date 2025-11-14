@@ -10703,6 +10703,7 @@ SendSpamHere.com
 SpamHereLots.com
 SpamHerePlease.com
 TempEMail.net
+Temporary-Mail.net
 a-1.site
 a-action.ru
 a-b.co.za
@@ -23091,6 +23092,7 @@ back.marksypark.com
 back.oldoutnewin.com
 back2barack.info
 back2bsback.com
+backToTopButton.style.display
 backalleybowling.info
 backalleydesigns.org
 backbone.works
@@ -42885,6 +42887,8 @@ coprolite.com
 copticnn.net
 copventnfulezas.tk
 copy5.com
+copyBtn.innerHTML
+copyTitle.textContent
 copyandart.de
 copybtn.innerhtml
 copycashvalve.com
@@ -48636,6 +48640,7 @@ destjusbaff.tk
 destkinggen.cf
 destkinggen.gq
 destkinggen.tk
+destroyLink.nextSibling.textContent
 destroyertactics.com
 destructiveblog.com
 destructocat.com
@@ -54071,6 +54076,7 @@ dyajer-alaod.com
 dyca4d.us
 dycc.10mail.xyz
 dyceroprojects.com
+dyclsr.xyz
 dycredit.club
 dye.emlhub.com
 dyeingmail.online
@@ -78620,6 +78626,7 @@ historioginf.com
 historiogramail.com
 historiogrmail.com
 histormails.ru
+historyLink.nextSibling.textContent
 historyalone.com
 historyinheels.com
 historykb.com
@@ -85149,6 +85156,7 @@ inprisonwithisis.org
 inprisonwithisisbook.org
 inpsur.com
 inpursuitofyourcure.org
+inputRect.width
 inputrect.width
 inpwa.com
 inqling.org
@@ -100365,6 +100373,7 @@ loadedrarelib.site
 loadfree.site
 loadfreshstuff.site
 loadfreshtexts.site
+loadingRow.innerHTML
 loadingrow.innerhtml
 loadingsite.info
 loadingsite.online
@@ -111490,6 +111499,7 @@ modafe.design
 modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
+modal.dataset.showModal
 modalova.biz
 modalova.online
 modalova.se
@@ -128312,6 +128322,7 @@ permail.online
 permail.site
 permail.store
 permalu.ru
+permanentTooltip.style.left
 permanentans.ru
 permcourier.com
 permeamail.ru
@@ -139241,6 +139252,9 @@ refr.site
 refractionphotos.net
 reframedlife.com
 refrangimail.ru
+refreshButton.disabled
+refreshButton.innerHTML
+refreshText.textContent
 refreshbutton.disabled
 refreshbutton.innerhtml
 refreshtext.textcontent
@@ -140082,6 +140096,7 @@ reqaxv.com
 reqdocs.com
 reqt.net
 requanague.site
+requestBody.domain
 requestbody.domain
 requestmeds.com
 requestseven.online
@@ -169992,6 +170007,7 @@ unblockit.link
 unblockproxy.one
 unc.app
 uncause.org
+uncensor.me
 uncensored.rf.gd
 uncensoredsurvival.com
 uncermail.com
@@ -179184,9 +179200,13 @@ windmine.tk
 windom.fun
 window-55.net
 window.adsbygoogle
+window.changeMailbox
 window.changemailbox
+window.currentLang
 window.currentlang
+window.dataLayer
 window.datalayer
+window.location.href
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
