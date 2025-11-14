@@ -116,11 +116,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Execute the console command.
      *
-     * @param $file
-     * @return void
+     * @return int
      */
-    public function handle()
+    public function handle(): int
     {
+        ini_set('memory_limit', '256M');
         $denyDomains = [];
         $allowDomains = [];
 
@@ -143,8 +143,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
 
             //$this->commitChanges();
+            
+            return 0; // Success
         } catch (\Exception $error) {
             Log::error('Error processing the domains. ' . PHP_EOL . $error);
+            return 1; // Failure
         }
     }
 
