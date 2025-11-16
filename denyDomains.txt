@@ -130284,7 +130284,6 @@ platedeph.cf
 platedeph.ml
 platedeph.tk
 plates4skates2.info
-platform.scarbour.com
 platformassociates.com
 platin.dev
 platingaming.dev
