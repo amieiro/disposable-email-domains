@@ -74381,6 +74381,7 @@ guidance.fetely.click
 guidance.getcaper.click
 guidance.getturnon.click
 guidance.jeannetripplehorn.click
+guidance.lapsuslinguae.click
 guidance.meettravel.click
 guidance.ninjatransfers.click
 guidance.openinvestmentapp.com
@@ -125279,7 +125280,6 @@ oveodewa.org
 over-craft.ru
 over-you-24.com
 over.factorican.com
-over.milltrill.com
 over.ploooop.com
 over.popautomated.com
 overagent.com
