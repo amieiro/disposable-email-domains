@@ -42566,6 +42566,7 @@ contactspp.click
 contactus.hikehq.click
 contactus.holidays2017.click
 contactus.kwiktrip.click
+contactus.lapsuslinguae.click
 contactus.traintrips.click
 contactus.travelokabus.click
 contactus.turnonhq.click
