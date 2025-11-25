@@ -17064,6 +17064,7 @@ and.ploooop.com
 and.pointbuysys.com
 and.poisedtoshrike.com
 and.wrengostic.com
+andalanglobal.dev
 andaluchic.net
 andaluxia.monster
 andbest.site
@@ -23115,7 +23116,6 @@ back-painsos.org
 back-replace-happy-speech.xyz
 back.blatnet.com
 back.dummyfox.com
-back.eshreky.com
 back.hammerhandz.com
 back.inblazingluck.com
 back.lakemneadows.com
@@ -33251,6 +33251,8 @@ buttliza.info
 buttloads.com
 buttluvr.com
 buttmonkey.com
+button.disabled
+button.innerHTML
 buttonfans.com
 buttonrulesall.com
 buttwebcam.com
@@ -46760,6 +46762,10 @@ data-protect-job.com
 data-protect-law.com
 data-protection-solutions.com
 data.dropmail.me
+data.email
+data.error
+data.message
+data.status
 data1.nu
 dataaas.com
 dataarca.com
@@ -48726,7 +48732,6 @@ destjusbaff.tk
 destkinggen.cf
 destkinggen.gq
 destkinggen.tk
-destroyLink.nextSibling.textContent
 destroyertactics.com
 destructiveblog.com
 destructocat.com
@@ -56578,6 +56583,8 @@ elelhal.xyz
 eleman34.com
 elemedialabs.com
 elememail.ru
+element.style.display
+element.textContent
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -78768,7 +78775,6 @@ historioginf.com
 historiogramail.com
 historiogrmail.com
 histormails.ru
-historyLink.nextSibling.textContent
 historyalone.com
 historyinheels.com
 historykb.com
@@ -100862,6 +100868,13 @@ login-moon.xyz
 login-online-co-uk.buzz
 login-to.online
 login.microsoft-office.live
+loginBtn.innerHTML
+loginButton.disabled
+loginButton.style.cursor
+loginButton.style.opacity
+loginRegisterBtn.style.display
+loginRegisterText.textContent
+loginText.textContent
 loginadulttoys.com
 logincbet.asia
 logindominoonline.com
@@ -108734,6 +108747,7 @@ memail.biz.id
 memailme.co.uk
 memapp.com
 membed.xyz
+memberCenterDropdown.style.display
 memberblog.com
 memberdadu.com
 memberdds.org
@@ -111744,6 +111758,8 @@ modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
 modal.dataset.showModal
+modalCurrencySymbol.textContent
+modalPriceDisplay.textContent
 modalova.biz
 modalova.online
 modalova.se
@@ -117587,6 +117603,7 @@ new.ovh
 new.pointbuysys.com
 new.viola.gq
 new688e.ga
+newPassword.length
 newa.wtf
 newaddr.com
 newage.press
@@ -127978,6 +127995,7 @@ peakinbox.net
 peakkilo.net
 peakkutsutenpojp.com
 peakpharmacy.shop
+peakpoppro.com
 peaksneakerjapan.com
 peaksun.com
 peakvisionhdtv.com
@@ -139651,6 +139669,11 @@ regiopost.trade
 regishub.com
 registand.site
 register-form.online
+registerBtn.innerHTML
+registerButton.disabled
+registerButton.style.cursor
+registerButton.style.opacity
+registerText.textContent
 registered.cf
 registered.com
 registermerpatislot88.live
@@ -140454,6 +140477,7 @@ reservepart.ir
 reservoirsource.com
 reset-secure.com
 reset123.com
+resetEmailDisplay.textContent
 resetsecure.org
 resetsecurity.net
 resfe.com
@@ -140618,6 +140642,7 @@ resturaji.com
 restwin.com
 restyourlife.org
 result-api.shop
+result.data.details
 resultaat.marketing
 resultaatmarketing.com
 resultadodehoje.org
@@ -147702,6 +147727,10 @@ send22u.info
 send360.de
 send4.uk
 send624.com
+sendCodeBtn.disabled
+sendCodeBtn.innerHTML
+sendCodeBtn.style.cursor
+sendCodeBtn.style.opacity
 sendaljepit.site
 sendangagung.online
 sendangduwur.tech
@@ -150422,7 +150451,6 @@ sindhcollegeeducation.com
 sindhier.com
 sindu.org
 sindwir.com
-sinegal66.ceramiccoffecups.com
 sineli.com
 sinelook.com
 sinema.ml
@@ -156570,6 +156598,10 @@ submargmail.com
 submergeus.com
 submic.com
 submissive.com
+submitBtn.disabled
+submitBtn.innerHTML
+submitBtn.style.cursor
+submitBtn.style.opacity
 submitprofit.com
 submoti.ga
 submoti.gq
@@ -159401,6 +159433,7 @@ tarek-auth.com
 taresz.ga
 tarfand.city
 target35.ru
+targetStep.style.display
 targetachived.tk
 targetcom.com
 targetdb.com
@@ -171737,6 +171770,7 @@ user.vivozap.com.br
 user015.1freehost.site
 user3p.v-tal.net.br
 user3p.vtal.net.br
+userLoginStatus.email
 userbot.p-e.kr
 userbot.site
 usercoupon.com
@@ -179557,7 +179591,13 @@ window.currentLang
 window.currentlang
 window.dataLayer
 window.datalayer
+window.dispatchEvent
+window.isSubscribeTriggered
 window.location.href
+window.location.origin
+window.location.pathname
+window.memberEmail
+window.memberId
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
@@ -188119,6 +188159,7 @@ zelknow.com
 zelooemail.ru
 zelras.ru
 zeltool.xyz
+zelvo.nu
 zema-consulting.us
 zemail.ga
 zemail.ml
