@@ -65593,6 +65593,7 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
+for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -110801,7 +110802,6 @@ misbondis.com
 misc.dobunny.com
 misc.marksypark.com
 misc.ploooop.com
-misc.quirkymeme.com
 misc.warboardplace.com
 miscalhero.com
 miscbrunei.net
@@ -146463,7 +146463,6 @@ scerpio.com
 scfastoffers.com
 scgatton.biz
 scgmm1.com
-schaadt96.silkwomenshirts.com
 schabernack.ru
 schachrol.com
 schack.com
@@ -171182,7 +171181,6 @@ up.cowsnbullz.com
 up.marksypark.com
 up.ploooop.com
 up.poisedtoshrike.com
-up.scoldly.com
 up.wrengostic.com
 up.yoshisad.com
 up2date-nutzer-deutschland-12312422-de-checker.ru
