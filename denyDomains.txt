@@ -48905,7 +48905,6 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
