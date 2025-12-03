@@ -36794,7 +36794,6 @@ cdn43.soloadvanced.com
 cdn45.soloadvanced.com
 cdn5.emvps.xyz
 cdn5.soloadvanced.com
-cdn53.mailna.us
 cdn53.soloadvanced.com
 cdn56.soloadvanced.com
 cdn6.emvps.xyz
@@ -186643,6 +186642,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
