@@ -76609,7 +76609,6 @@ hash.oldoutnewin.com
 hash.ploooop.com
 hash.poisedtoshrike.com
 hash.pp.ua
-hash.scarbour.com
 hashback.com
 hashban.org
 hashbury.space
@@ -163396,7 +163395,6 @@ thinhmin.com
 think.blatnet.com
 think.factorican.com
 think.foodforhat.com
-think.freog.com
 think.hammerhandz.com
 think.lakemneadows.com
 think.marksypark.com
