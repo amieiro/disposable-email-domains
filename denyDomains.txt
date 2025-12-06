@@ -72249,7 +72249,6 @@ go-trade.org
 go-tu-new-cars-ok.live
 go-vegas.ru
 go.blatnet.com
-go.frienced.com
 go.irc.so
 go.marksypark.com
 go.oldoutnewin.com
@@ -125330,6 +125329,7 @@ otri.boringverse.com
 otri.relieval.com
 otri.wirelax.com
 otrimail.com
+otselot.com
 otsevers.com
 otsonointi.org
 otsos96.link
