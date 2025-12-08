@@ -28734,7 +28734,6 @@ biz-giant.com
 biz-king.com
 biz-monster.com
 biz.id
-biz.relieval.com
 biz.st
 biz.tm
 bizalem.com
@@ -164395,6 +164394,7 @@ tirtalayana.com
 tirtaqq2.com
 tirthajatra.com
 tirupatitemple.net
+tirv.com
 tirv.net
 tirzahfjellman.com
 tisacli.co.uk
