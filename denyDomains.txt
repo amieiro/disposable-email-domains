@@ -41863,6 +41863,7 @@ comfort.meettravel.click
 comfort.openinvestmentapp.com
 comfort.runlightly.click
 comfort.takeaspill.click
+comfort.thetravellersrest.click
 comfort.thetravelperk.click
 comfort.timetraveller.click
 comfort.travelinman.click
