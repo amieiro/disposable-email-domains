@@ -105697,6 +105697,7 @@ mailus.ninjatransfers.click
 mailus.quickreply.click
 mailus.thebillieholiday.click
 mailus.theholiday.click
+mailus.thewisetransfer.click
 mailus.travelxp.click
 mailus.trytravel.click
 mailus.wetransfer.click
