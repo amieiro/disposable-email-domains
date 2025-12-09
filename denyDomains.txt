@@ -17760,7 +17760,6 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
-answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
@@ -57543,6 +57542,7 @@ emailure.net
 emailus.caperly.click
 emailus.click
 emailus.gethike.click
+emailus.getwisetransfer.click
 emailus.meettravel.click
 emailus.ninjatransfers.click
 emailus.theflip.click
@@ -186812,6 +186812,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
