@@ -58324,6 +58324,7 @@ enquiry.getfrisk.click
 enquiry.getgambol.click
 enquiry.gethike.click
 enquiry.getperegrinate.click
+enquiry.getwisetransfer.click
 enquiry.hotelhafenhamburg.click
 enquiry.openturnon.click
 enquiry.quickreply.click
