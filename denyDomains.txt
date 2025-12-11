@@ -68226,6 +68226,7 @@ g-g.live
 g-kioku.com
 g-mail.com
 g-mail.gq
+g-mail.kr
 g-mailer.site
 g-mailer.website
 g-mailer.xyz
@@ -69625,6 +69626,7 @@ gemarbola.life
 gemarbola.link
 gemarbola.news
 gemardepo.online
+gembul.site
 gemeentebanen.works
 gemient.com
 gemil.com
@@ -128778,6 +128780,7 @@ peotanbart.tk
 pep-security.net
 pep.emlpro.com
 pep53.space
+pepamail.com
 pepbot.com
 pepbridge.com
 pepenews.club
