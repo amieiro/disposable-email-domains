@@ -40339,7 +40339,6 @@ clicku.pro
 clickwowm.pro
 client-side.ru
 client.blognet.in
-client.eshreky.com
 client.festivalday.click
 client.gambolhq.click
 client.getcaper.click
@@ -48970,7 +48969,6 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -146815,7 +146813,6 @@ scerpio.com
 scfastoffers.com
 scgatton.biz
 scgmm1.com
-schaadt96.silkwomenshirts.com
 schabernack.ru
 schachrol.com
 schack.com
@@ -164562,6 +164559,7 @@ tirtalayana.com
 tirtaqq2.com
 tirthajatra.com
 tirupatitemple.net
+tirv.com
 tirv.net
 tirzahfjellman.com
 tisacli.co.uk
@@ -186912,6 +186910,7 @@ yop.moolee.net
 yop.profmusique.com
 yop.smeux.com
 yop.too.li
+yop.tv-sante.com
 yop.uuii.in
 yop.xn--vqq79r59m.eu.org
 yop.ze.cx
