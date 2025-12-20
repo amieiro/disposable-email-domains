@@ -49024,7 +49024,6 @@ dev.ploooop.com
 dev.pointbuysys.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
-dev.zanycabs.com
 dev01d.ml
 dev256.xyz
 dev286.com
@@ -95472,7 +95471,6 @@ kozb.com
 kozelkrug.xyz
 kozha.info
 kozing.net
-kozomail.com
 kozow.com
 kp033.club
 kp2008.com
