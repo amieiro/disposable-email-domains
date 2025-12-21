@@ -80968,6 +80968,7 @@ how.hammerhandz.com
 how.lakemneadows.com
 how.marksypark.com
 how.relieval.com
+how.ultramoonbear.com
 how.wrengostic.com
 how1a.site
 how1b.site
@@ -143163,7 +143164,6 @@ rooster-pil-pil-ballincollig.com
 rooststellarsmelt.site
 root-server.xyz
 root-servers.site
-root.clarized.com
 root.hammerhandz.com
 root.pointbuysys.com
 root.rowrowleft.com
