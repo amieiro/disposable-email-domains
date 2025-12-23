@@ -70548,7 +70548,6 @@ getx-epiccasino.hair
 getx-epiccasino.pics
 getx-epiccasino.rest
 getx-fortunecasino.quest
-getx-fortunecasino.rest
 getx-fortunecasino.website
 getyougadgets.com
 getyourbook.site
@@ -172014,7 +172013,6 @@ upwwpgjvj.shop
 upx-casinoenergy.fun
 upx-casinoenergy.space
 upx-casinoviva.quest
-upx-casinoviva.rest
 upx-casinoviva.website
 upx-diamondcasino.click
 upx-diamondcasino.homes
