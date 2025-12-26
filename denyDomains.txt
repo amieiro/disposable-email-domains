@@ -132739,7 +132739,6 @@ post.getcruise.click
 post.getsome.click
 post.getturnon.click
 post.happyholidays.click
-post.healthroutinenail.click
 post.holidayhills.click
 post.lapsuscalami.click
 post.meetcruise.click
@@ -144455,6 +144454,7 @@ rurealjoe1.ru
 rurr.com
 ruru.be
 rus-black-blog.ru
+rus-china.travel
 rus-flat.ru
 rus-massaggio.com
 rus-oonies.ru
