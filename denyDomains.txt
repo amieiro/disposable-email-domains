@@ -17789,6 +17789,7 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
+answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
@@ -118292,7 +118293,6 @@ new.cowsnbullz.com
 new.emailies.com
 new.freeml.net
 new.frequiry.com
-new.geomenon.com
 new.hammerhandz.com
 new.hellohappy2.com
 new.lakemneadows.com
