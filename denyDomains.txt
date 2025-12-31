@@ -17789,7 +17789,6 @@ answer-questions.info
 answerauto.ru
 answers.blatnet.com
 answers.eastworldwest.com
-answers.frequiry.com
 answers.ploooop.com
 answers.xyz
 answersfortrivia.ml
