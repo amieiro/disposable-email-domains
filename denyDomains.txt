@@ -123028,7 +123028,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:700b64f8a1e298f173dfb7f38bf7b7fd050461f862b3f96bbf45c59874ffaad5
+oid sha256:e462b42c9fc025922476fa163a1677b0b489da5d837aedd221513ac282091ddf
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -150275,7 +150275,6 @@ shmeriously.com
 shmlkg.club
 sho2pping421.icu
 sho94.xpath.site
-shoaf96.plasticvouchercards.com
 shobeh.com
 shockhorror.com
 shockingme.com
@@ -151670,7 +151669,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 526642
+size 527143
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
