@@ -64132,6 +64132,7 @@ finance-times.info
 finance.blatnet.com
 finance.findingperry.com
 finance.foodforhat.com
+finance.frequiry.com
 finance.lakemneadows.com
 finance.popautomated.com
 finance.uni.me
@@ -133424,7 +133425,6 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
-prasarana.com
 prass.me
 prastganteng.online
 pratik-ik.com
