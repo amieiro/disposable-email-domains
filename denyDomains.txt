@@ -126768,6 +126768,7 @@ p-kk2.icu
 p-oops.com
 p-response.com
 p-store.cc
+p-ttz.top
 p-value.ga
 p-value.tk
 p-vva.top
@@ -161419,7 +161420,6 @@ tehsusu.ml
 tehtrip.com
 tehubpmw.shop
 teicarried.com
-teichman1.extravagandideas.com
 teicrimta.ga
 teicrimta.gq
 teicrimta.ml
