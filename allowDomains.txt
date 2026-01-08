@@ -42,7 +42,6 @@ airtable.com
 aleeas.com
 alertmedia.com
 aliceadsl.fr
-allenovery.com
 allergist.com
 allmail.net
 allstate.com
@@ -542,7 +541,6 @@ keemail.me
 kennedy808.com
 keromail.com
 kissfans.com
-kitepharma.com
 kittymail.com
 knowbe4.com
 koreamail.com
@@ -557,7 +555,6 @@ letterboxes.org
 lever.co
 liamekaens.com
 libero.it
-libertyglobal.com
 lilo.org
 linkedin.com
 linuxmail.org
@@ -1094,7 +1091,6 @@ yeah.net
 yelp.com
 yepmail.net
 ymail.com
-youngcapital.nl
 your-mail.com
 youtube.com
 zendesk.com
