@@ -40697,6 +40697,7 @@ client.makingdomes.com
 client.marksypark.com
 client.marrived.com
 client.openflip.click
+client.pairst.com
 client.ploooop.com
 client.pointbuysys.com
 client.popautomated.com
@@ -126014,7 +126015,6 @@ or-lift.com
 or.blurelizer.com
 or.emlpro.com
 or.emltmp.com
-or.freog.com
 or.orgz.in
 or.ploooop.com
 or.spymail.one
