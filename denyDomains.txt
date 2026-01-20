@@ -20730,6 +20730,7 @@ at.hm
 at.laste.ml
 at.ploooop.com
 at.pointbuysys.com
+at.resistingmoney.com
 at.rom11.com
 at0mik.org
 at0s.ml
@@ -70528,7 +70529,6 @@ genx-training.com
 genys.best
 genzmaile.com
 genzotp.com
-genzstyle.my.id
 genztrang.com
 geo-crypto.com
 geo.gallery
@@ -162926,7 +162926,6 @@ tempemail.co
 tempemail.co.za
 tempemail.com
 tempemail.daniel-james.me
-tempemail.in
 tempemail.info
 tempemail.net
 tempemail.org
