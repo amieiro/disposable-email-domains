@@ -172677,7 +172677,6 @@ unblockproxy.one
 unc.app
 uncamphomil.ru
 uncause.org
-uncensor.me
 uncensored.rf.gd
 uncensoredsurvival.com
 uncermail.com
@@ -188902,7 +188901,6 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.work.gd
 yop.xn--vqq79r59m.eu.org
