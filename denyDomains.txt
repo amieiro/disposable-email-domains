@@ -121596,7 +121596,6 @@ nooploop.store
 noopmail.com
 noopmail.org
 noopmail.org.bsmedia.vn
-noor54.newfishingaccessories.com
 noorahmed.life
 noorarash.com
 noorrafet.cloud
@@ -134395,6 +134394,7 @@ pp-c5.lol
 pp-ct.lol
 pp-gua.lol
 pp-gua.top
+pp-h1.lol
 pp-k1.lol
 pp-mc.lol
 pp-n1.lol
@@ -166924,7 +166924,6 @@ tmailor.com
 tmailor.net
 tmailpro.net
 tmails.net
-tmails.org
 tmails.top
 tmailservices.com
 tmailweb.com
