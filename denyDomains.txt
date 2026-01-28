@@ -66499,7 +66499,6 @@ for-all.pl
 for.blatnet.com
 for.factorican.com
 for.favbat.com
-for.frienced.com
 for.goinglownow.com
 for.lakemneadows.com
 for.marksypark.com
@@ -163273,6 +163272,7 @@ tempmail.xxi2.com
 tempmail.yjml.net
 tempmail101.com
 tempmail2.com
+tempmail247.top
 tempmaila.org
 tempmaila.pro
 tempmailapp.com
