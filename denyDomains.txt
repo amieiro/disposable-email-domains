@@ -52227,7 +52227,6 @@ dns-stuff.com
 dns.army
 dns.navy
 dns04.com
-dns1.network
 dns123.org
 dns398.xyz
 dns4urpns.com
@@ -166531,6 +166530,7 @@ ticpire.cf
 ticpire.gq
 ticpire.ml
 ticpire.tk
+tidaksuka.cfd
 tidaktahu.xyz
 tidc.dev
 tide-fillmig.rest
