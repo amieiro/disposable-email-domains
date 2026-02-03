@@ -48233,7 +48233,6 @@ de-register-newdevice.com
 de-register.newdevice-secure.com
 de-visions.com
 de.10mail.org
-de.geomenon.com
 de.introverted.ninja
 de.lakemneadows.com
 de.newhorizons.gq
@@ -111676,7 +111675,6 @@ mexu.avlnch.store
 mexvat.com
 mexylocu.website
 mexze.fun
-mey.com.tr
 meybet52.com
 meybet57.com
 meyernajem.com
@@ -143926,6 +143924,7 @@ rich-rp.com
 rich-sk.com
 rich-town.site
 rich.blatnet.com
+rich.dobunny.com
 rich.frequiry.com
 rich.ploooop.com
 richard.salon
@@ -147749,6 +147748,7 @@ sailmail.io
 sailorment.com
 sailorplastic.com
 sailors.co.uk
+sails.ceramicsouvenirs.com
 sailun.md
 saimesuratokac.shop
 sain2o.site
