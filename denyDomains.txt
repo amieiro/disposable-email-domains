@@ -72413,6 +72413,7 @@ givdgive.shop
 give.hammerhandz.com
 give.marksypark.com
 give.mondard.com
+give.pairst.com
 give.poisedtoshrike.com
 giveamagazine.com
 giveaspyt.com
@@ -73401,6 +73402,7 @@ gmx.es
 gmx.fit
 gmx.fr.nf
 gmx.ne
+gmx.net.tr
 gmx.plus
 gmx.st
 gmx1mail.top
@@ -77945,6 +77947,7 @@ hash.oldoutnewin.com
 hash.ploooop.com
 hash.poisedtoshrike.com
 hash.pp.ua
+hash.scarbour.com
 hashback.com
 hashban.org
 hashbury.space
@@ -155339,6 +155342,7 @@ snike.site
 snikersrules.ru
 snine.online
 snip707.com
+snipar7.eu.org
 snipbingra.ga
 snipbingra.gq
 snipbingra.tk
@@ -167639,6 +167643,7 @@ tmailor.com
 tmailor.net
 tmailpro.net
 tmails.net
+tmails.org
 tmails.top
 tmailservices.com
 tmailweb.com
@@ -171441,6 +171446,7 @@ turtlebutfast.com
 turtlefutures.com
 turtlegrassllc.com
 turturizm.ru
+turu.camdvr.org
 turu.software
 turual.com
 turuma.com
@@ -190132,7 +190138,6 @@ your-ugg-boots.com
 your-up.online
 your.fullemedia-deals.info
 your.lakemneadows.com
-your.milltrill.com
 your2020.life
 your5.ru
 your5.store
