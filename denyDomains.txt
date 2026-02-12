@@ -25590,6 +25590,7 @@ beachflag.click
 beachfront-llc.us
 beachhaven.company
 beachhaven.fun
+beachhotelzoutelande.click
 beachhouse.online
 beachlink.com
 beachpeopleco.com
@@ -36321,6 +36322,7 @@ carehp.com
 careless-whisper.com
 careline.click
 carenetdesign.com
+carenmiosga.click
 carerunner.com
 caresforfish.com
 careuters.com
