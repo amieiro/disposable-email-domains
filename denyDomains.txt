@@ -111949,7 +111949,6 @@ mexu.avlnch.store
 mexvat.com
 mexylocu.website
 mexze.fun
-mey.com.tr
 meybet52.com
 meybet57.com
 meyernajem.com
@@ -120704,6 +120703,7 @@ nexostartups.com
 nexral.com
 nexriseinfo.tech
 nexscience.tk
+nexshinz.app
 nexsman.com
 nexsolutions.com
 nexswiss.org
