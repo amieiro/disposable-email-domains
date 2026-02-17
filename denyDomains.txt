@@ -112977,7 +112977,6 @@ mini-mail.net
 mini-moda.pw
 mini-quadcopter.ru
 mini-traktor56.ru
-mini.exiix.com
 mini.goinglownow.com
 mini.pixymix.com
 mini.poisedtoshrike.com
@@ -120081,6 +120080,7 @@ netviewer-france.com
 netvision.es
 netwest.co.uk
 network-advantage.site
+network-architects.net
 network-loans.co.uk
 network-planet.ru
 network-security-alerts.com
@@ -174398,6 +174398,7 @@ universenews.site
 universidaddeleon.com.mx
 universidadditella.org
 universidadebiblica.net
+universitas.codes
 universiteomarbongo.ga
 universitiesmail.com
 university.cloudns.ph
