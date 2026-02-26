@@ -67872,6 +67872,7 @@ free-server.bid
 free-softer.cu.cc
 free-ssl.biz
 free-store.ru
+free-temp-mail.eu.org
 free-temp.net
 free-terpene.com
 free-web-mails.com
@@ -148665,6 +148666,7 @@ sam-serial7.space
 sam-serial7.xyz
 sam-serial8.xyz
 sam-serial9.xyz
+sam1.eu.org
 samaki.com
 samalekan.club
 samalekan.online
@@ -164599,6 +164601,7 @@ temporary-mailbox.com
 temporary.gg
 temporary.mcedu.ga
 temporaryemail.com
+temporaryemail.dpdns.org
 temporaryemail.net
 temporaryemail.org
 temporaryemail.us
@@ -170509,7 +170512,6 @@ tree.frequiry.com
 tree.heartmantwo.com
 tree.ploooop.com
 tree.pointbuysys.com
-tree.scarbour.com
 treebarnpublishing.com
 treebasics.online
 treebate.org
