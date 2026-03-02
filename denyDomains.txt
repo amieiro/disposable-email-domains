@@ -136664,6 +136664,7 @@ privmail.cf
 privmail.edu.pl
 privmail.ml
 privseco.com
+privtalk.my.id
 privy-mail.com
 privy-mail.de
 privyinternet.com
@@ -190695,7 +190696,6 @@ yop.profmusique.com
 yop.punkapoule.fr
 yop.smeux.com
 yop.too.li
-yop.tv-sante.com
 yop.uuii.in
 yop.work.gd
 yop.xn--vqq79r59m.eu.org
