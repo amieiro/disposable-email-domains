@@ -64209,6 +64209,7 @@ feedback.emailus.click
 feedback.galaday.click
 feedback.gambolhq.click
 feedback.getcaper.click
+feedback.healthroutine.click
 feedback.hikeapp.click
 feedback.lapsuscalami.click
 feedback.opencaper.click
@@ -121651,6 +121652,7 @@ nigeria-nedv.ru
 nigeria1.website
 nigeriaforexbroker.com
 nigerialog.org
+nigga.com
 niggamail.com
 niggercrack.com
 niggesh.n-e.kr
@@ -160562,6 +160564,7 @@ suggest.carolinensielrestaurants.click
 suggest.fauxpas.click
 suggest.gambolhq.click
 suggest.healthcareprivacy.click
+suggest.healthroutine.click
 suggest.makeablunder.click
 suggest.thegambol.click
 suggest.tourlabs.click
