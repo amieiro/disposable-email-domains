@@ -21299,7 +21299,6 @@ at.hm
 at.laste.ml
 at.ploooop.com
 at.pointbuysys.com
-at.rom11.com
 at0mik.org
 at0s.ml
 ataaalkhayer.net
@@ -32799,7 +32798,6 @@ bray.dudscuapcut.store
 braynight.club
 braynight.online
 braynight.xyz
-braynix.digital
 brayy.com
 brazilbites.com
 braziletech.com
@@ -129115,6 +129113,7 @@ otri.boringverse.com
 otri.relieval.com
 otri.wirelax.com
 otrimail.com
+otselot.com
 otsevers.com
 otsocasino.net
 otsonointi.org
@@ -168231,6 +168230,7 @@ thingstory.biz
 thingtrieve.com
 thinhmin.com
 think.blatnet.com
+think.factorican.com
 think.foodforhat.com
 think.freog.com
 think.hammerhandz.com
