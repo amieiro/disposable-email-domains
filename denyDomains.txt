@@ -41300,7 +41300,6 @@ class.droidpic.com
 class.emailies.com
 class.hammerhandz.com
 class.hellohappy2.com
-class.resistingmoney.com
 class.wrengostic.com
 class1air.com
 classactioner.com
@@ -71853,6 +71852,7 @@ genys.best
 genzmaile.com
 genznet.me
 genzotp.com
+genzstyle.my.id
 genztrang.com
 geo-crypto.com
 geo.gallery
@@ -123867,7 +123867,6 @@ not.lakemneadows.com
 not.legal
 not.ploooop.com
 not.trillania.com
-not.ultramoonbear.com
 not0k.com
 notabackdoor.xyz
 notable.de
@@ -128430,7 +128429,6 @@ or-lift.com
 or.blurelizer.com
 or.emlpro.com
 or.emltmp.com
-or.freog.com
 or.orgz.in
 or.ploooop.com
 or.spymail.one
@@ -158340,6 +158338,7 @@ space-fashion.ru
 space-for-dates1.com
 space.cowsnbullz.com
 space.favbat.com
+space.scoldly.com
 spacebazzar.ru
 spaceboat.tech
 spacebooks.site
@@ -159227,7 +159226,6 @@ sporunaf.gq
 spot.cowsnbullz.com
 spot.lakemneadows.com
 spot.marksypark.com
-spot.milltrill.com
 spot.oldoutnewin.com
 spot.poisedtoshrike.com
 spot.popautomated.com
@@ -164010,7 +164008,6 @@ take-ur-vites.org
 take.360ezzz.com
 take.blatnet.com
 take.dobunny.com
-take.geomenon.com
 take.hammerhandz.com
 take.marksypark.com
 takeafancy.ru
