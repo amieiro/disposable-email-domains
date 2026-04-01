@@ -767,6 +767,7 @@ principal.com
 programmer.net
 proinbox.com
 promessage.com
+proofpointessentials.com
 protestant.com
 proton.me
 protonmail.ch
@@ -858,6 +859,7 @@ sentinelone.net
 sertifi.net
 service-now.com
 service-webroot.com
+servicenow.com
 sfax.com
 sfr.fr
 sharp.com
