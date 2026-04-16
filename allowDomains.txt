@@ -19,6 +19,7 @@ adobe.com
 adobesign.com
 adobesign.us
 adp.com
+aetna.com
 africamail.com
 aim.com
 airbnb.com
@@ -280,6 +281,7 @@ empforce.com
 empiresuite.com
 engineer.com
 englandmail.com
+enterprise.com
 envoy.com
 equifax.com
 esignatures.com
