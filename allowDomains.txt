@@ -450,6 +450,7 @@ iru.com
 israelmail.com
 italymail.com
 japantimes.co.jp
+jetblue.com
 jetbrains.com
 jnj.com
 job4u.com
@@ -464,6 +465,7 @@ keemail.me
 keromail.com
 kissfans.com
 kittymail.com
+klarna.com
 knowbe4.com
 koreamail.com
 kpmg.com
@@ -766,6 +768,7 @@ sohu.com
 solution4u.com
 songwriter.net
 sony.com
+southwest.com
 spacex.com
 spainmail.com
 splitwise.com
