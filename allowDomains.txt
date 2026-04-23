@@ -8,6 +8,7 @@
 2trom.com
 8alias.com
 8shield.net
+aa.com
 aarp.org
 accountant.com
 acdcfan.com
@@ -468,6 +469,7 @@ kittymail.com
 klarna.com
 knowbe4.com
 koreamail.com
+kp.com
 kpmg.com
 laposte.net
 lastpass.com
@@ -608,6 +610,7 @@ pacific-ocean.com
 pacificwest.com
 paddle.com
 pagerduty.com
+paloaltonetworks.com 
 pandadoc.net
 panerabread.com
 paperspace.com
@@ -649,6 +652,7 @@ priest.com
 primevideo.com
 principal.com
 programmer.net
+proofpoint.com
 proofpointessentials.com
 protestant.com
 proton.me
