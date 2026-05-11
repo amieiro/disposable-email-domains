@@ -313,6 +313,7 @@ fastservice.com
 fbi.gov
 federatedinsurance.com
 fedex.com
+fedexfreight.com
 fedins.com
 feedspot.com
 feedspotmailer.com
