@@ -181,6 +181,9 @@ citibanamex.com
 clearbit.com
 clerk.com
 clixsign.com
+cloaked.com
+cloaked.dev
+cloaked.id
 cloudappsecurity.com
 cloudflare.com
 cloudlabs.ai
@@ -793,6 +796,7 @@ stytch.com
 sublime.security
 sublimesecurity.com
 substack.com
+sudomail.com
 sunlife.com
 surgical.net
 svb.com
