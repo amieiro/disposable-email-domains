@@ -43,6 +43,9 @@ chef.net
 chemist.com
 chinamail.com
 clerk.com
+cloaked.com
+cloaked.dev
+cloaked.id
 clubmember.org
 collector.org
 columnist.com
