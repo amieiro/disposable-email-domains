@@ -19,6 +19,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt',
         'https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains_mx.txt',
         'https://raw.githubusercontent.com/auth0-signals/disposable-email-domains/master/dea.txt',
+        'https://raw.githubusercontent.com/castle/disposable-email-domains/master/disposable-email-domains.txt',
         'https://raw.githubusercontent.com/di/disposable-email-domains/master/source_data/disposable_email_blocklist.conf',
         'https://raw.githubusercontent.com/disposable/disposable-email-domains/master/domains.txt',
         'https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf',
