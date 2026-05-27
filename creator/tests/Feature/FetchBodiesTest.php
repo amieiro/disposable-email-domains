@@ -40,7 +40,6 @@ class FetchBodiesTest extends TestCase
     private function invokeFetchBodies(array $urls): array
     {
         $method = (new ReflectionClass($this->command))->getMethod('fetchBodies');
-        $method->setAccessible(true);
 
         return $method->invoke($this->command, $urls);
     }
