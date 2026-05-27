@@ -23,6 +23,7 @@ to suggest some change, improvement, ... you can contact me through the
 - **denyDomains**. List of known e-mail domains used disposable email services and should be blocked. Available in [txt](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/denyDomains.txt) and [json](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/denyDomains.json) format.
 - **allowDomains**. List of well-known email domains that are not disposable and should be allowed. Available in [txt](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.txt) and [json](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/allowDomains.json) format.
 - **secureDomains**. Internal list of known e-mail domains that are secure. Used to generate the denyDomains files.
+- **meta**. Machine-readable counts of the generated lists, in [json](https://raw.githubusercontent.com/amieiro/disposable-email-domains/master/meta.json) format. The generation time is the file's last commit date.
 
 ## Usage
 

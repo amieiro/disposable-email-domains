@@ -98,6 +98,9 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /* The internal file with the secure domains */
     protected $secureDomainsFile = '../secureDomains.txt';
 
+    /* The file with machine-readable metadata about the generated lists */
+    protected $metaFile = '../meta.json';
+
     /**
      * The minimum fraction of the previous deny list size that a new run must
      * reach before it is allowed to overwrite the files. Guards against an
@@ -190,6 +193,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $allowDomains = $this->addSecureDomains($allowDomains);
             $allowDomains = $this->removeDuplicates($allowDomains);
             $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
+
+            $this->writeMetadata($this->metaFile, count($denyDomains), count($allowDomains));
 
             //$this->commitChanges();
             
@@ -540,6 +545,39 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         file_put_contents($textFile, implode(PHP_EOL, array_values($domains)));
         file_put_contents($jsonFile, json_encode(array_values($domains), JSON_PRETTY_PRINT));
+    }
+
+    /**
+     * Build the machine-readable metadata for the generated lists.
+     *
+     * Only counts are recorded, not a timestamp: a timestamp would change on
+     * every run and defeat the "commit only when the lists changed" check,
+     * producing a commit every fifteen minutes. The generation time is already
+     * available from the commit date.
+     *
+     * @param int $denyCount
+     * @param int $allowCount
+     * @return array
+     */
+    public function buildMetadata(int $denyCount, int $allowCount): array
+    {
+        return [
+            'denyDomains' => $denyCount,
+            'allowDomains' => $allowCount,
+        ];
+    }
+
+    /**
+     * Write the metadata file as JSON.
+     *
+     * @param string $file
+     * @param int $denyCount
+     * @param int $allowCount
+     * @return void
+     */
+    public function writeMetadata(string $file, int $denyCount, int $allowCount): void
+    {
+        file_put_contents($file, json_encode($this->buildMetadata($denyCount, $allowCount), JSON_PRETTY_PRINT));
     }
 
     /**
