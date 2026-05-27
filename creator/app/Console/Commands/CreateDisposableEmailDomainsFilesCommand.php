@@ -3,8 +3,16 @@
 namespace App\Console\Commands;
 
 use Carbon\Carbon;
+use GuzzleHttp\Client;
+use GuzzleHttp\ClientInterface;
+use GuzzleHttp\Exception\ConnectException;
+use GuzzleHttp\HandlerStack;
+use GuzzleHttp\Middleware;
+use GuzzleHttp\Promise\Utils;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Log;
+use Psr\Http\Message\ResponseInterface;
+use Throwable;
 
 class CreateDisposableEmailDomainsFilesCommand extends Command
 {
@@ -100,6 +108,21 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     protected float $shrinkThreshold = 0.9;
 
     /**
+     * The HTTP client used to fetch the source lists. Lazily created so it can
+     * be replaced with a mock in tests.
+     *
+     * @var ClientInterface|null
+     */
+    protected ?ClientInterface $client = null;
+
+    /**
+     * How many times a failed request is retried before it is given up on.
+     *
+     * @var int
+     */
+    protected int $maxRetries = 2;
+
+    /**
      * The name and signature of the console command.
      *
      * @var string
@@ -188,23 +211,146 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         $domains = [];
 
-        foreach ($textFiles as $textFile) {
-            try {
-                $domains = array_merge($domains, file($textFile, FILE_IGNORE_NEW_LINES));
-            } catch (\Exception $error) {
-                Log::error('Error reading ' . $textFile . PHP_EOL . $error);
-            }
+        foreach ($this->fetchBodies($textFiles) as $body) {
+            $domains = array_merge($domains, $this->linesFromText($body));
         }
 
-        foreach ($jsonFiles as $jsonFile) {
-            try {
-                $domains = array_merge($domains, json_decode(file_get_contents($jsonFile), true));
-            } catch (\Exception $error) {
-                Log::error('Error reading ' . $jsonFile . PHP_EOL . $error);
-            }
+        foreach ($this->fetchBodies($jsonFiles) as $body) {
+            $domains = array_merge($domains, $this->decodeJsonDomains($body));
         }
 
         return $domains;
+    }
+
+    /**
+     * Fetch a list of URLs concurrently and return the bodies of the ones that
+     * answered with HTTP 200, keyed by URL. Anything else (a non-200 status or
+     * a transport failure) is logged and skipped, so a single broken source
+     * cannot inject an error page or abort the whole run.
+     *
+     * @param array $urls
+     * @return array
+     */
+    protected function fetchBodies(array $urls): array
+    {
+        $client = $this->client();
+
+        $promises = [];
+        foreach ($urls as $url) {
+            $promises[$url] = $client->getAsync($url);
+        }
+
+        $bodies = [];
+        foreach (Utils::settle($promises)->wait() as $url => $result) {
+            if ($result['state'] !== 'fulfilled') {
+                Log::error('Error fetching ' . $url . PHP_EOL . $result['reason']->getMessage());
+                continue;
+            }
+
+            $response = $result['value'];
+            if ($response->getStatusCode() !== 200) {
+                Log::warning('Skipping ' . $url . ': HTTP ' . $response->getStatusCode());
+                continue;
+            }
+
+            $bodies[$url] = (string) $response->getBody();
+        }
+
+        return $bodies;
+    }
+
+    /**
+     * Split a fetched text body into lines, dropping the trailing newline.
+     * Mirrors file(..., FILE_IGNORE_NEW_LINES) but works on a string.
+     *
+     * @param string $body
+     * @return array
+     */
+    public function linesFromText(string $body): array
+    {
+        $body = rtrim($body, "\r\n");
+        if ($body === '') {
+            return [];
+        }
+
+        return preg_split('/\r\n|\r|\n/', $body);
+    }
+
+    /**
+     * Decode a JSON body into a list of domains, returning an empty array when
+     * the body is not valid JSON or is not an array.
+     *
+     * @param string $body
+     * @return array
+     */
+    public function decodeJsonDomains(string $body): array
+    {
+        $decoded = json_decode($body, true);
+
+        return is_array($decoded) ? $decoded : [];
+    }
+
+    /**
+     * Decide whether a failed request should be retried: on a connection error
+     * or a 5xx response, up to $maxRetries times.
+     *
+     * @param int $retries
+     * @param ResponseInterface|null $response
+     * @param Throwable|null $exception
+     * @return bool
+     */
+    public function shouldRetry(int $retries, ?ResponseInterface $response = null, ?Throwable $exception = null): bool
+    {
+        if ($retries >= $this->maxRetries) {
+            return false;
+        }
+
+        if ($exception instanceof ConnectException) {
+            return true;
+        }
+
+        return $response !== null && $response->getStatusCode() >= 500;
+    }
+
+    /**
+     * Replace the HTTP client, used to inject a mock client in tests.
+     *
+     * @param ClientInterface $client
+     * @return void
+     */
+    public function setClient(ClientInterface $client): void
+    {
+        $this->client = $client;
+    }
+
+    /**
+     * Build (once) the HTTP client used to fetch the sources, with a timeout,
+     * an identifying User-Agent, and a retry on transient failures.
+     *
+     * @return ClientInterface
+     */
+    protected function client(): ClientInterface
+    {
+        if ($this->client === null) {
+            $stack = HandlerStack::create();
+            $stack->push(Middleware::retry(
+                fn (int $retries, $request, ?ResponseInterface $response = null, ?Throwable $exception = null): bool
+                    => $this->shouldRetry($retries, $response, $exception),
+                fn (int $retries): int => $retries * 1000
+            ));
+
+            $this->client = new Client([
+                'handler' => $stack,
+                'timeout' => 30,
+                'connect_timeout' => 10,
+                'http_errors' => false,
+                'headers' => [
+                    'User-Agent' => 'amieiro/disposable-email-domains generator (+https://github.com/amieiro/disposable-email-domains)',
+                ],
+            ]);
+        }
+
+        return $this->client;
     }
 
     /**
