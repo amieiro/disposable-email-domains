@@ -230,27 +230,71 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     }
 
     /**
-     * Remove the secure domains from the deny domains.
+     * Remove the secure domains, and any of their subdomains, from the deny domains.
      *
      * @param array $domains
      * @return array
      */
     protected function removeSecureDomains(array $domains): array
     {
-        return array_udiff($domains, $this->secureDomainsArray, function ($domain, $secureDomain) {
-            // Remove domain with subdomain if the main domain is in the secure domains array
-            $matchesDomain = [];
-            $matchesSecureDomain = [];
-            preg_match('/(?<=\.)[^.]+\.[^.]+$/', $domain, $matchesDomain);
-            if (isset($matchesDomain[0])) {
-                $domain = $matchesDomain[0];
-            }
-            preg_match('/(?<=\.)[^.]+\.[^.]+$/', $secureDomain, $matchesSecureDomain);
-            if (isset($matchesSecureDomain[0])) {
-                $secureDomain = $matchesSecureDomain[0];
-            }
-            return strcmp($domain, $secureDomain);
+        $secureLookup = $this->buildSecureLookup($this->secureDomainsArray ?? []);
+
+        return array_filter($domains, function ($domain) use ($secureLookup) {
+            return !$this->isSecureDomain($domain, $secureLookup);
         });
+    }
+
+    /**
+     * Build a fast lookup set (domain => true) from the raw secure domains list,
+     * skipping blank lines and comments.
+     *
+     * @param array $secureDomains
+     * @return array
+     */
+    protected function buildSecureLookup(array $secureDomains): array
+    {
+        $lookup = [];
+        foreach ($this->removeLinesWithoutDomain($secureDomains) as $secureDomain) {
+            $secureDomain = trim($secureDomain);
+            if ($secureDomain !== '') {
+                $lookup[$secureDomain] = true;
+            }
+        }
+
+        return $lookup;
+    }
+
+    /**
+     * Decide whether a domain is secured: it either matches a secure domain
+     * exactly or is a subdomain of one. Matching happens on label boundaries,
+     * so "myexample.com" is not treated as a subdomain of "example.com", and
+     * "evil.co.uk" is not removed because of a secure "good.co.uk".
+     *
+     * @param string $domain
+     * @param array $secureLookup
+     * @return bool
+     */
+    public function isSecureDomain(string $domain, array $secureLookup): bool
+    {
+        if ($domain === '') {
+            return false;
+        }
+
+        if (isset($secureLookup[$domain])) {
+            return true;
+        }
+
+        $labels = explode('.', $domain);
+        // The smallest parent worth checking has two labels (a registrable domain).
+        $lastParentIndex = count($labels) - 2;
+        for ($i = 1; $i <= $lastParentIndex; $i++) {
+            $parent = implode('.', array_slice($labels, $i));
+            if (isset($secureLookup[$parent])) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     /**
