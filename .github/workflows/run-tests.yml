@@ -42,3 +42,27 @@ jobs:
         run: |
           cd creator
           php vendor/bin/phpunit
+
+  pint:
+    name: Pint (code style)
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite, bcmath, soap, intl, gd, exif, iconv
+          coverage: none
+
+      - name: Install dependencies
+        run: |
+          cd creator
+          composer install -n --prefer-dist
+
+      - name: Check code style with Pint
+        run: |
+          cd creator
+          php vendor/bin/pint --test
