@@ -91,8 +91,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /* The files to save the domains */
     protected $textDenyFile = '../denyDomains.txt';
+
     protected $jsonDenyFile = '../denyDomains.json';
+
     protected $textAllowFile = '../allowDomains.txt';
+
     protected $jsonAllowFile = '../allowDomains.json';
 
     /* The internal file with the secure domains */
@@ -105,23 +108,17 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * The minimum fraction of the previous deny list size that a new run must
      * reach before it is allowed to overwrite the files. Guards against an
      * upstream source going down and silently shrinking the published list.
-     *
-     * @var float
      */
     protected float $shrinkThreshold = 0.9;
 
     /**
      * The HTTP client used to fetch the source lists. Lazily created so it can
      * be replaced with a mock in tests.
-     *
-     * @var ClientInterface|null
      */
     protected ?ClientInterface $client = null;
 
     /**
      * How many times a failed request is retried before it is given up on.
-     *
-     * @var int
      */
     protected int $maxRetries = 2;
 
@@ -151,8 +148,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Execute the console command.
-     *
-     * @return int
      */
     public function handle(): int
     {
@@ -176,10 +171,10 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
 
             $previousDenyCount = $this->countExistingDomains($this->textDenyFile);
-            if (!$this->isDenyListSizeAcceptable(count($denyDomains), $previousDenyCount)) {
+            if (! $this->isDenyListSizeAcceptable(count($denyDomains), $previousDenyCount)) {
                 $message = sprintf(
                     'Aborting: the new deny list (%d domains) dropped below %d%% of the previous one (%d domains). '
-                    . 'Files were not overwritten, most likely an upstream source failed.',
+                    .'Files were not overwritten, most likely an upstream source failed.',
                     count($denyDomains),
                     (int) round($this->shrinkThreshold * 100),
                     $previousDenyCount
@@ -198,11 +193,12 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
             $this->writeMetadata($this->metaFile, count($denyDomains), count($allowDomains));
 
-            //$this->commitChanges();
-            
+            // $this->commitChanges();
+
             return 0; // Success
         } catch (\Exception $error) {
-            Log::error('Error processing the domains. ' . PHP_EOL . $error);
+            Log::error('Error processing the domains. '.PHP_EOL.$error);
+
             return 1; // Failure
         }
     }
@@ -210,9 +206,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Obtain all the domains from the text and json files
      *
-     * @param array $textFiles The text files with the domains.
-     * @param array $jsonFiles The json files with the domains.
-     * @return array
+     * @param  array  $textFiles  The text files with the domains.
+     * @param  array  $jsonFiles  The json files with the domains.
      */
     protected function obtainAllDomains(array $textFiles, array $jsonFiles): array
     {
@@ -234,9 +229,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * answered with HTTP 200, keyed by URL. Anything else (a non-200 status or
      * a transport failure) is logged and skipped, so a single broken source
      * cannot inject an error page or abort the whole run.
-     *
-     * @param array $urls
-     * @return array
      */
     protected function fetchBodies(array $urls): array
     {
@@ -250,13 +242,15 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
         $bodies = [];
         foreach (Utils::settle($promises)->wait() as $url => $result) {
             if ($result['state'] !== 'fulfilled') {
-                Log::error('Error fetching ' . $url . PHP_EOL . $result['reason']->getMessage());
+                Log::error('Error fetching '.$url.PHP_EOL.$result['reason']->getMessage());
+
                 continue;
             }
 
             $response = $result['value'];
             if ($response->getStatusCode() !== 200) {
-                Log::warning('Skipping ' . $url . ': HTTP ' . $response->getStatusCode());
+                Log::warning('Skipping '.$url.': HTTP '.$response->getStatusCode());
+
                 continue;
             }
 
@@ -269,9 +263,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Split a fetched text body into lines, dropping the trailing newline.
      * Mirrors file(..., FILE_IGNORE_NEW_LINES) but works on a string.
-     *
-     * @param string $body
-     * @return array
      */
     public function linesFromText(string $body): array
     {
@@ -286,9 +277,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Decode a JSON body into a list of domains, returning an empty array when
      * the body is not valid JSON or is not an array.
-     *
-     * @param string $body
-     * @return array
      */
     public function decodeJsonDomains(string $body): array
     {
@@ -300,11 +288,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Decide whether a failed request should be retried: on a connection error
      * or a 5xx response, up to $maxRetries times.
-     *
-     * @param int $retries
-     * @param ResponseInterface|null $response
-     * @param Throwable|null $exception
-     * @return bool
      */
     public function shouldRetry(int $retries, ?ResponseInterface $response = null, ?Throwable $exception = null): bool
     {
@@ -321,9 +304,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Replace the HTTP client, used to inject a mock client in tests.
-     *
-     * @param ClientInterface $client
-     * @return void
      */
     public function setClient(ClientInterface $client): void
     {
@@ -333,16 +313,13 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     /**
      * Build (once) the HTTP client used to fetch the sources, with a timeout,
      * an identifying User-Agent, and a retry on transient failures.
-     *
-     * @return ClientInterface
      */
     protected function client(): ClientInterface
     {
         if ($this->client === null) {
             $stack = HandlerStack::create();
             $stack->push(Middleware::retry(
-                fn (int $retries, $request, ?ResponseInterface $response = null, ?Throwable $exception = null): bool
-                    => $this->shouldRetry($retries, $response, $exception),
+                fn (int $retries, $request, ?ResponseInterface $response = null, ?Throwable $exception = null): bool => $this->shouldRetry($retries, $response, $exception),
                 fn (int $retries): int => $retries * 1000
             ));
 
@@ -362,9 +339,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Add the secure domains (internal list) to the allowed domains.
-     *
-     * @param array $domains
-     * @return array
      */
     protected function addSecureDomains(array $domains): array
     {
@@ -375,14 +349,11 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Remove lines without a domain
-     *
-     * @param array $domains
-     * @return array
      */
     protected function removeLinesWithoutDomain(array $domains): array
     {
         return array_filter($domains, function ($domain) {
-            return ($domain !== "" && !str_starts_with($domain, "#"));
+            return $domain !== '' && ! str_starts_with($domain, '#');
         });
     }
 
@@ -390,13 +361,10 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * Clean the domains
      *
      * Remove the "*" and "." from the start of the domain.
-     *
-     * @param array $domains
-     * @return array
      */
-    function cleanDomains(array $domains): array
+    public function cleanDomains(array $domains): array
     {
-        return array_map(function($domain) {
+        return array_map(function ($domain) {
             if (str_starts_with($domain, '*.')) {
                 return substr($domain, 2);
             }
@@ -410,9 +378,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Normalize a list of domains, dropping any that normalize to an empty string.
-     *
-     * @param array $domains
-     * @return array
      */
     public function normalizeDomains(array $domains): array
     {
@@ -435,9 +400,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * intl extension on malformed input, and this command processes hundreds of
      * thousands of unvetted domains from external sources, so the risk is not
      * worth it for the rare non-ASCII entry.
-     *
-     * @param string $domain
-     * @return string
      */
     public function normalizeDomain(string $domain): string
     {
@@ -451,25 +413,19 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Remove the secure domains, and any of their subdomains, from the deny domains.
-     *
-     * @param array $domains
-     * @return array
      */
     protected function removeSecureDomains(array $domains): array
     {
         $secureLookup = $this->buildSecureLookup($this->secureDomainsArray ?? []);
 
         return array_filter($domains, function ($domain) use ($secureLookup) {
-            return !$this->isSecureDomain($domain, $secureLookup);
+            return ! $this->isSecureDomain($domain, $secureLookup);
         });
     }
 
     /**
      * Build a fast lookup set (domain => true) from the raw secure domains list,
      * skipping blank lines and comments.
-     *
-     * @param array $secureDomains
-     * @return array
      */
     protected function buildSecureLookup(array $secureDomains): array
     {
@@ -489,10 +445,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * exactly or is a subdomain of one. Matching happens on label boundaries,
      * so "myexample.com" is not treated as a subdomain of "example.com", and
      * "evil.co.uk" is not removed because of a secure "good.co.uk".
-     *
-     * @param string $domain
-     * @param array $secureLookup
-     * @return bool
      */
     public function isSecureDomain(string $domain, array $secureLookup): bool
     {
@@ -519,22 +471,16 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Remove the duplicates from a domain list.
-     *
-     * @param array $domains
-     * @return array
      */
     protected function removeDuplicates(array $domains): array
     {
         sort($domains, SORT_STRING);
+
         return array_unique($domains, SORT_STRING);
     }
 
     /**
      * Remove the allowed domains from the denied domains.
-     *
-     * @param array $denyDomains
-     * @param array $allowDomains
-     * @return array
      */
     protected function removeAllowedDomains(array $denyDomains, array $allowDomains): array
     {
@@ -546,10 +492,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      *
      * A run is acceptable when there is no previous baseline (first run) or
      * when the new size is at least $shrinkThreshold of the previous size.
-     *
-     * @param int $newCount
-     * @param int $previousCount
-     * @return bool
      */
     public function isDenyListSizeAcceptable(int $newCount, int $previousCount): bool
     {
@@ -562,13 +504,10 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Count the domains stored in an existing generated file.
-     *
-     * @param string $file
-     * @return int
      */
     protected function countExistingDomains(string $file): int
     {
-        if (!is_file($file)) {
+        if (! is_file($file)) {
             return 0;
         }
 
@@ -579,11 +518,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Save the domains to the text and json files.
-     *
-     * @param array $domains
-     * @param string $textFile
-     * @param string $jsonFile
-     * @return void
      */
     protected function saveToFiles(array $domains, string $textFile, string $jsonFile): void
     {
@@ -598,10 +532,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * every run and defeat the "commit only when the lists changed" check,
      * producing a commit every fifteen minutes. The generation time is already
      * available from the commit date.
-     *
-     * @param int $denyCount
-     * @param int $allowCount
-     * @return array
      */
     public function buildMetadata(int $denyCount, int $allowCount): array
     {
@@ -613,11 +543,6 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Write the metadata file as JSON.
-     *
-     * @param string $file
-     * @param int $denyCount
-     * @param int $allowCount
-     * @return void
      */
     public function writeMetadata(string $file, int $denyCount, int $allowCount): void
     {
@@ -626,12 +551,10 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
 
     /**
      * Commit the changes to the repository
-     *
-     * @return void
      */
     protected function commitChanges(): void
     {
-        exec('git -C .. add . && git -C .. commit -m ' . '"Updated automatically generated files. ' . Carbon::now()->utc() . ' UTC"');
-        exec('ssh-agent $(ssh-add ' . getenv('SSH_RSA_KEY_PATH') . ' -p ' . getenv('SSH_RSA_KEY_PASS') . '; git -C .. push)');
+        exec('git -C .. add . && git -C .. commit -m '.'"Updated automatically generated files. '.Carbon::now()->utc().' UTC"');
+        exec('ssh-agent $(ssh-add '.getenv('SSH_RSA_KEY_PATH').' -p '.getenv('SSH_RSA_KEY_PASS').'; git -C .. push)');
     }
 }
