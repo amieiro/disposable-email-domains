@@ -7,9 +7,9 @@ You can find [here](https://github.com/amieiro/disposable-email-domains/blob/mas
 ## Requirements
 
 The project requires:
-- **PHP 8.3 or 8.4**
+- **PHP 8.4**
 - **Composer 2.x**
-- **Laravel 12.x**
+- **Laravel 13.x**
 
 ## Contact
 
