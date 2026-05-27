@@ -91,6 +91,15 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     protected $secureDomainsFile = '../secureDomains.txt';
 
     /**
+     * The minimum fraction of the previous deny list size that a new run must
+     * reach before it is allowed to overwrite the files. Guards against an
+     * upstream source going down and silently shrinking the published list.
+     *
+     * @var float
+     */
+    protected float $shrinkThreshold = 0.9;
+
+    /**
      * The name and signature of the console command.
      *
      * @var string
@@ -137,6 +146,22 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
             $denyDomains = $this->removeAllowedDomains($denyDomains, $allowDomains);
+
+            $previousDenyCount = $this->countExistingDomains($this->textDenyFile);
+            if (!$this->isDenyListSizeAcceptable(count($denyDomains), $previousDenyCount)) {
+                $message = sprintf(
+                    'Aborting: the new deny list (%d domains) dropped below %d%% of the previous one (%d domains). '
+                    . 'Files were not overwritten, most likely an upstream source failed.',
+                    count($denyDomains),
+                    (int) round($this->shrinkThreshold * 100),
+                    $previousDenyCount
+                );
+                Log::error($message);
+                $this->error($message);
+
+                return 1; // Failure, leave the existing files untouched
+            }
+
             $this->saveToFiles($denyDomains, $this->textDenyFile, $this->jsonDenyFile);
 
             $allowDomains = $this->addSecureDomains($allowDomains);
@@ -275,6 +300,42 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     protected function removeAllowedDomains(array $denyDomains, array $allowDomains): array
     {
         return array_diff($denyDomains, $allowDomains);
+    }
+
+    /**
+     * Decide whether a newly built deny list is large enough to publish.
+     *
+     * A run is acceptable when there is no previous baseline (first run) or
+     * when the new size is at least $shrinkThreshold of the previous size.
+     *
+     * @param int $newCount
+     * @param int $previousCount
+     * @return bool
+     */
+    public function isDenyListSizeAcceptable(int $newCount, int $previousCount): bool
+    {
+        if ($previousCount <= 0) {
+            return true;
+        }
+
+        return $newCount >= (int) floor($previousCount * $this->shrinkThreshold);
+    }
+
+    /**
+     * Count the domains stored in an existing generated file.
+     *
+     * @param string $file
+     * @return int
+     */
+    protected function countExistingDomains(string $file): int
+    {
+        if (!is_file($file)) {
+            return 0;
+        }
+
+        $lines = file($file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+        return $lines === false ? 0 : count($lines);
     }
 
     /**

@@ -40,5 +40,13 @@ jobs:
         run: |
           git config --global user.name "Jesús Amieiro"
           git config --global user.email "amieiro@users.noreply.github.com"
-          git diff --quiet || git commit -am "Automatic generation"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          deny_total=$(grep -c '' denyDomains.txt)
+          allow_total=$(grep -c '' allowDomains.txt)
+          deny_stat=$(git diff --numstat -- denyDomains.txt | awk '{print "+"$1" -"$2}')
+          allow_stat=$(git diff --numstat -- allowDomains.txt | awk '{print "+"$1" -"$2}')
+          git commit -am "Automatic generation: deny ${deny_stat:-+0 -0} (total ${deny_total}), allow ${allow_stat:-+0 -0} (total ${allow_total})"
           git push
