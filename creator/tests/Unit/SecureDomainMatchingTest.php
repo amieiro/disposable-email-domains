@@ -71,14 +71,12 @@ class SecureDomainMatchingTest extends TestCase
     private function setSecureDomains(array $domains): void
     {
         $property = (new ReflectionClass($this->command))->getProperty('secureDomainsArray');
-        $property->setAccessible(true);
         $property->setValue($this->command, $domains);
     }
 
     private function invokeRemoveSecureDomains(array $domains): array
     {
         $method = (new ReflectionClass($this->command))->getMethod('removeSecureDomains');
-        $method->setAccessible(true);
 
         return $method->invoke($this->command, $domains);
     }
