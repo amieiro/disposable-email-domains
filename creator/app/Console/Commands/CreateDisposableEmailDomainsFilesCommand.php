@@ -165,6 +165,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $allowDomains = $this->removeLinesWithoutDomain($allowDomains);
             $denyDomains = $this->cleanDomains($denyDomains);
             $allowDomains = $this->cleanDomains($allowDomains);
+            $denyDomains = $this->normalizeDomains($denyDomains);
+            $allowDomains = $this->normalizeDomains($allowDomains);
 
             $denyDomains = $this->removeSecureDomains($denyDomains);
             $denyDomains = $this->removeDuplicates($denyDomains);
@@ -361,7 +363,8 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      */
     protected function addSecureDomains(array $domains): array
     {
-        $secureDomains = $this->removeLinesWithoutDomain( $this->secureDomainsArray );
+        $secureDomains = $this->normalizeDomains($this->removeLinesWithoutDomain($this->secureDomainsArray));
+
         return array_merge($domains, $secureDomains);
     }
 
@@ -401,6 +404,47 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     }
 
     /**
+     * Normalize a list of domains, dropping any that normalize to an empty string.
+     *
+     * @param array $domains
+     * @return array
+     */
+    public function normalizeDomains(array $domains): array
+    {
+        $normalized = [];
+        foreach ($domains as $domain) {
+            $domain = $this->normalizeDomain($domain);
+            if ($domain !== '') {
+                $normalized[] = $domain;
+            }
+        }
+
+        return $normalized;
+    }
+
+    /**
+     * Normalize a single domain so the lists store one canonical form: trimmed,
+     * without a trailing dot, and lowercased.
+     *
+     * Domains are not converted to punycode here. idn_to_ascii can crash the
+     * intl extension on malformed input, and this command processes hundreds of
+     * thousands of unvetted domains from external sources, so the risk is not
+     * worth it for the rare non-ASCII entry.
+     *
+     * @param string $domain
+     * @return string
+     */
+    public function normalizeDomain(string $domain): string
+    {
+        $domain = rtrim(trim($domain), '.');
+        if ($domain === '') {
+            return '';
+        }
+
+        return mb_strtolower($domain);
+    }
+
+    /**
      * Remove the secure domains, and any of their subdomains, from the deny domains.
      *
      * @param array $domains
@@ -426,7 +470,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
     {
         $lookup = [];
         foreach ($this->removeLinesWithoutDomain($secureDomains) as $secureDomain) {
-            $secureDomain = trim($secureDomain);
+            $secureDomain = $this->normalizeDomain($secureDomain);
             if ($secureDomain !== '') {
                 $lookup[$secureDomain] = true;
             }
