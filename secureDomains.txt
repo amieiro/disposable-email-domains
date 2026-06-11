@@ -31,18 +31,21 @@ africamail.com
 aim.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 aircraftmail.com
 
 # Added: 2025-01-28 (issue #28, commit ec9d8e9c) | Source: SimpleLogin by Proton alias domain (https://simplelogin.io/)
 aleeas.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 allergist.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 alumni.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 alumnidirector.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -52,6 +55,7 @@ angelic.com
 aol.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 appraiser.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -64,6 +68,7 @@ arcticmail.com
 artlover.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 asia-mail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -73,6 +78,7 @@ asia.com
 atheist.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 auctioneer.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -82,6 +88,7 @@ australiamail.com
 bartender.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 bellair.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -94,6 +101,7 @@ bikerider.com
 birdlover.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 blader.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -106,6 +114,7 @@ brazilmail.com
 brew-master.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 brew-meister.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -118,6 +127,7 @@ caliburn.us
 californiamail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 cash4u.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -161,6 +171,7 @@ columnist.com
 comic.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 computer4u.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -170,6 +181,7 @@ consultant.com
 contractor.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 coolsite.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -197,6 +209,7 @@ dallasmail.com
 dbzmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 deliveryman.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -209,6 +222,7 @@ disciples.com
 discofan.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 disposable.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -254,6 +268,7 @@ europemail.com
 execs.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 fastservice.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -293,6 +308,7 @@ graphic-designer.com
 greenmail.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 groupmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -308,18 +324,22 @@ hilarious.com
 hiphopfan.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 homemail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 hot-shot.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Microsoft Outlook/Hotmail domain (https://outlook.com/)
 hotmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 housemail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 humanoid.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Apple iCloud Mail domain (https://www.icloud.com/mail/)
@@ -332,16 +352,16 @@ iname.com
 innocent.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 inorbit.com
 
-# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
-# Audit 2026-06-11: no MX records, the domain no longer offers email. Formerly a mail.com domain.
-instruction.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 instructor.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 insurer.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -354,9 +374,11 @@ israelmail.com
 italymail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 job4u.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 journalist.com
 
 # Added: 2023-11-04 (commit 980ab2d0) | Source: Tuta (Tutanota) alias domain (https://tuta.com/)
@@ -390,6 +412,7 @@ lovecat.com
 madonnafan.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 mail-me.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -423,6 +446,7 @@ muslim.com
 myself.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 net-shopping.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -447,9 +471,11 @@ orthodontist.net
 outlook.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 pacific-ocean.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 pacificwest.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -465,9 +491,11 @@ photographer.net
 physicist.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 planetmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 planetmail.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -480,6 +508,7 @@ politician.com
 post.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 presidency.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -501,9 +530,11 @@ protonmail.com
 publicist.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 qualityservice.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 radiologist.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -531,12 +562,15 @@ religious.com
 repairman.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 representative.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 rescueteam.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 rocketship.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -546,9 +580,11 @@ safrica.com
 saintly.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 salesperson.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 samerica.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -573,6 +609,7 @@ simplelogin.io
 slmail.me
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 snakebite.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -582,6 +619,7 @@ socialworker.net
 sociologist.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 solution4u.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -597,6 +635,7 @@ startmail.com
 sudomail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 surgical.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -609,6 +648,7 @@ swissmail.com
 teachers.org
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 tech-center.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -642,6 +682,7 @@ tutanota.com
 tvstar.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 umpire.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
@@ -654,12 +695,15 @@ uymail.com
 webname.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 worker.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 workmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 writeme.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Yahoo Mail domain (https://mail.yahoo.com/)
