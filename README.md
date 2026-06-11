@@ -49,6 +49,10 @@ if (in_array($emailDomain, $denyDomains)) {
 }
 ```
 
+## Terms of service and privacy policy
+
+This project aggregates lists published by external sources and only maintains the secureDomains.txt file by hand, so the lists are offered as is, without any warranty or acceptance of liability. See the [terms of service](TERMS_OF_SERVICE.md) and the [privacy policy](PRIVACY_POLICY.md) for details.
+
 ## License
 
 This project and the files are open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
