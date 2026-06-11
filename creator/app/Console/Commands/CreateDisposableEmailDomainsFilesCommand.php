@@ -191,7 +191,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
             $allowDomains = $this->removeDuplicates($allowDomains);
             $this->saveToFiles($allowDomains, $this->textAllowFile, $this->jsonAllowFile);
 
-            $this->writeMetadata($this->metaFile, count($denyDomains), count($allowDomains));
+            $this->writeMetadata($this->metaFile, count($denyDomains), count($allowDomains), count($this->secureDomains()));
 
             // $this->commitChanges();
 
@@ -342,9 +342,15 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      */
     protected function addSecureDomains(array $domains): array
     {
-        $secureDomains = $this->normalizeDomains($this->removeLinesWithoutDomain($this->secureDomainsArray));
+        return array_merge($domains, $this->secureDomains());
+    }
 
-        return array_merge($domains, $secureDomains);
+    /**
+     * The secure domains (internal list), without comments or blank lines.
+     */
+    protected function secureDomains(): array
+    {
+        return $this->normalizeDomains($this->removeLinesWithoutDomain($this->secureDomainsArray ?? []));
     }
 
     /**
@@ -533,20 +539,21 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      * producing a commit every fifteen minutes. The generation time is already
      * available from the commit date.
      */
-    public function buildMetadata(int $denyCount, int $allowCount): array
+    public function buildMetadata(int $denyCount, int $allowCount, int $secureCount): array
     {
         return [
             'denyDomains' => $denyCount,
             'allowDomains' => $allowCount,
+            'secureDomains' => $secureCount,
         ];
     }
 
     /**
      * Write the metadata file as JSON.
      */
-    public function writeMetadata(string $file, int $denyCount, int $allowCount): void
+    public function writeMetadata(string $file, int $denyCount, int $allowCount, int $secureCount): void
     {
-        file_put_contents($file, json_encode($this->buildMetadata($denyCount, $allowCount), JSON_PRETTY_PRINT));
+        file_put_contents($file, json_encode($this->buildMetadata($denyCount, $allowCount, $secureCount), JSON_PRETTY_PRINT));
     }
 
     /**

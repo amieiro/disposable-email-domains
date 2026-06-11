@@ -1,4 +1,5 @@
 {
     "denyDomains": 203344,
-    "allowDomains": 967
+    "allowDomains": 967,
+    "secureDomains": 224
 }

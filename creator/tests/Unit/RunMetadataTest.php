@@ -18,8 +18,8 @@ class RunMetadataTest extends TestCase
     public function test_build_metadata_contains_the_counts(): void
     {
         $this->assertSame(
-            ['denyDomains' => 100, 'allowDomains' => 5],
-            $this->command->buildMetadata(100, 5)
+            ['denyDomains' => 100, 'allowDomains' => 5, 'secureDomains' => 7],
+            $this->command->buildMetadata(100, 5, 7)
         );
     }
 
@@ -28,10 +28,13 @@ class RunMetadataTest extends TestCase
         $path = tempnam(sys_get_temp_dir(), 'ded-meta-');
 
         try {
-            $this->command->writeMetadata($path, 198000, 960);
+            $this->command->writeMetadata($path, 198000, 960, 230);
 
             $decoded = json_decode(file_get_contents($path), true);
-            $this->assertSame(['denyDomains' => 198000, 'allowDomains' => 960], $decoded);
+            $this->assertSame(
+                ['denyDomains' => 198000, 'allowDomains' => 960, 'secureDomains' => 230],
+                $decoded
+            );
         } finally {
             @unlink($path);
         }
