@@ -224,3 +224,5 @@ yandex.com
 simplelogin.co
 simplelogin.io
 aleeas.com
+# Caliburn Technologies Inc. corporate domain (https://github.com/amieiro/disposable-email-domains/issues/54)
+caliburn.us
