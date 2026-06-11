@@ -1,228 +1,672 @@
-# List of free email address: https://www.mail.com/email/
-# and another well-known email domains
+# Internal allowlist of secure email domains. These domains, and their subdomains, are never
+# added to the deny list and are always merged into the allow list.
+# Each domain is preceded by a comment with the date it was added and its source.
+# Last full audit: 2026-06-11 (commit dates from git history, operators verified via MX records).
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 2trom.com
+
+# Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
 8alias.com
+
+# Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
 8shield.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 accountant.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 acdcfan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 activist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 adexec.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 africamail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: AOL Mail domain (https://www.aol.com/)
 aim.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 aircraftmail.com
-allergist.com
-alumni.com
-alumnidirector.com
-angelic.com
-aol.com
-appraiser.net
-archaeologist.com
-arcticmail.com
-artlover.com
-asia-mail.com
-asia.com
-atheist.com
-auctioneer.net
-australiamail.com
-bartender.net
-bellair.net
-berlin.com
-bikerider.com
-birdlover.com
-blader.com
-boardermail.com
-brazilmail.com
-brew-master.com
-brew-meister.com
-bsdmail.com
-californiamail.com
-cash4u.com
-catlover.com
-cheerful.com
-chef.net
-chemist.com
-chinamail.com
-clerk.com
-cloaked.com
-cloaked.dev
-cloaked.id
-clubmember.org
-collector.org
-columnist.com
-comic.com
-computer4u.com
-consultant.com
-contractor.net
-coolsite.net
-counsellor.com
-cutey.com
-cyber-wizard.com
-cyberdude.com
-cybergal.com
-cyberservices.com
-dallasmail.com
-dbzmail.com
-deliveryman.com
-diplomats.com
-disciples.com
-discofan.com
-disposable.com
-doglover.com
-doramail.com
-dr.com
-dralias.com
-dublin.com
-duck.com
-dutchmail.com
-elvisfan.com
-email.com
-engineer.com
-englandmail.com
-europe.com
-europemail.com
-execs.com
-fastservice.com
-financier.com
-fireman.net
-galaxyhit.com
-gardener.com
-geologist.com
-germanymail.com
-gmail.com
-gmx.com
-gmx.us
-googlemail.com
-graduate.org
-graphic-designer.com
-greenmail.net
-groupmail.com
-hackermail.com
-hairdresser.net
-hilarious.com
-hiphopfan.com
-homemail.com
-hot-shot.com
-hotmail.com
-housemail.com
-humanoid.net
-icloud.com
-iname.com
-innocent.com
-inorbit.com
-instruction.com
-instructor.net
-insurer.com
-irelandmail.com
-israelmail.com
-italymail.com
-job4u.com
-journalist.com
-keemail.me
-keromail.com
-kissfans.com
-kittymail.com
-koreamail.com
-legislator.com
-linuxmail.org
-lobbyist.com
-lovecat.com
-madonnafan.com
-mail-me.com
-mail.com
-marchmail.com
-metalfan.com
-mexicomail.com
-minister.com
-moscowmail.com
-munich.com
-musician.org
-muslim.com
-myself.com
-net-shopping.com
-ninfan.com
-nonpartisan.com
-null.net
-nycmail.com
-optician.com
-orthodontist.net
-outlook.com
-pacific-ocean.com
-pacificwest.com
-pediatrician.com
-petlover.com
-photographer.net
-physicist.net
-planetmail.com
-planetmail.net
-polandmail.com
-politician.com
-post.com
-presidency.com
-priest.com
-programmer.net
-protestant.com
-protonmail.ch
-protonmail.com
-publicist.com
-qualityservice.com
-radiologist.net
-ravemail.com
-realtyagent.com
-reborn.com
-reggaefan.com
-registerednurses.com
-reincarnate.com
-religious.com
-repairman.com
-representative.com
-rescueteam.com
-rocketship.com
-safrica.com
-saintly.com
-salesperson.net
-samerica.com
-sanfranmail.com
-scotlandmail.com
-secretary.net
-simplelogin.fr
-simplelogin.io
-slmail.me
-snakebite.com
-socialworker.net
-sociologist.com
-solution4u.com
-songwriter.net
-spainmail.com
-startmail.com
-sudomail.com
-surgical.net
-swedenmail.com
-swissmail.com
-teachers.org
-tech-center.com
-techie.com
-technologist.com
-theplate.com
-therapist.net
-toke.com
-toothfairy.com
-torontomail.com
-tuta.io
-tutanota.com
-tvstar.com
-umpire.com
-usa.com
-uymail.com
-webname.com
-worker.com
-workmail.com
-writeme.com
-yahoo.com
-yahoo.es
-yandex.com
-# Proton domains (https://proton.me/)
-simplelogin.co
-simplelogin.io
+
+# Added: 2025-01-28 (issue #28, commit ec9d8e9c) | Source: SimpleLogin by Proton alias domain (https://simplelogin.io/)
 aleeas.com
-# Caliburn Technologies Inc. corporate domain (https://github.com/amieiro/disposable-email-domains/issues/54)
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+allergist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+alumni.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+alumnidirector.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+angelic.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: AOL Mail domain (https://www.aol.com/)
+aol.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+appraiser.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+archaeologist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+arcticmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+artlover.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+asia-mail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+asia.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+atheist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+auctioneer.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+australiamail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+bartender.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+bellair.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+berlin.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+bikerider.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+birdlover.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+blader.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+boardermail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+brazilmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+brew-master.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+brew-meister.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+bsdmail.com
+
+# Added: 2026-06-11 (issue #54, commit e421a4c9) | Source: Caliburn Technologies Inc. corporate domain
 caliburn.us
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+californiamail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cash4u.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+catlover.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cheerful.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+chef.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+chemist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+chinamail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Audit 2026-06-11: now the corporate domain of Clerk Inc. (Google Workspace MX). Not disposable.
+clerk.com
+
+# Added: 2026-05-26 (issue #39, PR #41) | Source: Cloaked corporate domain (https://www.cloaked.com/)
+cloaked.com
+
+# Added: 2026-05-26 (issue #39, PR #41) | Source: Cloaked corporate domain (https://www.cloaked.com/)
+cloaked.dev
+
+# Added: 2026-05-26 (issue #39, PR #41) | Source: Cloaked corporate domain (https://www.cloaked.com/)
+cloaked.id
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+clubmember.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+collector.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+columnist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+comic.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+computer4u.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+consultant.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+contractor.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+coolsite.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+counsellor.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cutey.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cyber-wizard.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cyberdude.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cybergal.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+cyberservices.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+dallasmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+dbzmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+deliveryman.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+diplomats.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+disciples.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+discofan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+disposable.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+doglover.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+doramail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+dr.com
+
+# Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
+dralias.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+dublin.com
+
+# Added: 2023-10-29 (commit 1c453cfc) | Source: DuckDuckGo Email Protection (https://duckduckgo.com/email/)
+duck.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+dutchmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+elvisfan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+email.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+engineer.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+englandmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+europe.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+europemail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+execs.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+fastservice.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+financier.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+fireman.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+gardener.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+geologist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+germanymail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Gmail domain (https://mail.google.com/)
+gmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: GMX free email domain (https://www.gmx.com/)
+gmx.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: GMX free email domain (https://www.gmx.com/)
+gmx.us
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Gmail domain (https://mail.google.com/)
+googlemail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+graduate.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+graphic-designer.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+greenmail.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+groupmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+hackermail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+hairdresser.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+hilarious.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+hiphopfan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+homemail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+hot-shot.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Microsoft Outlook/Hotmail domain (https://outlook.com/)
+hotmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+housemail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+humanoid.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Apple iCloud Mail domain (https://www.icloud.com/mail/)
+icloud.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+iname.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+innocent.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+inorbit.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+# Audit 2026-06-11: no MX records, the domain no longer offers email. Formerly a mail.com domain.
+instruction.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+instructor.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+insurer.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+irelandmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+israelmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+italymail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+job4u.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+journalist.com
+
+# Added: 2023-11-04 (commit 980ab2d0) | Source: Tuta (Tutanota) alias domain (https://tuta.com/)
+keemail.me
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+keromail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+kissfans.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+kittymail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+koreamail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+legislator.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+linuxmail.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+lobbyist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+lovecat.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+madonnafan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+mail-me.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+mail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+marchmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+metalfan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+mexicomail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+minister.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+moscowmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+munich.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+musician.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+muslim.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+myself.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+net-shopping.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+ninfan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+nonpartisan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+null.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+nycmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+optician.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+orthodontist.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Microsoft Outlook/Hotmail domain (https://outlook.com/)
+outlook.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+pacific-ocean.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+pacificwest.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+pediatrician.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+petlover.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+photographer.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+physicist.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+planetmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+planetmail.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+polandmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+politician.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+post.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+presidency.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+priest.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+programmer.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+protestant.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Proton Mail domain (https://proton.me/mail)
+protonmail.ch
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Proton Mail domain (https://proton.me/mail)
+protonmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+publicist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+qualityservice.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+radiologist.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+ravemail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+realtyagent.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+reborn.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+reggaefan.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+registerednurses.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+reincarnate.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+religious.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+repairman.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+representative.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+rescueteam.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+rocketship.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+safrica.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+saintly.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+salesperson.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+samerica.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+sanfranmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+scotlandmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+secretary.net
+
+# Added: 2025-01-28 (issue #28, commit ec9d8e9c) | Source: SimpleLogin by Proton (https://simplelogin.io/)
+simplelogin.co
+
+# Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
+simplelogin.fr
+
+# Added: 2023-10-26 (commit cd8a4d01, re-added 2025-01-28 in issue #28) | Source: SimpleLogin (https://simplelogin.io/)
+simplelogin.io
+
+# Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
+slmail.me
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+snakebite.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+socialworker.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+sociologist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+solution4u.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+songwriter.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+spainmail.com
+
+# Added: 2025-06-18 (PR #29) | Source: StartMail email service (https://www.startmail.com/)
+startmail.com
+
+# Added: 2026-05-26 (issue #38, PR #40) | Source: MySudo email service by Anonyome Labs (https://mysudo.com/)
+sudomail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+surgical.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+swedenmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+swissmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+teachers.org
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+tech-center.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+techie.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+technologist.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+theplate.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+therapist.net
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+toke.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+toothfairy.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+torontomail.com
+
+# Added: 2023-11-05 (issue #21, commit 84bb3f2d) | Source: Tuta (Tutanota) email service (https://tuta.com/)
+tuta.io
+
+# Added: 2023-11-05 (issue #21, commit 84bb3f2d) | Source: Tuta (Tutanota) email service (https://tuta.com/)
+tutanota.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+tvstar.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+umpire.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+usa.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+uymail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+webname.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+worker.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+workmail.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
+writeme.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Yahoo Mail domain (https://mail.yahoo.com/)
+yahoo.com
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Yahoo Mail domain (https://mail.yahoo.com/)
+yahoo.es
+
+# Added: 2020-11-18 (commit 97d8e9a8) | Source: Yandex Mail domain (https://mail.yandex.com/)
+yandex.com
