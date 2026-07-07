@@ -3,8 +3,29 @@
 # Each domain is preceded by a comment with the date it was added and its source.
 # Last full audit: 2026-06-11 (commit dates from git history, operators verified via MX records).
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+123mail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+150mail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+150ml.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+16mail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+2-mail.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 2trom.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+4email.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+50mail.com
 
 # Added: 2023-10-26 (commit cd8a4d01) | Source: SimpleLogin alias domain (https://simplelogin.io/)
 8alias.com
@@ -34,12 +55,21 @@ aim.com
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 aircraftmail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+airpost.net
+
 # Added: 2025-01-28 (issue #28, commit ec9d8e9c) | Source: SimpleLogin by Proton alias domain (https://simplelogin.io/)
 aleeas.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+aliencamel.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 allergist.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+allmail.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 alumni.com
@@ -93,6 +123,9 @@ bellair.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 berlin.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+bestmail.us
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 bikerider.com
@@ -160,6 +193,9 @@ cloaked.id
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 clubmember.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+cluemail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 collector.org
@@ -246,11 +282,35 @@ duck.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 dutchmail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+elitemail.org
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 elvisfan.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 email.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailcorner.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailengine.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailengine.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailgroups.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailplus.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+emailuser.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+eml.cc
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 engineer.com
@@ -267,15 +327,132 @@ europemail.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 execs.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+f-m.fm
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fast-email.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fast-mail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastem.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastemail.us
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastemailer.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastest.cc
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastimap.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.ca
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.cn
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.co.uk
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.com.au
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.de
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.es
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.fm
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.fr
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.im
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.in
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.jp
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.mx
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.nl
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.se
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.to
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.tw
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.uk
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmail.us
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmailbox.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fastmessaging.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 fastservice.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fea.st
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 financier.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 fireman.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fmail.co.uk
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fmailbox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fmgirl.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+fmguy.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+foobox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+foobox.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+ftml.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 gardener.com
@@ -311,8 +488,14 @@ greenmail.net
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 groupmail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+h-mail.us
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 hackermail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+hailmail.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 hairdresser.net
@@ -345,6 +528,21 @@ humanoid.net
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Apple iCloud Mail domain (https://www.icloud.com/mail/)
 icloud.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+imap-mail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+imap.cc
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+imapmail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+immerbox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+immermail.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 iname.com
 
@@ -355,6 +553,8 @@ innocent.com
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 inorbit.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+inoutbox.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
@@ -363,6 +563,18 @@ instructor.net
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 insurer.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+internet-e-mail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+internet-mail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+internetemails.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+internetmailing.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 irelandmail.com
@@ -373,6 +585,9 @@ israelmail.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 italymail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+jetemail.net
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 job4u.com
@@ -380,6 +595,9 @@ job4u.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 journalist.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+justemail.net
 
 # Added: 2023-11-04 (commit 980ab2d0) | Source: Tuta (Tutanota) alias domain (https://tuta.com/)
 keemail.me
@@ -399,6 +617,12 @@ koreamail.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 legislator.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+letterboxes.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+lifetimeaddress.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 linuxmail.org
 
@@ -411,12 +635,63 @@ lovecat.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 madonnafan.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mail-central.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 mail-me.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mail-page.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 mail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailas.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailbolt.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailc.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailcan.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailforce.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailhaven.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailingaddress.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailite.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailmight.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailnew.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailsent.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailservice.ms
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailup.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailworks.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mailzone.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 marchmail.com
@@ -430,6 +705,12 @@ mexicomail.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 minister.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+ml1.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mm.st
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 moscowmail.com
 
@@ -441,6 +722,12 @@ musician.org
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 muslim.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+myfastmail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+mymacmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 myself.com
@@ -455,11 +742,17 @@ ninfan.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 nonpartisan.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+nospammail.net
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 null.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 nycmail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+onepost.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 optician.com
@@ -469,6 +762,9 @@ orthodontist.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Microsoft Outlook/Hotmail domain (https://outlook.com/)
 outlook.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+ownmail.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
@@ -481,8 +777,17 @@ pacificwest.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 pediatrician.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+penguinmail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+permanentmail.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 petlover.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+petml.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 photographer.net
@@ -498,6 +803,9 @@ planetmail.com
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 planetmail.net
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+pobox.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 polandmail.com
 
@@ -506,6 +814,12 @@ politician.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 post.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+postinbox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+postpro.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
@@ -516,6 +830,12 @@ priest.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 programmer.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+proinbox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+promessage.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 protestant.com
@@ -539,6 +859,15 @@ radiologist.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 ravemail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+realemail.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+reallyfast.biz
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+reallyfast.info
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 realtyagent.com
@@ -573,6 +902,9 @@ rescueteam.com
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 rocketship.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+rushpost.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 safrica.com
 
@@ -595,6 +927,21 @@ scotlandmail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 secretary.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+sent.as
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+sent.at
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+sent.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+siemprebox.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+siempremail.com
 
 # Added: 2025-01-28 (issue #28, commit ec9d8e9c) | Source: SimpleLogin by Proton (https://simplelogin.io/)
 simplelogin.co
@@ -628,6 +975,15 @@ songwriter.net
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 spainmail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+speedpost.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+speedymail.org
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+ssl-mail.com
+
 # Added: 2025-06-18 (PR #29) | Source: StartMail email service (https://www.startmail.com/)
 startmail.com
 
@@ -640,6 +996,9 @@ surgical.net
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 swedenmail.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+swift-mail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 swissmail.com
@@ -656,6 +1015,15 @@ techie.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 technologist.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+the-fastest.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+the-quickest.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+theinternetemail.com
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 theplate.com
@@ -691,6 +1059,18 @@ usa.com
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 uymail.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+veribox.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+veryfast.biz
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+veryspeedy.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+warpmail.net
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: mail.com free email domain (https://www.mail.com/email/)
 webname.com
 
@@ -706,6 +1086,9 @@ workmail.com
 # Note 2026-06-11: no longer offered to new sign-ups on https://www.mail.com/mail/domains/, MX still active
 writeme.com
 
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+xsmail.com
+
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Yahoo Mail domain (https://mail.yahoo.com/)
 yahoo.com
 
@@ -714,3 +1097,9 @@ yahoo.es
 
 # Added: 2020-11-18 (commit 97d8e9a8) | Source: Yandex Mail domain (https://mail.yandex.com/)
 yandex.com
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+yepmail.net
+
+# Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
+your-mail.com
