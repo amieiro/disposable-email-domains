@@ -1103,3 +1103,6 @@ yepmail.net
 
 # Added: 2026-07-07 (issue #57) | Source: Fastmail service domain (https://www.fastmail.help/hc/en-us/articles/6239365719055-What-domains-can-I-use-with-Fastmail)
 your-mail.com
+
+# Added: 2026-07-24 (issue #59) | Source: corporate domain of Zamana Inc since Oct 2025 (registered 2004, disposable use predates acquisition); MX on Google Workspace, SPF and DMARC published
+zamana.com
