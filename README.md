@@ -1,3 +1,7 @@
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 ## Disposable Email Domains
 
 Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format.
