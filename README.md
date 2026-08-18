@@ -49,6 +49,10 @@ if (in_array($emailDomain, $denyDomains)) {
 }
 ```
 
+## WordPress plugin
+
+If you run a WordPress site, you don't need to integrate these lists by hand: the [Peneira Disposable Email Blocker](https://wordpress.org/plugins/peneira-disposable-email-blocker/) plugin uses them to reject disposable email addresses on user registration, login, comments, and the main contact and commerce form plugins (Contact Form 7, WooCommerce, Gravity Forms, WPForms, Forminator, Ninja Forms and Fluent Forms). The plugin ships with a bundled copy of the lists, works without making any external requests, and can optionally refresh the lists from this repository on a schedule you choose.
+
 ## Terms of service and privacy policy
 
 This project aggregates lists published by external sources and only maintains the secureDomains.txt file by hand, so the lists are offered as is, without any warranty or acceptance of liability. See the [terms of service](TERMS_OF_SERVICE.md) and the [privacy policy](PRIVACY_POLICY.md) for details.
