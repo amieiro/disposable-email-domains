@@ -18135,7 +18135,6 @@ amguki.cf
 amguki.ga
 amguki.gq
 amguki.tk
-amgz.ru
 amhar.asia
 amharem.katowice.pl
 amharow.cieszyn.pl
@@ -27924,7 +27923,6 @@ belfastultimate.org
 belfieldcorp.net
 belfo.top
 belfon.net
-belfor.ru
 belgia-nedv.ru
 belgianairways.com
 belgrado.shop
@@ -70983,6 +70981,7 @@ flutiner.ga
 flutiner.gq
 flutiner.tk
 flutred.com
+fluxcontrol.com.co
 fluxfinancial.com
 fluxghost.com
 fluxhush.com
@@ -118027,7 +118026,6 @@ maohe.cloud
 maoil.ru
 maokai-lin.com
 maokeba.com
-maol.ru
 maomaaigang.ml
 maomaaigang.tk
 maomaocheng.com
@@ -130189,6 +130187,7 @@ netgdpr.com
 netgia.com
 netgo.chat
 netguide.com
+nethercottventures.net
 netherfieldvillagehall.co.uk
 netherlandsandyou.nl
 nethermon4ik.ru
@@ -130229,6 +130228,7 @@ netmails.com
 netmails.info
 netmails.net
 netmakente.com
+netmanor.com
 netmarketingforum.com
 netmeesters.com
 netmidiadesign.com
@@ -147012,6 +147012,7 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
+prasarana.com
 prasenor.com
 prass.me
 prastganteng.online
@@ -169270,7 +169271,6 @@ sosxao.xyz
 sosyalmedyayonetimi.online
 sosyalmerlin.online
 sosyalmerlin.xyz
-sot.ru
 sotae.kro.kr
 sotahmailz.ga
 sotayonline.com
@@ -205068,7 +205068,6 @@ ykssyqub.pro
 ykwmnt.fun
 ykxhd.club
 ykz.10mail.org
-yl.ru
 yl0661.com
 yl2bs4.us
 yl66.cfd
