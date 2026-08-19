@@ -44028,6 +44028,7 @@ client.festivalday.click
 client.gambolhq.click
 client.getcaper.click
 client.getgambol.click
+client.gettravellersrest.click
 client.getturnon.click
 client.hikehq.click
 client.holidayrap.click
@@ -46242,7 +46243,6 @@ condylfmail.ru
 condys.app
 conectado.ml
 conegotodosganan.com
-conestoga.com
 conexcol.com
 conf.work
 confeccionesdelnorte.com
@@ -57393,7 +57393,6 @@ dport.fun
 dport.site
 dpp7q4941.pl
 dpptd.com
-dpr.eu.com
 dprasu.sbs
 dpriders.com
 dprinceton.edu
@@ -60534,7 +60533,6 @@ edrishn.xyz
 edrus.ru
 edrxfast.com
 edsdf.dropmail.me
-edshau.com
 edshol.net
 edsindia.com
 edsocia.shop
@@ -170525,6 +170523,7 @@ spotifyseller.co
 spotifyupgrade.life
 spotistic.com
 spotitidku.me
+spotiy.site
 spotlessmamma.online
 spotlfy-security.com
 spotlightdiary.com
