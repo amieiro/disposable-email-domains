@@ -98,6 +98,7 @@ axa.es
 axios.com
 ba.com
 bakermckenzie.com
+banamex.com
 bankofamerica.com
 barclays.com
 barclayscorp.com
