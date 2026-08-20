@@ -149262,7 +149262,6 @@ publicadjusterinfo.com
 publicbeta.co
 publiccoward.com
 publicdomain.graphics
-publicdomainregistry.com
 publichobby.com
 publichosting.org
 publichub-vpn.net
@@ -204410,6 +204409,7 @@ yawua.us
 yaxoo.com
 yay.spymail.one
 yayahoo.com
+yayandex.ru
 yayazhibo.com
 yayinakisi.info
 yayincilikokulu.com
