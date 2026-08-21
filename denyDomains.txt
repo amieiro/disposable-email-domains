@@ -130292,7 +130292,6 @@ netmails.com
 netmails.info
 netmails.net
 netmakente.com
-netmanor.com
 netmarketingforum.com
 netmeesters.com
 netmidiadesign.com
@@ -196145,7 +196144,6 @@ web.thelifecentre.org.uk
 web.thomasblackerby.org.uk
 web.timbourkescholarshipfund.org
 web.trainthem2fish.co.uk
-web.tsdpt.co.uk
 web.tstrust.org.uk
 web.ukev.org
 web.valueineveryone.co.uk
