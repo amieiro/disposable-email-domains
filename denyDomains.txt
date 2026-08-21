@@ -5510,7 +5510,6 @@
 4-credit.com
 4-debt.com
 4-n.us
-4.3.3.7.0.7.3.0.e.2.a.8.0.0.0.0.0.0.0.0.3.a.5.8.8.b.d.0.1.0.0.2.fake.ip6.arpa.please.believe.it.is.not.a.tempmail.service.do.u.know.other.service.i.know.gmail.com.and.so.on.if.you.want.a.real.email.address.you.can.use.https.www.163.com.fakemail.cc.cd
 4.andshopin.xyz
 4.bahannes.network
 4.batikbantul.com
@@ -60609,7 +60608,6 @@ edu.happyheadshed.org
 edu.healingheartmission.org
 edu.howardgiving.org
 edu.hstu.eu.org
-edu.ickletonrelief.co.uk
 edu.isouju.com
 edu.jamesthynnealmshouse.co.uk
 edu.jjfcharitabletrust.co.uk
@@ -62378,7 +62376,6 @@ email.specialneedscircle.co.uk
 email.stpaulsgrammaralumniusa.org
 email.su
 email.surbitonnewlifebaptist.com
-email.sytchamptoncc.co.uk
 email.teamnewmexico.org
 email.thedorsetcarershub.org
 email.thelifecentre.org.uk
@@ -78465,6 +78462,7 @@ gmail.sojaliebe.de
 gmail.spymail.one
 gmail.teml.net
 gmail.tmpeml.com
+gmail.tsdpt.co.uk
 gmail.twitter.xwle.me
 gmail.ukev.org
 gmail.vo.uk
@@ -115940,7 +115938,6 @@ mailboxy.fun
 mailboxy.ru
 mailboxy.store
 mailbozo.space
-mailbr.com.br
 mailbrazil.space
 mailbrazilhosts.space
 mailbrazilnet.space
@@ -157785,7 +157782,6 @@ roomy-hostel.ru
 rooqie.com
 roorkee.in
 rooseveltmail.com
-roosh.com
 rooster-pil-pil-ballincollig.com
 rooststellarsmelt.site
 root-server.xyz
@@ -192618,7 +192614,6 @@ vip.specialneedscircle.co.uk
 vip.stpaulsgrammaralumniusa.org
 vip.stu.office.gy
 vip.surbitonnewlifebaptist.com
-vip.sytchamptoncc.co.uk
 vip.teamnewmexico.org
 vip.thedorsetcarershub.org
 vip.thelifecentre.org.uk
@@ -198470,7 +198465,6 @@ wiseeyessecurity.com
 wiseflow.se
 wisehomepurchasing.com
 wiseideas.com
-wiseiye.com
 wisepromo.com
 wiserspots.com
 wiseval.com
