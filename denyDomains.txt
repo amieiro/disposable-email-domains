@@ -70147,6 +70147,7 @@ firestore.pl
 firestryke.com
 firestylemail.tk
 firetekfiringsystems.com
+firetempmail.com
 firetopia.online
 firevine.net
 firevisa.com
@@ -81450,7 +81451,6 @@ grupodinamax.com
 grupogdm.com
 grupoh2.net
 grupolove.com
-grupopetropolis.com
 gruporedlomas.com
 grupos-telegram.com
 gruposantander.cd
@@ -147343,6 +147343,7 @@ pranobun.tk
 pranto.me
 prapto.host
 prasannasafetynets.com
+prasarana.com
 prasenor.com
 prass.me
 prastganteng.online
