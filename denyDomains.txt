@@ -79004,6 +79004,7 @@ goal11casinologin.info
 goal11casinologin.org
 goal2.com
 goalhere.cd
+goalmillion.online
 goalofgtr.tk
 goalraitdvq.email
 goalstats.net
@@ -103079,6 +103080,7 @@ klefv.com
 klefv6.com
 kleiderboutique.de
 kleiderhaken.shop
+kleinanzeigen-verification.de
 kleinbottle.ru
 kleinbroadcast.com
 kleinisd.com
@@ -135642,7 +135644,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:13d2034ea536c8df72c8b48fd5eb617b684dbf794fc06106b40951abaa63cb1c
+oid sha256:fd4a63ac7cbc2f862308b8b64c6297e79d9e6bdd731557c28cc154ed107c6133
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -166706,7 +166708,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 673959
+size 674126
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -182259,6 +182261,7 @@ toolquit.com
 toolreviews.tech
 tools-capcut.com
 tools.luckympovip.com
+toolsequipment.cyou
 toolsfly.com
 toolsig.team
 toolsinsider.buzz
