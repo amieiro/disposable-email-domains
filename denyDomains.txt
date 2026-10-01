@@ -23384,7 +23384,6 @@ autogenrsmail.ru
 autoglassreplacementpros.com
 autognz.com
 autogradka.pl
-autograf.pl
 autograph34.ru
 autoguruja.com
 autohotline.us
@@ -68867,6 +68866,7 @@ fb.hex2.ml
 fb.isorada.com
 fb.laste.ml
 fb.opheliia.com
+fb1.bex.ro
 fb2a.site
 fb2aa.site
 fb2ab.site
@@ -111549,6 +111549,7 @@ locomobile.xyz
 locomodev.net
 loconetinvestments.org
 locoonoo.xyz
+locos.com
 locose.xyz
 locoxo.site
 locpecom.cf
@@ -116698,6 +116699,7 @@ mail2save.com
 mail2savings.com
 mail2school.com
 mail2scientist.com
+mail2scorpio.com
 mail2scott.com
 mail2sean.com
 mail2search.com
@@ -128624,6 +128626,7 @@ myboatsibiza.com
 mybook.vegas
 mybookguide.site
 mybovip.com
+mybox.it
 mybpay.shop
 mybrainsme.fun
 mybreathegreenpure.com
@@ -137075,7 +137078,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:dcc7aa30abac48c26734b9daac7a32f5bf082d49b56694a221c56a66216ba3cf
+oid sha256:550d5fa22b11870dd103ba71245c9cbf239ed222b80d0c073b090a7f62d17782
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -138254,8 +138257,6 @@ onestopwv.com
 onestpeters.com
 onet-pol.xyz
 onet.com
-onet.com.pl
-onet.eu
 onet.pl
 onetab.fr
 onetag.org
@@ -138880,7 +138881,6 @@ ooxygenn.tech
 ooynib.com
 ooyoho.com
 ooyv.homes
-op.pl
 op.xn--yaho-sqa.com
 op82new.shop
 opa.spymail.one
@@ -139140,7 +139140,6 @@ opmtr.online
 opmtr.xyz
 opna.me
 opno.life
-opoczta.pl
 opoezdke.com
 opog.hair
 opog.skin
@@ -168488,7 +168487,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 665113
+size 664924
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -172170,7 +172169,6 @@ spokanenailsalons.com
 spokaneparks.com
 spokaneparks.net
 spokedcity.com
-spoko.pl
 spoksy.info
 spolujizda.info
 spomium.my.id
@@ -178381,6 +178379,7 @@ tcc.on.ca
 tccho.com
 tcd9.asia
 tcd9.us
+tcdatacenter.com
 tceweb.com
 tcflive.net
 tcfr2ulcl9cs.cf
@@ -196047,7 +196046,6 @@ vp.com
 vp.emlhub.com
 vp.emltmp.com
 vp.laste.ml
-vp.pl
 vp.ycare.de
 vp113.lavaweb.in
 vp4zy.us
@@ -196754,6 +196752,7 @@ vxa34.space
 vxc.edgac.com
 vxcae9z14z.xyz
 vxcbe12x.com
+vxchnge.com
 vxcreation.net
 vxcs.pro
 vxdsth.xyz
