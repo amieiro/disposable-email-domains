@@ -54,6 +54,7 @@ anthem.com
 aol.co.uk
 aol.com
 apache.org
+apleo.com
 appfolio.com
 apple.com
 appomni.com
@@ -278,6 +279,7 @@ e2estudios.com
 ebay.co.uk
 ebay.com
 echosign.com
+ecmail.com
 economist.com
 elastic.co
 elementum.io
@@ -321,6 +323,7 @@ facebookenterprise.com
 facebookmail.com
 fadv.com
 fake.com
+faktionlabs.com
 fast-email.com
 fast-mail.org
 fastcompany.com
@@ -813,6 +816,7 @@ sfr.fr
 sharp.com
 shitware.nl
 shop.app
+shopeeboost.com
 shopify.com
 shutterstock.com
 sibmail.com
@@ -879,6 +883,7 @@ t-mobile.com
 talktalk.net
 target.com
 taxacte-file.com
+taylorventuresllc.com
 td.com
 tdbank.com
 teachers.org
