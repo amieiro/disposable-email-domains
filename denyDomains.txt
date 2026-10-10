@@ -137054,7 +137054,7 @@ oibo.xyz
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:1b1217154d0c99fec0fe4acbe4cb3a42246307341163f6c00d50cb7961eb49a2
+oid sha256:0d073184d588dec0aa432a395749655e877c634f15c55240e81ea996a60ff034
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -168574,7 +168574,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 658883
+size 655642
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -200129,6 +200129,7 @@ wikilibhub.ru
 wikilimpieza.com
 wikimastery.net
 wikimediane.org
+wikimedical.org
 wikinime.com
 wikinoir.com
 wikipedi.biz
