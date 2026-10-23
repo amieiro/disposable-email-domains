@@ -69681,6 +69681,7 @@ fb.hex2.ml
 fb.isorada.com
 fb.laste.ml
 fb.opheliia.com
+fb1.bex.ro
 fb2a.site
 fb2aa.site
 fb2ab.site
@@ -91975,7 +91976,6 @@ i.organiccrap.com
 i.ploooop.com
 i.polosburberry.com
 i.qwertylock.com
-i.r-6.usa.cc
 i.ryanb.com
 i.shamroad.com
 i.shavers.skin
@@ -138052,7 +138052,7 @@ oicar.sld.tw
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:068f02b5f6d6fd21c2b88c20fec9f80c314d077e339159ec577a5d8f6f60d77c
+oid sha256:967717d210501f5f404c1a1ae51d03ea6980389f0495f53e4f50cfb8ba619944
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -149174,7 +149174,6 @@ posteo.ie
 posteo.in
 posteo.is
 posteo.jp
-posteo.la
 posteo.li
 posteo.lt
 posteo.lu
@@ -149188,10 +149187,8 @@ posteo.pe
 posteo.pl
 posteo.pm
 posteo.pt
-posteo.ro
 posteo.ru
 posteo.se
-posteo.sg
 posteo.si
 posteo.tn
 posteo.uk
@@ -152530,6 +152527,7 @@ pw.mymy.cf
 pw.mysafe.ml
 pw.nut.cc
 pw.r4.dns-cloud.net
+pw.rs6.usa.cc
 pw.securemail.usa.cc
 pw8999.com
 pwbs.de
@@ -169821,7 +169819,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 682645
+size 677458
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
