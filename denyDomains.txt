@@ -152592,7 +152592,6 @@ pw-mail.gq
 pw-mail.ml
 pw-mail.tk
 pw.8.dnsabr.com
-pw.area51.usa.cc
 pw.email-mail.cf
 pw.epac.to
 pw.flu.cc
@@ -152606,6 +152605,7 @@ pw.mysafe.ml
 pw.nut.cc
 pw.r4.dns-cloud.net
 pw.rs6.usa.cc
+pw.securemail.usa.cc
 pw8999.com
 pwbs.de
 pwcollege.me
