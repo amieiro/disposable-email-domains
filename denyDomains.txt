@@ -58215,6 +58215,7 @@ dophs.stream
 dopic.xyz
 dopiset.com
 dopisivanje.in.rs
+dopler.ru
 dopp.me
 doppelgengler.com
 doppioclick.it
@@ -63469,7 +63470,6 @@ elos-sept.ru
 elot.zeras.store
 eloud.info
 elouhouse.co
-elp.rr.com
 elp0xn.us
 elpacar.cf
 elpacar.ga
@@ -65242,6 +65242,7 @@ ep.yomail.info
 ep77.com
 epaco9t.loseyourip.com
 epage.ru
+epailive.com
 epaj40wss.buzz
 epam-hellas.org
 eparis.pl
@@ -91305,7 +91306,6 @@ hvav.com
 hvav.spymail.one
 hvb-pay.com
 hvba.us
-hvc.rr.com
 hvdj.10mail.xyz
 hvdq.site
 hvgmgh.icu
@@ -103421,7 +103421,6 @@ kbzdl1.site
 kc-kenes.kz
 kc-leasemanagement.com
 kc-ufa.ru
-kc.rr.com
 kc.spymail.one
 kc123app.com
 kc1590.com
@@ -115341,7 +115340,6 @@ ma-perceuse.net
 ma.567map.xyz
 ma.ezua.com
 ma.laste.ml
-ma.rr.com
 ma.ru
 ma.zyns.com
 ma1l.bij.pl
@@ -135914,6 +135912,7 @@ nyc.org
 nyc.rr.com
 nyc2way.com
 nyc360news.com
+nycap.rr.com
 nycbitcoinpro.com
 nyccaner.cf
 nyccaner.ga
@@ -137277,7 +137276,7 @@ oicar.sld.tw
 oicemail.com
 oiche.xyz
 oicweoman2020.com
-oid sha256:dbb0ec3f536091b9339421a38e6f3fe163c1d3d28bd22dfcd640ae984c0ea1d7
+oid sha256:f6b5102ea0d073b46143cfcd01fe6c28ee29c2576ce8be48713e9e9b4f8800d6
 oid.emlhub.com
 oida.icu
 oidemail.com
@@ -139624,7 +139623,6 @@ orang.ml
 orangatango.com
 orangdalem.org
 orange-bonplan.com
-orange-tkl.co.ke
 orangecamel.info
 orangecountycotillion.com
 orangecountycouplescounseling.org
@@ -148407,7 +148405,6 @@ posteo.ru
 posteo.se
 posteo.sg
 posteo.si
-posteo.tn
 posteo.uk
 postermaker.store
 postermanderson.com
@@ -169064,7 +169061,7 @@ siyeu.com
 siyiel.icu
 siyonastudio.com
 sizableonline.info
-size 686206
+size 674741
 size.verywd.com
 sizeconvert.xyz
 sizemc.store
@@ -170925,6 +170922,7 @@ sobterstread.ml
 sobterstread.tk
 soc123.net
 socailmarketing.ir
+socal.rr.com
 socalbikini.com
 socalbrewnet.com
 socalgamers5.info
@@ -179906,7 +179904,6 @@ teleworm.us
 telexplorer.info
 telfordpasy.info
 telfort.nl
-telfortglasvezel.nl
 telfty.com
 telgnik.best
 telialebanon.com
@@ -203141,7 +203138,6 @@ www.rosedaleplumbing.ca
 www.sharklasers.com
 www.temporary-mail.net
 www.thestopplus.com
-www.topshop.com.hr
 www.wellaofis.com.tr
 www.whirlygirlink.org
 www.yopmail.com
@@ -209333,7 +209329,6 @@ ysgff.capcutsda.cyou
 ysgjzhjeos6f.best
 ysgldvux.shop
 yshdnhh.click
-yshoo.co
 ysir.com
 ysjam.yutusaba.cfd
 yskganda.org
