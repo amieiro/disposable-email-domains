@@ -151,7 +151,7 @@ class CreateDisposableEmailDomainsFilesCommand extends Command
      */
     public function handle(): int
     {
-        ini_set('memory_limit', '256M');
+        ini_set('memory_limit', '1024M');
         $denyDomains = [];
         $allowDomains = [];
 
